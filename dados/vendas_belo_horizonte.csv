@@ -1,0 +1,1001 @@
+﻿id_venda;data_venda;nome_vendedor;nome_comprador;meio_pagamento;quantidade;preco_unitario;valor_total;local_empresa;produto;codigo_produto;segmento_produto
+1;25/04/2023;Alice Araújo;Bianca Aparecida;Cartão;2;22,26;44,52;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+2;16/01/2023;Maria Luísa Almeida;Lucas Freitas;Pix;9;52,6;473,4;Belo Horizonte;Câmera DSLR;PROD007;Eletrônicos
+3;29/11/2023;Dra. Ester Ferreira;Guilherme Rios;Pix;9;304,99;2744,91;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+4;24/12/2023;Dr. Erick Leão;Dr. Ryan Cirino;Boleto;8;298,74;2389,92;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+5;17/02/2023;Dr. Erick Leão;Ana Nascimento;Boleto;3;115,5;346,5;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+6;02/10/2023;Maria Luísa Almeida;Otávio Rezende;Cartão;6;305,83;1834,98;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+7;23/10/2023;Dante Vasconcelos;Diego da Costa;Cartão;9;153,66;1382,94;Belo Horizonte;Micro-ondas;PROD010;Informática
+8;30/04/2023;Maria Luísa Almeida;Otávio Rezende;Boleto;1;334,02;334,02;Belo Horizonte;Fogão;PROD005;Eletrônicos
+9;09/07/2023;Igor Alves;Lucas Freitas;Boleto;8;321,49;2571,92;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+10;25/03/2023;José Pedro Guerra;Otávio Rezende;Boleto;2;308,47;616,94;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+11;28/04/2023;Emanuelly Costa;Alana Oliveira;Dinheiro;9;117,61;1058,49;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+12;19/04/2023;José Pedro Guerra;Thomas Pimenta;Dinheiro;5;42,43;212,15;Belo Horizonte;Micro-ondas;PROD010;Informática
+13;27/10/2023;Dr. Erick Leão;José Pedro da Rocha;Dinheiro;3;139,79;419,37;Belo Horizonte;Geladeira;PROD004;Informática
+14;16/02/2023;Emanuelly Costa;Bárbara Macedo;Pix;6;117,47;704,82;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+15;17/07/2023;Dr. Erick Leão;Allana da Cruz;Dinheiro;3;398,12;1194,36;Belo Horizonte;Câmera DSLR;PROD007;Eletrônicos
+16;15/12/2023;Maria Luísa Almeida;Vinícius Moreira;Boleto;9;133,19;1198,71;Belo Horizonte;Tablet;PROD009;Eletrônicos
+17;21/08/2023;Emanuelly Costa;Miguel Leão;Boleto;6;64,66;387,96;Belo Horizonte;Câmera DSLR;PROD007;Eletrodomésticos
+18;17/11/2023;Alícia Cassiano;Dra. Liz da Costa;Pix;9;383,36;3450,24;Belo Horizonte;Tablet;PROD009;Eletrônicos
+19;03/11/2023;Igor Alves;João Miguel Castro;Cartão;3;193,22;579,66;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+20;30/01/2023;Dante Vasconcelos;Laura Santos;Cartão;2;465,26;930,52;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+21;07/03/2023;José Pedro Guerra;Elisa Rios;Pix;2;368,63;737,26;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+22;19/04/2023;Dra. Ester Ferreira;Sr. Benicio Câmara;Pix;5;268,56;1342,8;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+23;22/09/2023;José Pedro Guerra;Bárbara Macedo;Pix;5;205,51;1027,55;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+24;29/10/2023;Dante Vasconcelos;Lorenzo Silva;Cartão;4;41,37;165,48;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+25;06/02/2023;Dra. Ester Ferreira;Maria Laura Aparecida;Boleto;1;122,18;122,18;Belo Horizonte;Smartphone;PROD001;Informática
+26;05/05/2023;José Pedro Guerra;Guilherme Rios;Pix;8;114,98;919,84;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+27;05/08/2023;Dr. Erick Leão;Luiz Fernando Freitas;Cartão;2;57,5;115;Belo Horizonte;Câmera DSLR;PROD007;Informática
+28;08/05/2023;Dante Vasconcelos;Dra. Evelyn Rezende;Dinheiro;2;39,7;79,4;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+29;08/05/2023;Maria Luísa Almeida;Clara Machado;Cartão;3;216,72;650,16;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+30;17/02/2023;Dante Vasconcelos;Dra. Luna Ferreira;Dinheiro;1;329,55;329,55;Belo Horizonte;Tablet;PROD009;Eletrônicos
+31;26/03/2023;Dr. Erick Leão;Lorenzo Silva;Dinheiro;8;245,87;1966,96;Belo Horizonte;Câmera DSLR;PROD007;Eletrônicos
+32;05/08/2023;Dra. Ester Ferreira;Maria Julia Mendonça;Dinheiro;5;463,99;2319,95;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+33;24/10/2023;Dra. Ester Ferreira;Otto Fonseca;Boleto;3;103,05;309,15;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+34;30/01/2023;Dra. Ester Ferreira;Letícia Novais;Pix;1;34,57;34,57;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+35;03/03/2023;Srta. Jade Silva;Maria Laura Aparecida;Cartão;2;301,57;603,14;Belo Horizonte;Geladeira;PROD004;Áudio e Vídeo
+36;14/05/2023;Dante Vasconcelos;Maria Julia Mendonça;Boleto;10;50,17;501,7;Belo Horizonte;Micro-ondas;PROD010;Informática
+37;23/08/2023;Igor Alves;Sr. Benicio Câmara;Cartão;4;140,15;560,6;Belo Horizonte;TV 4K;PROD003;Informática
+38;07/02/2023;Dra. Ester Ferreira;Lucas Freitas;Boleto;1;234,56;234,56;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+39;09/07/2023;Alícia Cassiano;Dra. Luna Ferreira;Dinheiro;3;467,3;1401,9;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+40;08/12/2023;Dra. Ester Ferreira;Ísis Dias;Cartão;9;354,73;3192,57;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+41;20/05/2023;Alícia Cassiano;Allana da Cruz;Pix;3;139,59;418,77;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+42;09/05/2023;Emanuelly Costa;Letícia Novais;Dinheiro;6;109,76;658,56;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+43;23/11/2023;Alícia Cassiano;Dra. Luna Ferreira;Dinheiro;5;31,6;158;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+44;27/02/2023;Maria Luísa Almeida;Maria Liz Castro;Pix;9;355,78;3202,02;Belo Horizonte;Tablet;PROD009;Eletrônicos
+45;09/08/2023;Alice Araújo;Liz Macedo;Boleto;9;27,65;248,85;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+46;18/04/2023;Dante Vasconcelos;Maria Julia Mendonça;Cartão;6;450,5;2703;Belo Horizonte;Smartphone;PROD001;Informática
+47;02/05/2023;Alice Araújo;Thales Cavalcante;Dinheiro;6;392,26;2353,56;Belo Horizonte;Câmera DSLR;PROD007;Eletrodomésticos
+48;09/12/2023;Dante Vasconcelos;Luara Cardoso;Pix;1;97,89;97,89;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+49;24/04/2023;Dante Vasconcelos;Luiz Fernando Freitas;Boleto;2;197,45;394,9;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+50;13/01/2023;Dante Vasconcelos;Thomas Pimenta;Boleto;5;412,06;2060,3;Belo Horizonte;Geladeira;PROD004;Eletrodomésticos
+51;25/11/2023;Dra. Ester Ferreira;Thomas Pimenta;Boleto;5;433,53;2167,65;Belo Horizonte;Fogão;PROD005;Informática
+52;25/10/2023;Alícia Cassiano;Liz Macedo;Cartão;1;66,52;66,52;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+53;07/11/2023;Dra. Ester Ferreira;Bárbara Macedo;Dinheiro;10;222,94;2229,4;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+54;01/01/2023;Dra. Ester Ferreira;Dra. Rafaela Câmara;Pix;10;103,14;1031,4;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+55;06/12/2023;Maria Luísa Almeida;Miguel Leão;Boleto;6;221,34;1328,04;Belo Horizonte;Máquina de Lavar;PROD006;Informática
+56;26/07/2023;Alícia Cassiano;Elisa Rios;Pix;9;161,55;1453,95;Belo Horizonte;Câmera DSLR;PROD007;Informática
+57;12/11/2023;Srta. Jade Silva;Ísis Dias;Dinheiro;4;216,02;864,08;Belo Horizonte;Câmera DSLR;PROD007;Eletrodomésticos
+58;18/04/2023;Dr. Erick Leão;José Pedro da Rocha;Boleto;9;418,53;3766,77;Belo Horizonte;Fogão;PROD005;Informática
+59;28/03/2023;Maria Luísa Almeida;Maria Cecília Ramos;Boleto;8;226,48;1811,84;Belo Horizonte;Geladeira;PROD004;Áudio e Vídeo
+60;26/04/2023;Dante Vasconcelos;Maria Sophia Pimenta;Cartão;2;411,03;822,06;Belo Horizonte;Geladeira;PROD004;Informática
+61;22/08/2023;Dr. Erick Leão;Dra. Liz da Costa;Pix;1;129,97;129,97;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+62;02/12/2023;Emanuelly Costa;Sr. Benicio Câmara;Cartão;7;252,24;1765,68;Belo Horizonte;Geladeira;PROD004;Eletrodomésticos
+63;26/01/2023;Dra. Ester Ferreira;Maria Laura Aparecida;Cartão;7;117,23;820,61;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+64;15/08/2023;Srta. Jade Silva;Miguel Leão;Dinheiro;8;75,34;602,72;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+65;19/08/2023;Alícia Cassiano;Sr. Benicio Câmara;Pix;9;228,5;2056,5;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+66;17/11/2023;Dante Vasconcelos;Luara Cardoso;Dinheiro;5;385,25;1926,25;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+67;21/06/2023;Igor Alves;Dra. Rafaela Câmara;Cartão;2;359,64;719,28;Belo Horizonte;Geladeira;PROD004;Informática
+68;28/12/2023;Dante Vasconcelos;Gael Souza;Dinheiro;3;83,91;251,73;Belo Horizonte;Câmera DSLR;PROD007;Eletrodomésticos
+69;01/02/2023;Dante Vasconcelos;Guilherme Rios;Dinheiro;7;172,13;1204,91;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+70;02/09/2023;Emanuelly Costa;Stella da Rosa;Boleto;10;473,57;4735,7;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+71;07/09/2023;Dante Vasconcelos;Luara Cardoso;Dinheiro;7;428,19;2997,33;Belo Horizonte;Câmera DSLR;PROD007;Eletrodomésticos
+72;26/03/2023;José Pedro Guerra;Srta. Eloá Rocha;Cartão;8;24,22;193,76;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+73;26/11/2023;Dr. Erick Leão;Srta. Eloá Rocha;Dinheiro;7;300,03;2100,21;Belo Horizonte;Smartphone;PROD001;Eletrônicos
+74;19/04/2023;José Pedro Guerra;Alana Oliveira;Boleto;3;34,64;103,92;Belo Horizonte;Câmera DSLR;PROD007;Informática
+75;11/02/2023;José Pedro Guerra;Dr. Léo Pires;Cartão;7;146,35;1024,45;Belo Horizonte;Câmera DSLR;PROD007;Informática
+76;16/01/2023;Dante Vasconcelos;Dra. Evelyn Rezende;Cartão;6;119,87;719,22;Belo Horizonte;Notebook;PROD002;Eletrônicos
+77;09/12/2023;Maria Luísa Almeida;Laura Santos;Pix;10;84,67;846,7;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+78;07/11/2023;Srta. Jade Silva;Bianca Aparecida;Cartão;8;352,74;2821,92;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+79;09/06/2023;Srta. Jade Silva;Vinícius Moreira;Dinheiro;3;482,71;1448,13;Belo Horizonte;Notebook;PROD002;Eletrônicos
+80;31/10/2023;Dante Vasconcelos;Ana Nascimento;Boleto;7;471,32;3299,24;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+81;27/06/2023;Dra. Ester Ferreira;Thiago Souza;Boleto;10;404,71;4047,1;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+82;04/08/2023;José Pedro Guerra;Ana Nascimento;Dinheiro;2;257,92;515,84;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+83;11/08/2023;Alice Araújo;Miguel Leão;Boleto;6;321,44;1928,64;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+84;27/08/2023;Dr. Erick Leão;Miguel Leão;Boleto;10;406,02;4060,2;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+85;19/08/2023;Dante Vasconcelos;Sr. Benicio Câmara;Dinheiro;6;427,34;2564,04;Belo Horizonte;Notebook;PROD002;Informática
+86;15/01/2023;José Pedro Guerra;Alana Oliveira;Pix;10;309,06;3090,6;Belo Horizonte;Câmera DSLR;PROD007;Informática
+87;24/05/2023;Srta. Jade Silva;Maria Liz Castro;Boleto;8;113,94;911,52;Belo Horizonte;Fogão;PROD005;Informática
+88;04/05/2023;Dr. Erick Leão;João Miguel Castro;Pix;9;14,97;134,73;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+89;09/01/2023;Maria Luísa Almeida;Maria Cecília Ramos;Pix;8;326,49;2611,92;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+90;31/08/2023;Dra. Ester Ferreira;Rebeca Lopes;Boleto;7;348,98;2442,86;Belo Horizonte;Fogão;PROD005;Informática
+91;30/06/2023;José Pedro Guerra;Luara Cardoso;Boleto;7;498,35;3488,45;Belo Horizonte;Tablet;PROD009;Informática
+92;03/03/2023;Dra. Ester Ferreira;Sr. Benicio Câmara;Pix;5;122,96;614,8;Belo Horizonte;Geladeira;PROD004;Informática
+93;29/10/2023;Dra. Ester Ferreira;Allana da Cruz;Boleto;4;116,03;464,12;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+94;04/07/2023;Alice Araújo;Ísis Dias;Cartão;2;417,99;835,98;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+95;11/10/2023;Alícia Cassiano;Maria Liz Castro;Pix;9;72,03;648,27;Belo Horizonte;Smartphone;PROD001;Eletrônicos
+96;29/08/2023;José Pedro Guerra;Clara Machado;Boleto;8;60,27;482,16;Belo Horizonte;Smartphone;PROD001;Informática
+97;28/02/2023;Maria Luísa Almeida;Thomas Pimenta;Dinheiro;3;483,09;1449,27;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+98;18/03/2023;Srta. Jade Silva;Ísis Dias;Cartão;2;292,74;585,48;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+99;25/09/2023;Dr. Erick Leão;Clara Machado;Dinheiro;4;68,04;272,16;Belo Horizonte;Câmera DSLR;PROD007;Eletrodomésticos
+100;19/10/2023;Srta. Jade Silva;Otto Fonseca;Cartão;5;431,48;2157,4;Belo Horizonte;Câmera DSLR;PROD007;Informática
+101;22/03/2023;Dante Vasconcelos;Thales Cavalcante;Cartão;4;316,5;1266;Belo Horizonte;Fogão;PROD005;Eletrônicos
+102;30/05/2023;Emanuelly Costa;Dr. Renan Porto;Boleto;3;11,31;33,93;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+103;18/12/2023;Dante Vasconcelos;Sra. Marina Farias;Pix;5;354,46;1772,3;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+104;17/05/2023;Alice Araújo;Gael Souza;Cartão;7;66,24;463,68;Belo Horizonte;Geladeira;PROD004;Eletrodomésticos
+105;13/08/2023;Maria Luísa Almeida;Luiz Fernando Freitas;Boleto;3;398,39;1195,17;Belo Horizonte;Micro-ondas;PROD010;Informática
+106;13/08/2023;Maria Luísa Almeida;Allana da Cruz;Cartão;7;471,91;3303,37;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+107;14/01/2023;Maria Luísa Almeida;Dr. Renan Porto;Cartão;7;369,92;2589,44;Belo Horizonte;Micro-ondas;PROD010;Informática
+108;23/09/2023;José Pedro Guerra;Luara Cardoso;Pix;5;292,36;1461,8;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+109;29/08/2023;Igor Alves;Guilherme Rios;Boleto;10;223,58;2235,8;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+110;30/07/2023;José Pedro Guerra;Maria Cecília Ramos;Dinheiro;6;338,37;2030,22;Belo Horizonte;TV 4K;PROD003;Informática
+111;10/05/2023;Igor Alves;Bárbara Macedo;Dinheiro;9;27,98;251,82;Belo Horizonte;Notebook;PROD002;Informática
+112;31/07/2023;Emanuelly Costa;Dra. Evelyn Rezende;Boleto;9;414,21;3727,89;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+113;15/04/2023;Alícia Cassiano;Elisa Rios;Pix;10;380,66;3806,6;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+114;15/01/2023;Srta. Jade Silva;Maria Laura Aparecida;Pix;5;224,68;1123,4;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+115;17/02/2023;Dante Vasconcelos;Bárbara Macedo;Dinheiro;5;279,91;1399,55;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+116;30/05/2023;Dra. Ester Ferreira;Diego da Costa;Boleto;2;327,38;654,76;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+117;22/08/2023;Dra. Ester Ferreira;Maria Sophia Pimenta;Dinheiro;7;419,01;2933,07;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+118;05/02/2023;Alícia Cassiano;Maria Flor Gomes;Dinheiro;4;461,72;1846,88;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+119;02/01/2023;Alícia Cassiano;Miguel Leão;Boleto;6;467,78;2806,68;Belo Horizonte;Tablet;PROD009;Informática
+120;17/08/2023;Dra. Ester Ferreira;Apollo da Mota;Boleto;10;294,16;2941,6;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+121;22/08/2023;Igor Alves;Dra. Evelyn Rezende;Pix;6;280,44;1682,64;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+122;12/06/2023;José Pedro Guerra;Diego da Costa;Dinheiro;10;197,66;1976,6;Belo Horizonte;Câmera DSLR;PROD007;Eletrônicos
+123;19/01/2023;Alice Araújo;Murilo Cavalcanti;Boleto;7;494,32;3460,24;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+124;27/09/2023;José Pedro Guerra;Lorenzo Silva;Pix;2;438,35;876,7;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+125;29/08/2023;Alícia Cassiano;Dr. Ryan Cirino;Dinheiro;7;436,76;3057,32;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+126;12/06/2023;José Pedro Guerra;Dra. Rafaela Câmara;Cartão;2;427,36;854,72;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+127;16/02/2023;Dr. Erick Leão;Ana Nascimento;Cartão;10;43,53;435,3;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+128;24/01/2023;Igor Alves;Otto Fonseca;Boleto;8;91,52;732,16;Belo Horizonte;Fogão;PROD005;Eletrônicos
+129;29/09/2023;Dr. Erick Leão;Laura Santos;Pix;6;193,67;1162,02;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+130;14/11/2023;Dante Vasconcelos;João Miguel Castro;Pix;3;95,78;287,34;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+131;11/05/2023;Emanuelly Costa;Luiz Fernando Freitas;Boleto;4;235,96;943,84;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+132;28/10/2023;Alícia Cassiano;Dra. Liz da Costa;Dinheiro;9;87,41;786,69;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+133;16/07/2023;José Pedro Guerra;Ana Nascimento;Pix;5;233,85;1169,25;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+134;25/12/2023;Alícia Cassiano;Dr. Léo Pires;Dinheiro;7;290,24;2031,68;Belo Horizonte;Micro-ondas;PROD010;Informática
+135;27/05/2023;Dante Vasconcelos;Allana da Cruz;Boleto;5;13,97;69,85;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+136;14/12/2023;Alice Araújo;Dra. Liz da Costa;Cartão;4;321,94;1287,76;Belo Horizonte;Micro-ondas;PROD010;Informática
+137;24/10/2023;Igor Alves;Miguel Leão;Pix;1;161,38;161,38;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+138;31/03/2023;Dante Vasconcelos;Srta. Eloá Rocha;Boleto;2;455,72;911,44;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+139;12/05/2023;José Pedro Guerra;Maria Cecília Ramos;Boleto;9;255,88;2302,92;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+140;26/04/2023;Dr. Erick Leão;Elisa Rios;Boleto;2;239,48;478,96;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+141;02/10/2023;Maria Luísa Almeida;Luiz Fernando Freitas;Boleto;2;397,43;794,86;Belo Horizonte;Smartphone;PROD001;Informática
+142;12/12/2023;Dante Vasconcelos;Apollo da Mota;Cartão;5;296,43;1482,15;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+143;09/11/2023;Dante Vasconcelos;Ian da Cunha;Cartão;10;443,28;4432,8;Belo Horizonte;Tablet;PROD009;Informática
+144;01/03/2023;Alice Araújo;Liz Macedo;Cartão;8;455,6;3644,8;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+145;01/05/2023;Dra. Ester Ferreira;Srta. Eloá Rocha;Dinheiro;5;498;2490;Belo Horizonte;Notebook;PROD002;Eletrônicos
+146;28/10/2023;Alice Araújo;Guilherme Rios;Cartão;8;191,8;1534,4;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+147;20/12/2023;Igor Alves;Lucas Freitas;Dinheiro;8;311,67;2493,36;Belo Horizonte;Fogão;PROD005;Eletrônicos
+148;18/12/2023;Igor Alves;Dra. Rafaela Câmara;Boleto;8;475,77;3806,16;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+149;21/08/2023;Maria Luísa Almeida;Maria Julia Mendonça;Pix;1;205,09;205,09;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+150;05/05/2023;Alice Araújo;Laura Santos;Pix;10;485,84;4858,4;Belo Horizonte;Smartphone;PROD001;Informática
+151;28/10/2023;Dante Vasconcelos;Dr. Renan Porto;Boleto;2;416,61;833,22;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+152;22/05/2023;Alice Araújo;Srta. Eloá Rocha;Boleto;3;396,44;1189,32;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+153;08/01/2023;Igor Alves;Maria Laura Aparecida;Boleto;3;63,86;191,58;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+154;04/08/2023;Dra. Ester Ferreira;Bárbara Macedo;Cartão;1;95,38;95,38;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+155;20/08/2023;Dra. Ester Ferreira;Dr. Renan Porto;Cartão;8;229,65;1837,2;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+156;03/09/2023;Dr. Erick Leão;Thiago Souza;Cartão;9;157,8;1420,2;Belo Horizonte;Smartphone;PROD001;Eletrônicos
+157;11/02/2023;Igor Alves;Allana da Cruz;Pix;8;359,08;2872,64;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+158;15/07/2023;Srta. Jade Silva;Rebeca Lopes;Boleto;2;71,83;143,66;Belo Horizonte;Micro-ondas;PROD010;Informática
+159;26/12/2023;Maria Luísa Almeida;Ian da Cunha;Pix;8;257,72;2061,76;Belo Horizonte;Câmera DSLR;PROD007;Eletrônicos
+160;23/06/2023;José Pedro Guerra;Thomas Pimenta;Dinheiro;7;231,26;1618,82;Belo Horizonte;Geladeira;PROD004;Áudio e Vídeo
+161;11/07/2023;Alice Araújo;Vinícius Moreira;Dinheiro;2;163,15;326,3;Belo Horizonte;Máquina de Lavar;PROD006;Informática
+162;10/08/2023;Maria Luísa Almeida;Bianca Aparecida;Boleto;2;54,7;109,4;Belo Horizonte;Notebook;PROD002;Eletrônicos
+163;10/12/2023;Maria Luísa Almeida;Guilherme Rios;Boleto;3;282,62;847,86;Belo Horizonte;Micro-ondas;PROD010;Informática
+164;04/11/2023;Alícia Cassiano;Stella da Rosa;Cartão;7;435,37;3047,59;Belo Horizonte;Smartphone;PROD001;Informática
+165;25/04/2023;Maria Luísa Almeida;Stella da Rosa;Boleto;10;258,63;2586,3;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+166;08/08/2023;Dra. Ester Ferreira;Maria Flor Gomes;Cartão;2;383,68;767,36;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+167;03/04/2023;Alícia Cassiano;Maria Liz Castro;Boleto;10;465,25;4652,5;Belo Horizonte;Fogão;PROD005;Eletrônicos
+168;17/10/2023;Dr. Erick Leão;Gael Souza;Pix;6;182;1092;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+169;12/07/2023;Dr. Erick Leão;Luiz Fernando Freitas;Boleto;1;54,96;54,96;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+170;27/01/2023;Alice Araújo;Dra. Luna Ferreira;Cartão;3;191,33;573,99;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+171;07/11/2023;José Pedro Guerra;Guilherme Rios;Boleto;2;143,33;286,66;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+172;09/08/2023;Maria Luísa Almeida;Maria Cecília Ramos;Dinheiro;4;379,92;1519,68;Belo Horizonte;Notebook;PROD002;Informática
+173;22/07/2023;Srta. Jade Silva;Otto Fonseca;Cartão;9;336,89;3032,01;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+174;11/05/2023;Alícia Cassiano;Alana Oliveira;Cartão;4;157,7;630,8;Belo Horizonte;Geladeira;PROD004;Eletrodomésticos
+175;08/03/2023;Dr. Erick Leão;Dra. Rafaela Câmara;Pix;1;253,72;253,72;Belo Horizonte;Câmera DSLR;PROD007;Eletrodomésticos
+176;23/07/2023;Emanuelly Costa;Thiago Souza;Cartão;9;283,77;2553,93;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+177;21/10/2023;Dr. Erick Leão;Diego da Costa;Dinheiro;8;461,37;3690,96;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+178;29/03/2023;Srta. Jade Silva;Luiz Fernando Freitas;Boleto;5;66,43;332,15;Belo Horizonte;Smartphone;PROD001;Informática
+179;12/08/2023;Srta. Jade Silva;Thomas Pimenta;Cartão;2;223,99;447,98;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+180;20/06/2023;Alice Araújo;Gael Souza;Cartão;7;436,56;3055,92;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+181;27/11/2023;Alice Araújo;Maria Laura Aparecida;Cartão;9;259,88;2338,92;Belo Horizonte;Máquina de Lavar;PROD006;Informática
+182;02/12/2023;Maria Luísa Almeida;Thales Cavalcante;Dinheiro;3;135,42;406,26;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+183;15/12/2023;Srta. Jade Silva;Ian da Cunha;Boleto;8;379,68;3037,44;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+184;15/08/2023;Alícia Cassiano;Luara Cardoso;Cartão;6;83,97;503,82;Belo Horizonte;Notebook;PROD002;Áudio e Vídeo
+185;20/08/2023;Emanuelly Costa;Otto Fonseca;Boleto;6;258,6;1551,6;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+186;25/08/2023;Srta. Jade Silva;Elisa Rios;Cartão;5;47,6;238;Belo Horizonte;Notebook;PROD002;Áudio e Vídeo
+187;14/06/2023;Srta. Jade Silva;Apollo da Mota;Pix;8;455,43;3643,44;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+188;16/09/2023;Alice Araújo;Liz Macedo;Pix;1;230,76;230,76;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+189;06/07/2023;Igor Alves;Maria Cecília Ramos;Dinheiro;8;495,58;3964,64;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+190;20/11/2023;Igor Alves;Gael Souza;Boleto;7;389,49;2726,43;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+191;10/05/2023;Srta. Jade Silva;Maria Sophia Pimenta;Boleto;2;283,4;566,8;Belo Horizonte;Câmera DSLR;PROD007;Informática
+192;08/06/2023;Dr. Erick Leão;Srta. Eloá Rocha;Cartão;2;295,54;591,08;Belo Horizonte;TV 4K;PROD003;Informática
+193;10/12/2023;Dra. Ester Ferreira;Letícia Novais;Dinheiro;5;283,87;1419,35;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+194;03/04/2023;Dante Vasconcelos;Dr. Ryan Cirino;Dinheiro;9;187,3;1685,7;Belo Horizonte;Máquina de Lavar;PROD006;Informática
+195;09/02/2023;Alícia Cassiano;Ana Nascimento;Cartão;4;121,01;484,04;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+196;02/11/2023;Dr. Erick Leão;Maria Sophia Pimenta;Pix;6;439,43;2636,58;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+197;13/08/2023;Emanuelly Costa;Guilherme Rios;Boleto;3;417,36;1252,08;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+198;18/08/2023;Dante Vasconcelos;Dra. Rafaela Câmara;Pix;4;485,1;1940,4;Belo Horizonte;Micro-ondas;PROD010;Informática
+199;08/07/2023;Srta. Jade Silva;Clara Machado;Dinheiro;5;483,14;2415,7;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+200;24/03/2023;Dante Vasconcelos;Allana da Cruz;Pix;5;391,28;1956,4;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+201;11/10/2023;Maria Luísa Almeida;Diego da Costa;Cartão;5;35,57;177,85;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+202;19/08/2023;Dra. Ester Ferreira;Maria Sophia Pimenta;Dinheiro;5;51,1;255,5;Belo Horizonte;TV 4K;PROD003;Informática
+203;28/06/2023;Emanuelly Costa;Guilherme Rios;Cartão;2;473,74;947,48;Belo Horizonte;Geladeira;PROD004;Áudio e Vídeo
+204;11/02/2023;Igor Alves;Dr. Renan Porto;Cartão;7;255,98;1791,86;Belo Horizonte;Geladeira;PROD004;Áudio e Vídeo
+205;12/03/2023;Emanuelly Costa;Maria Cecília Ramos;Dinheiro;6;466,1;2796,6;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+206;12/11/2023;Emanuelly Costa;Letícia Novais;Cartão;3;381,83;1145,49;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+207;26/02/2023;Alícia Cassiano;Maria Laura Aparecida;Boleto;5;115,67;578,35;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+208;02/02/2023;Maria Luísa Almeida;João Miguel Castro;Cartão;2;33,4;66,8;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+209;08/08/2023;Emanuelly Costa;Letícia Gomes;Boleto;9;291,77;2625,93;Belo Horizonte;TV 4K;PROD003;Informática
+210;26/09/2023;Igor Alves;Gael Souza;Cartão;4;289,63;1158,52;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+211;11/07/2023;Alícia Cassiano;Bianca Aparecida;Cartão;7;437,93;3065,51;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+212;03/12/2023;Maria Luísa Almeida;Maria Flor Gomes;Boleto;6;396,37;2378,22;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+213;26/11/2023;Alice Araújo;Maria Flor Gomes;Dinheiro;3;31,72;95,16;Belo Horizonte;Tablet;PROD009;Informática
+214;23/08/2023;Emanuelly Costa;Maria Cecília Ramos;Pix;8;319,55;2556,4;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+215;08/06/2023;Dra. Ester Ferreira;Thomas Pimenta;Dinheiro;1;397,64;397,64;Belo Horizonte;Smartphone;PROD001;Informática
+216;02/07/2023;Emanuelly Costa;Ian da Cunha;Boleto;5;27,94;139,7;Belo Horizonte;Geladeira;PROD004;Informática
+217;24/07/2023;José Pedro Guerra;Otávio Rezende;Boleto;5;70,99;354,95;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+218;23/09/2023;Alícia Cassiano;Letícia Novais;Dinheiro;3;253,14;759,42;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+219;14/06/2023;Maria Luísa Almeida;Letícia Novais;Boleto;2;221;442;Belo Horizonte;TV 4K;PROD003;Informática
+220;27/03/2023;José Pedro Guerra;Stella da Rosa;Dinheiro;5;160,18;800,9;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+221;21/05/2023;Emanuelly Costa;Gael Souza;Dinheiro;1;366,14;366,14;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+222;15/03/2023;Srta. Jade Silva;Vinícius Moreira;Dinheiro;6;261,41;1568,46;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+223;05/07/2023;Dr. Erick Leão;Laura Santos;Cartão;1;71,85;71,85;Belo Horizonte;Geladeira;PROD004;Informática
+224;10/07/2023;José Pedro Guerra;Sr. Benicio Câmara;Cartão;10;85,18;851,8;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+225;10/06/2023;Alícia Cassiano;Maria Laura Aparecida;Cartão;10;77,47;774,7;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+226;15/10/2023;Maria Luísa Almeida;Sra. Marina Farias;Boleto;1;370,48;370,48;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+227;22/12/2023;José Pedro Guerra;Dra. Evelyn Rezende;Cartão;8;115,14;921,12;Belo Horizonte;Micro-ondas;PROD010;Informática
+228;16/08/2023;Maria Luísa Almeida;Vinícius Moreira;Boleto;3;427,88;1283,64;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+229;03/06/2023;Alice Araújo;Diego da Costa;Pix;6;357,67;2146,02;Belo Horizonte;Tablet;PROD009;Informática
+230;13/03/2023;Dante Vasconcelos;João Miguel Castro;Cartão;6;259,29;1555,74;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+231;10/10/2023;Alice Araújo;Letícia Gomes;Cartão;6;281,47;1688,82;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+232;29/07/2023;Srta. Jade Silva;Gael Souza;Pix;2;161,55;323,1;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+233;15/12/2023;Dra. Ester Ferreira;Stella da Rosa;Pix;6;324,75;1948,5;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+234;10/08/2023;Dra. Ester Ferreira;Otto Fonseca;Cartão;9;323,5;2911,5;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+235;15/06/2023;Dante Vasconcelos;Stella da Rosa;Boleto;9;84,98;764,82;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+236;06/03/2023;Alícia Cassiano;Letícia Gomes;Cartão;2;132,8;265,6;Belo Horizonte;Tablet;PROD009;Informática
+237;29/03/2023;Srta. Jade Silva;Miguel Leão;Boleto;9;324,08;2916,72;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+238;24/01/2023;Srta. Jade Silva;Sra. Marina Farias;Pix;10;30,19;301,9;Belo Horizonte;Smartphone;PROD001;Eletrônicos
+239;18/11/2023;Dra. Ester Ferreira;Maria Cecília Ramos;Boleto;10;214,13;2141,3;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+240;21/08/2023;Maria Luísa Almeida;Maria Liz Castro;Cartão;8;129,99;1039,92;Belo Horizonte;Câmera DSLR;PROD007;Informática
+241;15/04/2023;Igor Alves;Allana da Cruz;Pix;3;225,41;676,23;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+242;24/07/2023;Alice Araújo;Sr. Benicio Câmara;Boleto;6;432,13;2592,78;Belo Horizonte;Máquina de Lavar;PROD006;Informática
+243;27/08/2023;Maria Luísa Almeida;Luara Cardoso;Dinheiro;9;285,21;2566,89;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+244;16/07/2023;Srta. Jade Silva;Guilherme Rios;Pix;4;79,03;316,12;Belo Horizonte;Smartphone;PROD001;Informática
+245;08/04/2023;Alice Araújo;João Miguel Castro;Dinheiro;3;408,6;1225,8;Belo Horizonte;Micro-ondas;PROD010;Informática
+246;16/02/2023;Dr. Erick Leão;Murilo Cavalcanti;Dinheiro;8;440,75;3526;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+247;26/01/2023;Alícia Cassiano;João Miguel Castro;Dinheiro;4;115,42;461,68;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+248;10/03/2023;Alícia Cassiano;Miguel Leão;Boleto;5;272,98;1364,9;Belo Horizonte;Notebook;PROD002;Áudio e Vídeo
+249;19/10/2023;Dra. Ester Ferreira;Dra. Evelyn Rezende;Boleto;7;189,31;1325,17;Belo Horizonte;Câmera DSLR;PROD007;Eletrônicos
+250;09/10/2023;Alícia Cassiano;Letícia Gomes;Cartão;9;151,41;1362,69;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+251;23/06/2023;Dra. Ester Ferreira;Yan Gomes;Pix;3;487,79;1463,37;Belo Horizonte;Câmera DSLR;PROD007;Informática
+252;24/01/2023;Emanuelly Costa;Srta. Eloá Rocha;Boleto;4;305,21;1220,84;Belo Horizonte;Câmera DSLR;PROD007;Eletrônicos
+253;17/06/2023;Srta. Jade Silva;Alana Oliveira;Pix;8;264,47;2115,76;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+254;17/09/2023;Dra. Ester Ferreira;Dra. Rafaela Câmara;Dinheiro;7;495,4;3467,8;Belo Horizonte;Fogão;PROD005;Informática
+255;19/06/2023;Maria Luísa Almeida;Guilherme Rios;Boleto;10;156,9;1569;Belo Horizonte;Smartphone;PROD001;Informática
+256;27/01/2023;Srta. Jade Silva;Apollo da Mota;Pix;1;302,49;302,49;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+257;17/03/2023;Dante Vasconcelos;Liz Macedo;Cartão;9;318,22;2863,98;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+258;19/03/2023;Dr. Erick Leão;Maria Liz Castro;Pix;4;19,28;77,12;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+259;01/02/2023;Alice Araújo;Rebeca Lopes;Pix;7;255,89;1791,23;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+260;10/06/2023;Alice Araújo;Luiz Fernando Freitas;Boleto;9;169,27;1523,43;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+261;09/04/2023;Dante Vasconcelos;Luara Cardoso;Boleto;9;183,6;1652,4;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+262;27/12/2023;Dante Vasconcelos;Maria Liz Castro;Dinheiro;4;471,33;1885,32;Belo Horizonte;Fogão;PROD005;Informática
+263;28/05/2023;Maria Luísa Almeida;Laura Santos;Dinheiro;6;245,1;1470,6;Belo Horizonte;Tablet;PROD009;Informática
+264;22/01/2023;Alícia Cassiano;Diego da Costa;Cartão;7;411;2877;Belo Horizonte;TV 4K;PROD003;Informática
+265;20/04/2023;Dante Vasconcelos;Dra. Rafaela Câmara;Boleto;6;462,76;2776,56;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+266;12/11/2023;Srta. Jade Silva;Maria Laura Aparecida;Pix;9;351,12;3160,08;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+267;23/11/2023;Dante Vasconcelos;Otto Fonseca;Cartão;1;338,22;338,22;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+268;15/12/2023;Alice Araújo;Lorenzo Silva;Pix;7;171,84;1202,88;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+269;30/11/2023;Dante Vasconcelos;Sr. Benicio Câmara;Boleto;7;329,92;2309,44;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+270;30/11/2023;Srta. Jade Silva;Dr. Renan Porto;Cartão;6;149,85;899,1;Belo Horizonte;Smartphone;PROD001;Eletrônicos
+271;23/07/2023;José Pedro Guerra;Thales Cavalcante;Boleto;3;214,76;644,28;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+272;21/06/2023;Alícia Cassiano;Luiz Fernando Freitas;Dinheiro;1;14,54;14,54;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+273;09/04/2023;Maria Luísa Almeida;Dr. Ryan Cirino;Pix;3;427,02;1281,06;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+274;22/06/2023;Alícia Cassiano;Laura Santos;Pix;8;327,66;2621,28;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+275;21/09/2023;Igor Alves;Letícia Novais;Dinheiro;3;309,37;928,11;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+276;15/06/2023;Dante Vasconcelos;Lorenzo Silva;Boleto;2;100,54;201,08;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+277;04/06/2023;Srta. Jade Silva;Miguel Leão;Cartão;7;125,41;877,87;Belo Horizonte;Fogão;PROD005;Informática
+278;08/12/2023;Maria Luísa Almeida;Luiz Fernando Freitas;Boleto;5;330,3;1651,5;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+279;20/12/2023;Maria Luísa Almeida;Dra. Liz da Costa;Boleto;3;208,65;625,95;Belo Horizonte;Tablet;PROD009;Informática
+280;02/09/2023;Alice Araújo;Luiz Fernando Freitas;Boleto;6;311,17;1867,02;Belo Horizonte;Geladeira;PROD004;Eletrodomésticos
+281;07/05/2023;Srta. Jade Silva;Letícia Novais;Dinheiro;7;353,95;2477,65;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+282;01/02/2023;Dra. Ester Ferreira;Murilo Cavalcanti;Pix;9;354,85;3193,65;Belo Horizonte;Notebook;PROD002;Eletrônicos
+283;24/09/2023;José Pedro Guerra;Bárbara Macedo;Pix;10;272,96;2729,6;Belo Horizonte;TV 4K;PROD003;Informática
+284;29/01/2023;José Pedro Guerra;Srta. Eloá Rocha;Dinheiro;10;249,53;2495,3;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+285;11/12/2023;Alícia Cassiano;Miguel Leão;Cartão;8;286,32;2290,56;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+286;24/10/2023;Maria Luísa Almeida;Liz Macedo;Dinheiro;7;134,68;942,76;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+287;05/02/2023;José Pedro Guerra;Liz Macedo;Boleto;6;353,19;2119,14;Belo Horizonte;Tablet;PROD009;Eletrônicos
+288;11/07/2023;Dr. Erick Leão;Clara Machado;Dinheiro;7;98,19;687,33;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+289;01/12/2023;Igor Alves;Bárbara Macedo;Pix;7;49,32;345,24;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+290;02/01/2023;Emanuelly Costa;Ísis Dias;Dinheiro;9;202,6;1823,4;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+291;07/05/2023;José Pedro Guerra;Stella da Rosa;Pix;9;217,82;1960,38;Belo Horizonte;Câmera DSLR;PROD007;Eletrodomésticos
+292;05/12/2023;Dr. Erick Leão;Letícia Gomes;Cartão;5;102,36;511,8;Belo Horizonte;Notebook;PROD002;Eletrônicos
+293;17/08/2023;Srta. Jade Silva;Vinícius Moreira;Cartão;4;110,98;443,92;Belo Horizonte;Notebook;PROD002;Eletrônicos
+294;30/04/2023;Dra. Ester Ferreira;Lucas Freitas;Cartão;4;372,87;1491,48;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+295;22/10/2023;Igor Alves;Laura Santos;Boleto;3;256,91;770,73;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+296;31/07/2023;Alícia Cassiano;Luara Cardoso;Cartão;4;157,86;631,44;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+297;12/10/2023;José Pedro Guerra;Otto Fonseca;Boleto;9;474,77;4272,93;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+298;29/07/2023;Alice Araújo;Ísis Dias;Dinheiro;7;395,04;2765,28;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+299;26/04/2023;Alícia Cassiano;Diego da Costa;Pix;3;379,66;1138,98;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+300;02/08/2023;Dra. Ester Ferreira;Rebeca Lopes;Pix;8;458,22;3665,76;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+301;28/11/2023;Maria Luísa Almeida;Clara Machado;Boleto;7;129;903;Belo Horizonte;Geladeira;PROD004;Informática
+302;18/05/2023;Dr. Erick Leão;Vinícius Moreira;Cartão;2;272,46;544,92;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+303;03/09/2023;Dante Vasconcelos;Dr. Ryan Cirino;Boleto;2;102,2;204,4;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+304;03/09/2023;Dante Vasconcelos;Maria Liz Castro;Pix;1;113,79;113,79;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+305;25/05/2023;Dr. Erick Leão;Luiz Fernando Freitas;Boleto;7;458,41;3208,87;Belo Horizonte;Tablet;PROD009;Informática
+306;27/08/2023;Maria Luísa Almeida;Miguel Leão;Dinheiro;5;138,17;690,85;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+307;31/07/2023;Emanuelly Costa;Laura Santos;Pix;6;458,02;2748,12;Belo Horizonte;Máquina de Lavar;PROD006;Informática
+308;01/06/2023;Alice Araújo;Dra. Evelyn Rezende;Boleto;3;17,95;53,85;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+309;09/10/2023;Igor Alves;Sra. Marina Farias;Dinheiro;4;196,12;784,48;Belo Horizonte;Geladeira;PROD004;Áudio e Vídeo
+310;13/03/2023;Dra. Ester Ferreira;João Miguel Castro;Pix;8;235,81;1886,48;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+311;08/02/2023;Emanuelly Costa;Sr. Benicio Câmara;Cartão;9;495,26;4457,34;Belo Horizonte;Smartphone;PROD001;Eletrônicos
+312;29/12/2023;Alice Araújo;Lorenzo Silva;Pix;7;77,37;541,59;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+313;04/12/2023;José Pedro Guerra;Dr. Léo Pires;Cartão;9;233,44;2100,96;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+314;29/09/2023;Alícia Cassiano;Dra. Rafaela Câmara;Boleto;9;280,31;2522,79;Belo Horizonte;Smartphone;PROD001;Eletrônicos
+315;24/02/2023;Maria Luísa Almeida;Rebeca Lopes;Pix;1;256,09;256,09;Belo Horizonte;Câmera DSLR;PROD007;Eletrodomésticos
+316;01/07/2023;Alícia Cassiano;Thomas Pimenta;Cartão;4;104,05;416,2;Belo Horizonte;Tablet;PROD009;Informática
+317;23/12/2023;Dante Vasconcelos;Ísis Dias;Cartão;6;480,06;2880,36;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+318;10/10/2023;José Pedro Guerra;Otto Fonseca;Cartão;1;55,82;55,82;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+319;17/10/2023;Maria Luísa Almeida;Rebeca Lopes;Cartão;3;50,52;151,56;Belo Horizonte;Câmera DSLR;PROD007;Informática
+320;19/05/2023;Emanuelly Costa;Gael Souza;Boleto;4;113,59;454,36;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+321;11/06/2023;Emanuelly Costa;Lucas Freitas;Pix;9;286,12;2575,08;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+322;16/10/2023;Dante Vasconcelos;Laura Santos;Dinheiro;7;465,15;3256,05;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+323;14/09/2023;Igor Alves;Otto Fonseca;Cartão;9;172,55;1552,95;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+324;06/11/2023;Srta. Jade Silva;Allana da Cruz;Dinheiro;7;123,75;866,25;Belo Horizonte;Notebook;PROD002;Informática
+325;09/09/2023;Dante Vasconcelos;Stella da Rosa;Dinheiro;6;24,52;147,12;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+326;13/02/2023;Srta. Jade Silva;Maria Cecília Ramos;Pix;7;101,01;707,07;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+327;31/12/2023;Alice Araújo;Bianca Aparecida;Dinheiro;2;50,2;100,4;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+328;07/06/2023;José Pedro Guerra;Yan Gomes;Boleto;6;186,74;1120,44;Belo Horizonte;Notebook;PROD002;Eletrônicos
+329;18/08/2023;Dra. Ester Ferreira;Elisa Rios;Dinheiro;2;74,93;149,86;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+330;02/11/2023;Srta. Jade Silva;Alana Oliveira;Dinheiro;2;22,87;45,74;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+331;14/10/2023;Dante Vasconcelos;Laura Santos;Pix;1;153,01;153,01;Belo Horizonte;Câmera DSLR;PROD007;Eletrônicos
+332;18/05/2023;José Pedro Guerra;Maria Sophia Pimenta;Cartão;7;93,06;651,42;Belo Horizonte;Fogão;PROD005;Informática
+333;05/09/2023;Maria Luísa Almeida;Yan Gomes;Boleto;3;222,99;668,97;Belo Horizonte;Câmera DSLR;PROD007;Informática
+334;23/08/2023;Maria Luísa Almeida;Srta. Eloá Rocha;Boleto;4;363,24;1452,96;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+335;18/06/2023;José Pedro Guerra;Dr. Ryan Cirino;Dinheiro;1;474,92;474,92;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+336;03/09/2023;Igor Alves;Thales Cavalcante;Dinheiro;10;76,7;767;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+337;16/06/2023;Dr. Erick Leão;Luara Cardoso;Dinheiro;6;152,81;916,86;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+338;31/10/2023;Dra. Ester Ferreira;Thales Cavalcante;Cartão;6;65,81;394,86;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+339;30/05/2023;Maria Luísa Almeida;Guilherme Rios;Dinheiro;8;472,06;3776,48;Belo Horizonte;Geladeira;PROD004;Áudio e Vídeo
+340;04/12/2023;Alice Araújo;Diego da Costa;Dinheiro;3;320,33;960,99;Belo Horizonte;Geladeira;PROD004;Informática
+341;26/10/2023;Dr. Erick Leão;Dra. Rafaela Câmara;Dinheiro;7;46,24;323,68;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+342;25/02/2023;Dante Vasconcelos;Maria Julia Mendonça;Boleto;9;28,01;252,09;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+343;19/06/2023;Dr. Erick Leão;Ana Nascimento;Cartão;3;327,03;981,09;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+344;17/08/2023;Igor Alves;Thomas Pimenta;Dinheiro;2;136,78;273,56;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+345;13/01/2023;José Pedro Guerra;Ana Nascimento;Boleto;10;348,31;3483,1;Belo Horizonte;TV 4K;PROD003;Informática
+346;14/03/2023;Igor Alves;Ísis Dias;Boleto;7;461,07;3227,49;Belo Horizonte;Notebook;PROD002;Eletrônicos
+347;28/06/2023;José Pedro Guerra;Ana Nascimento;Dinheiro;8;394,29;3154,32;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+348;30/12/2023;Maria Luísa Almeida;Dr. Léo Pires;Boleto;8;166,27;1330,16;Belo Horizonte;Fogão;PROD005;Eletrônicos
+349;22/09/2023;Alice Araújo;Elisa Rios;Pix;2;341,8;683,6;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+350;27/07/2023;Alice Araújo;Thales Cavalcante;Dinheiro;6;284,33;1705,98;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+351;19/08/2023;Srta. Jade Silva;Thiago Souza;Dinheiro;7;24,3;170,1;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+352;27/12/2023;Maria Luísa Almeida;Laura Santos;Cartão;1;355,32;355,32;Belo Horizonte;Geladeira;PROD004;Informática
+353;23/08/2023;Maria Luísa Almeida;Sra. Marina Farias;Dinheiro;9;101,61;914,49;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+354;09/11/2023;Dr. Erick Leão;José Pedro da Rocha;Cartão;9;483,3;4349,7;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+355;11/12/2023;Alícia Cassiano;Letícia Gomes;Cartão;6;182,47;1094,82;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+356;01/03/2023;Alice Araújo;Yan Gomes;Pix;3;163,46;490,38;Belo Horizonte;Geladeira;PROD004;Informática
+357;22/10/2023;Dr. Erick Leão;Thiago Souza;Pix;9;200,35;1803,15;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+358;08/09/2023;Alícia Cassiano;Srta. Eloá Rocha;Pix;8;321,4;2571,2;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+359;03/07/2023;Emanuelly Costa;João Miguel Castro;Pix;6;422,57;2535,42;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+360;29/07/2023;José Pedro Guerra;Guilherme Rios;Dinheiro;4;409,46;1637,84;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+361;23/04/2023;Alícia Cassiano;Liz Macedo;Boleto;8;91,95;735,6;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+362;17/10/2023;José Pedro Guerra;Elisa Rios;Cartão;4;273,43;1093,72;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+363;05/10/2023;Emanuelly Costa;Sr. Benicio Câmara;Dinheiro;10;65,96;659,6;Belo Horizonte;Tablet;PROD009;Informática
+364;01/12/2023;Dante Vasconcelos;Ísis Dias;Cartão;9;117,09;1053,81;Belo Horizonte;Câmera DSLR;PROD007;Eletrônicos
+365;02/03/2023;Dante Vasconcelos;Lucas Freitas;Boleto;8;138,78;1110,24;Belo Horizonte;Notebook;PROD002;Áudio e Vídeo
+366;16/04/2023;Dante Vasconcelos;Otto Fonseca;Boleto;10;320,06;3200,6;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+367;15/06/2023;Alícia Cassiano;Maria Cecília Ramos;Boleto;9;147,73;1329,57;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+368;30/07/2023;Emanuelly Costa;Luara Cardoso;Pix;9;492,89;4436,01;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+369;13/12/2023;Dr. Erick Leão;João Miguel Castro;Pix;3;132,34;397,02;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+370;20/08/2023;Maria Luísa Almeida;Dra. Liz da Costa;Cartão;10;319,88;3198,8;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+371;21/08/2023;José Pedro Guerra;Alana Oliveira;Cartão;7;262,65;1838,55;Belo Horizonte;Fogão;PROD005;Informática
+372;02/02/2023;Dra. Ester Ferreira;Thomas Pimenta;Pix;2;368,16;736,32;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+373;15/06/2023;Alícia Cassiano;Dr. Ryan Cirino;Pix;7;414,18;2899,26;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+374;24/01/2023;Maria Luísa Almeida;Dra. Liz da Costa;Dinheiro;10;427,69;4276,9;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+375;22/08/2023;Emanuelly Costa;Thiago Souza;Pix;1;70,88;70,88;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+376;21/05/2023;Maria Luísa Almeida;Ian da Cunha;Boleto;3;442,25;1326,75;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+377;22/07/2023;Alícia Cassiano;Miguel Leão;Pix;5;50,39;251,95;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+378;20/04/2023;José Pedro Guerra;Gael Souza;Pix;7;331,19;2318,33;Belo Horizonte;Notebook;PROD002;Eletrônicos
+379;05/01/2023;Igor Alves;Bárbara Macedo;Dinheiro;10;120,83;1208,3;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+380;15/02/2023;Maria Luísa Almeida;Ana Nascimento;Boleto;3;244,07;732,21;Belo Horizonte;Geladeira;PROD004;Áudio e Vídeo
+381;10/03/2023;Alice Araújo;Gael Souza;Cartão;6;441,68;2650,08;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+382;20/04/2023;Alice Araújo;Guilherme Rios;Dinheiro;10;328,51;3285,1;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+383;05/03/2023;Srta. Jade Silva;Miguel Leão;Dinheiro;4;52,48;209,92;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+384;07/05/2023;Alícia Cassiano;Ian da Cunha;Cartão;6;481,99;2891,94;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+385;20/12/2023;Emanuelly Costa;Maria Julia Mendonça;Boleto;4;281,16;1124,64;Belo Horizonte;Micro-ondas;PROD010;Informática
+386;20/07/2023;Alícia Cassiano;Ian da Cunha;Cartão;4;263,7;1054,8;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+387;13/09/2023;Srta. Jade Silva;Gael Souza;Cartão;4;252,49;1009,96;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+388;19/10/2023;Dr. Erick Leão;Yan Gomes;Pix;6;467,62;2805,72;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+389;28/10/2023;Maria Luísa Almeida;Lorenzo Silva;Boleto;8;477,68;3821,44;Belo Horizonte;Notebook;PROD002;Eletrônicos
+390;17/09/2023;Alícia Cassiano;Dra. Liz da Costa;Dinheiro;4;29,52;118,08;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+391;23/05/2023;Maria Luísa Almeida;Ísis Dias;Cartão;7;353,89;2477,23;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+392;20/07/2023;Srta. Jade Silva;Dra. Liz da Costa;Cartão;9;461,25;4151,25;Belo Horizonte;TV 4K;PROD003;Informática
+393;06/05/2023;Maria Luísa Almeida;Thiago Souza;Cartão;5;352,35;1761,75;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+394;08/12/2023;Alice Araújo;Bárbara Macedo;Cartão;8;310,03;2480,24;Belo Horizonte;Smartphone;PROD001;Informática
+395;27/06/2023;Dra. Ester Ferreira;Rebeca Lopes;Boleto;3;353,73;1061,19;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+396;16/01/2023;Igor Alves;Thiago Souza;Boleto;3;192,22;576,66;Belo Horizonte;Fogão;PROD005;Eletrônicos
+397;12/09/2023;José Pedro Guerra;Murilo Cavalcanti;Boleto;9;41,3;371,7;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+398;08/07/2023;Alice Araújo;Sra. Marina Farias;Cartão;1;254,81;254,81;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+399;18/09/2023;Emanuelly Costa;Liz Macedo;Cartão;10;340,32;3403,2;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+400;18/03/2023;Alice Araújo;Liz Macedo;Dinheiro;4;32,53;130,12;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+401;19/05/2023;Maria Luísa Almeida;Laura Santos;Boleto;4;167,68;670,72;Belo Horizonte;Câmera DSLR;PROD007;Informática
+402;25/04/2023;Dra. Ester Ferreira;Liz Macedo;Dinheiro;2;256;512;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+403;17/06/2023;Maria Luísa Almeida;Elisa Rios;Dinheiro;2;439,73;879,46;Belo Horizonte;Fogão;PROD005;Informática
+404;15/11/2023;Dante Vasconcelos;Luiz Fernando Freitas;Boleto;1;190,77;190,77;Belo Horizonte;Fogão;PROD005;Informática
+405;19/03/2023;Emanuelly Costa;Guilherme Rios;Cartão;10;486,21;4862,1;Belo Horizonte;Geladeira;PROD004;Eletrodomésticos
+406;01/01/2023;Dr. Erick Leão;Bianca Aparecida;Boleto;4;275,36;1101,44;Belo Horizonte;Smartphone;PROD001;Informática
+407;09/09/2023;Emanuelly Costa;Maria Sophia Pimenta;Boleto;2;110,55;221,1;Belo Horizonte;Geladeira;PROD004;Áudio e Vídeo
+408;25/12/2023;Igor Alves;Luiz Fernando Freitas;Cartão;2;31,51;63,02;Belo Horizonte;Geladeira;PROD004;Áudio e Vídeo
+409;08/02/2023;Srta. Jade Silva;Laura Santos;Cartão;10;56,83;568,3;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+410;30/05/2023;Alícia Cassiano;Alana Oliveira;Dinheiro;7;334,6;2342,2;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+411;08/02/2023;Dante Vasconcelos;Srta. Eloá Rocha;Cartão;6;165,85;995,1;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+412;10/06/2023;Dr. Erick Leão;Bárbara Macedo;Boleto;3;61,77;185,31;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+413;03/03/2023;Maria Luísa Almeida;Dra. Luna Ferreira;Boleto;4;231,44;925,76;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+414;16/02/2023;Dante Vasconcelos;Stella da Rosa;Dinheiro;10;29,76;297,6;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+415;31/03/2023;Emanuelly Costa;Thomas Pimenta;Dinheiro;9;33,99;305,91;Belo Horizonte;Fogão;PROD005;Informática
+416;25/08/2023;Maria Luísa Almeida;Srta. Eloá Rocha;Cartão;9;376,56;3389,04;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+417;12/04/2023;Dr. Erick Leão;Yan Gomes;Cartão;1;40,22;40,22;Belo Horizonte;Geladeira;PROD004;Eletrodomésticos
+418;03/02/2023;Dante Vasconcelos;Ian da Cunha;Dinheiro;10;297,2;2972;Belo Horizonte;Notebook;PROD002;Eletrônicos
+419;22/01/2023;José Pedro Guerra;Otto Fonseca;Pix;3;55,07;165,21;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+420;16/01/2023;Dr. Erick Leão;Vinícius Moreira;Dinheiro;10;222,25;2222,5;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+421;24/05/2023;José Pedro Guerra;Maria Sophia Pimenta;Cartão;3;183,43;550,29;Belo Horizonte;TV 4K;PROD003;Informática
+422;13/09/2023;Dr. Erick Leão;Elisa Rios;Dinheiro;10;313,4;3134;Belo Horizonte;Geladeira;PROD004;Informática
+423;03/08/2023;Dante Vasconcelos;Ian da Cunha;Pix;1;52,98;52,98;Belo Horizonte;Câmera DSLR;PROD007;Eletrodomésticos
+424;03/09/2023;Dra. Ester Ferreira;João Miguel Castro;Boleto;9;399,47;3595,23;Belo Horizonte;Câmera DSLR;PROD007;Informática
+425;03/04/2023;Emanuelly Costa;Alana Oliveira;Pix;10;256,17;2561,7;Belo Horizonte;Câmera DSLR;PROD007;Informática
+426;30/08/2023;Dra. Ester Ferreira;Stella da Rosa;Pix;1;448,92;448,92;Belo Horizonte;Fogão;PROD005;Eletrônicos
+427;01/10/2023;Emanuelly Costa;Sr. Benicio Câmara;Pix;3;59,07;177,21;Belo Horizonte;Geladeira;PROD004;Informática
+428;30/03/2023;Alice Araújo;Maria Laura Aparecida;Boleto;10;424,79;4247,9;Belo Horizonte;Câmera DSLR;PROD007;Informática
+429;18/10/2023;Srta. Jade Silva;Maria Sophia Pimenta;Pix;6;457,85;2747,1;Belo Horizonte;Smartphone;PROD001;Informática
+430;20/01/2023;Maria Luísa Almeida;Otto Fonseca;Pix;8;275,64;2205,12;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+431;01/01/2023;Igor Alves;Letícia Gomes;Pix;10;117,22;1172,2;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+432;31/01/2023;Emanuelly Costa;Maria Sophia Pimenta;Pix;3;176,97;530,91;Belo Horizonte;TV 4K;PROD003;Informática
+433;11/07/2023;Dr. Erick Leão;José Pedro da Rocha;Cartão;2;424,78;849,56;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+434;12/08/2023;José Pedro Guerra;Ian da Cunha;Boleto;6;157,86;947,16;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+435;25/04/2023;Srta. Jade Silva;Thales Cavalcante;Dinheiro;3;356,52;1069,56;Belo Horizonte;Tablet;PROD009;Informática
+436;01/04/2023;Emanuelly Costa;Maria Liz Castro;Dinheiro;5;369,66;1848,3;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+437;10/11/2023;Dante Vasconcelos;Dra. Liz da Costa;Cartão;10;25,87;258,7;Belo Horizonte;Micro-ondas;PROD010;Informática
+438;27/06/2023;Igor Alves;Dra. Luna Ferreira;Cartão;8;78,92;631,36;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+439;08/05/2023;Maria Luísa Almeida;Stella da Rosa;Boleto;6;228,85;1373,1;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+440;13/08/2023;Dr. Erick Leão;Dra. Luna Ferreira;Dinheiro;2;363;726;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+441;21/02/2023;José Pedro Guerra;Laura Santos;Pix;8;442,07;3536,56;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+442;11/01/2023;Igor Alves;Sra. Marina Farias;Cartão;3;231,13;693,39;Belo Horizonte;Smartphone;PROD001;Informática
+443;08/02/2023;Dra. Ester Ferreira;Letícia Novais;Boleto;2;177,49;354,98;Belo Horizonte;Câmera DSLR;PROD007;Eletrodomésticos
+444;09/08/2023;Alice Araújo;Allana da Cruz;Dinheiro;10;492,79;4927,9;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+445;08/04/2023;Dr. Erick Leão;Maria Liz Castro;Boleto;3;36,24;108,72;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+446;21/07/2023;Srta. Jade Silva;Elisa Rios;Dinheiro;5;155,73;778,65;Belo Horizonte;Notebook;PROD002;Eletrônicos
+447;14/02/2023;Alícia Cassiano;Maria Julia Mendonça;Dinheiro;3;36,71;110,13;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+448;23/11/2023;Alícia Cassiano;Letícia Novais;Dinheiro;4;57,52;230,08;Belo Horizonte;Geladeira;PROD004;Eletrodomésticos
+449;08/09/2023;Alícia Cassiano;Letícia Novais;Dinheiro;2;161,09;322,18;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+450;06/04/2023;José Pedro Guerra;Liz Macedo;Boleto;3;191,8;575,4;Belo Horizonte;Câmera DSLR;PROD007;Informática
+451;16/10/2023;Emanuelly Costa;Maria Sophia Pimenta;Cartão;8;237,88;1903,04;Belo Horizonte;Geladeira;PROD004;Informática
+452;29/10/2023;Dante Vasconcelos;Elisa Rios;Cartão;2;337,39;674,78;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+453;21/10/2023;Dante Vasconcelos;Apollo da Mota;Boleto;7;411,02;2877,14;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+454;03/03/2023;José Pedro Guerra;Thales Cavalcante;Pix;2;203,45;406,9;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+455;05/08/2023;Maria Luísa Almeida;Vinícius Moreira;Dinheiro;4;406,15;1624,6;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+456;13/06/2023;Maria Luísa Almeida;Letícia Novais;Dinheiro;4;498,66;1994,64;Belo Horizonte;TV 4K;PROD003;Informática
+457;24/09/2023;José Pedro Guerra;Lorenzo Silva;Dinheiro;9;204,7;1842,3;Belo Horizonte;Máquina de Lavar;PROD006;Informática
+458;24/02/2023;Srta. Jade Silva;Maria Flor Gomes;Cartão;2;213,08;426,16;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+459;16/05/2023;Dr. Erick Leão;Ian da Cunha;Dinheiro;5;435,06;2175,3;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+460;22/05/2023;Dr. Erick Leão;Maria Sophia Pimenta;Dinheiro;10;308,39;3083,9;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+461;26/01/2023;José Pedro Guerra;Luara Cardoso;Boleto;1;203,94;203,94;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+462;24/05/2023;José Pedro Guerra;Maria Liz Castro;Cartão;1;175,55;175,55;Belo Horizonte;Fogão;PROD005;Informática
+463;18/05/2023;Dr. Erick Leão;Allana da Cruz;Cartão;4;75,85;303,4;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+464;22/09/2023;Igor Alves;Otto Fonseca;Pix;4;226,44;905,76;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+465;11/03/2023;Dra. Ester Ferreira;Laura Santos;Cartão;2;162,45;324,9;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+466;08/05/2023;Emanuelly Costa;Luiz Fernando Freitas;Cartão;3;104,45;313,35;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+467;26/08/2023;Dra. Ester Ferreira;Thomas Pimenta;Cartão;6;355,27;2131,62;Belo Horizonte;Fogão;PROD005;Informática
+468;01/04/2023;José Pedro Guerra;José Pedro da Rocha;Boleto;1;128,55;128,55;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+469;26/05/2023;Emanuelly Costa;Otávio Rezende;Cartão;6;90,12;540,72;Belo Horizonte;Fogão;PROD005;Eletrônicos
+470;28/11/2023;Dante Vasconcelos;Vinícius Moreira;Pix;3;428,37;1285,11;Belo Horizonte;Geladeira;PROD004;Eletrodomésticos
+471;16/12/2023;Emanuelly Costa;Apollo da Mota;Pix;5;329,28;1646,4;Belo Horizonte;Tablet;PROD009;Eletrônicos
+472;10/05/2023;Srta. Jade Silva;Ísis Dias;Boleto;3;304,56;913,68;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+473;10/05/2023;Dante Vasconcelos;Luiz Fernando Freitas;Boleto;7;448,79;3141,53;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+474;04/01/2023;Dra. Ester Ferreira;Maria Julia Mendonça;Boleto;9;413,91;3725,19;Belo Horizonte;Câmera DSLR;PROD007;Eletrônicos
+475;02/06/2023;Maria Luísa Almeida;Apollo da Mota;Cartão;9;327,2;2944,8;Belo Horizonte;Micro-ondas;PROD010;Informática
+476;14/05/2023;Alícia Cassiano;Dra. Evelyn Rezende;Pix;6;494,3;2965,8;Belo Horizonte;Máquina de Lavar;PROD006;Informática
+477;05/12/2023;Igor Alves;Vinícius Moreira;Pix;9;385,08;3465,72;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+478;03/08/2023;Dr. Erick Leão;Otávio Rezende;Cartão;1;331,15;331,15;Belo Horizonte;Fogão;PROD005;Informática
+479;25/06/2023;Dante Vasconcelos;Vinícius Moreira;Dinheiro;10;356,95;3569,5;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+480;31/05/2023;Maria Luísa Almeida;Apollo da Mota;Pix;6;258,58;1551,48;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+481;15/12/2023;Igor Alves;Ian da Cunha;Cartão;5;365,34;1826,7;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+482;19/06/2023;Igor Alves;Sra. Marina Farias;Boleto;4;184,09;736,36;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+483;21/11/2023;Srta. Jade Silva;José Pedro da Rocha;Cartão;8;427,09;3416,72;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+484;15/12/2023;Dr. Erick Leão;Rebeca Lopes;Boleto;8;445,82;3566,56;Belo Horizonte;Tablet;PROD009;Eletrônicos
+485;13/04/2023;Igor Alves;Guilherme Rios;Dinheiro;7;36,49;255,43;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+486;07/09/2023;Igor Alves;Dra. Liz da Costa;Pix;3;165,03;495,09;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+487;21/05/2023;Dante Vasconcelos;Sr. Benicio Câmara;Pix;6;320,9;1925,4;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+488;08/03/2023;Srta. Jade Silva;Thiago Souza;Dinheiro;10;384,6;3846;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+489;03/01/2023;Emanuelly Costa;Dra. Rafaela Câmara;Pix;7;220,22;1541,54;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+490;10/01/2023;Emanuelly Costa;Dra. Liz da Costa;Pix;6;475,53;2853,18;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+491;08/03/2023;Maria Luísa Almeida;Otávio Rezende;Boleto;4;349,83;1399,32;Belo Horizonte;Máquina de Lavar;PROD006;Informática
+492;29/05/2023;José Pedro Guerra;Miguel Leão;Boleto;3;41,99;125,97;Belo Horizonte;Smartphone;PROD001;Informática
+493;08/09/2023;Igor Alves;Sr. Benicio Câmara;Pix;7;445,11;3115,77;Belo Horizonte;TV 4K;PROD003;Informática
+494;27/04/2023;Dante Vasconcelos;Miguel Leão;Pix;3;474,56;1423,68;Belo Horizonte;Câmera DSLR;PROD007;Eletrônicos
+495;05/03/2023;Igor Alves;Diego da Costa;Cartão;4;369,7;1478,8;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+496;01/11/2023;Emanuelly Costa;Maria Julia Mendonça;Cartão;7;439,51;3076,57;Belo Horizonte;Fogão;PROD005;Eletrônicos
+497;16/08/2023;Dr. Erick Leão;Bárbara Macedo;Boleto;1;33,64;33,64;Belo Horizonte;Notebook;PROD002;Áudio e Vídeo
+498;04/06/2023;Dr. Erick Leão;Maria Julia Mendonça;Cartão;8;353,92;2831,36;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+499;03/08/2023;Maria Luísa Almeida;Murilo Cavalcanti;Cartão;9;142,29;1280,61;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+500;12/04/2023;Srta. Jade Silva;Dra. Evelyn Rezende;Boleto;5;65,87;329,35;Belo Horizonte;Notebook;PROD002;Áudio e Vídeo
+501;01/06/2023;Alice Araújo;Liz Macedo;Dinheiro;9;486,83;4381,47;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+502;01/05/2023;Emanuelly Costa;Lorenzo Silva;Cartão;4;347,22;1388,88;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+503;16/02/2023;Dra. Ester Ferreira;Gael Souza;Cartão;2;419,26;838,52;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+504;16/05/2023;José Pedro Guerra;Otto Fonseca;Cartão;5;325,73;1628,65;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+505;13/12/2023;Igor Alves;Thiago Souza;Cartão;3;438,33;1314,99;Belo Horizonte;Fogão;PROD005;Informática
+506;12/03/2023;Alice Araújo;Dr. Ryan Cirino;Boleto;2;427,11;854,22;Belo Horizonte;Smartphone;PROD001;Eletrônicos
+507;10/07/2023;Igor Alves;Thales Cavalcante;Cartão;8;477,99;3823,92;Belo Horizonte;Fogão;PROD005;Eletrônicos
+508;17/07/2023;José Pedro Guerra;Guilherme Rios;Pix;7;206,12;1442,84;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+509;23/02/2023;Dr. Erick Leão;José Pedro da Rocha;Dinheiro;2;74,93;149,86;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+510;03/07/2023;Srta. Jade Silva;Dr. Léo Pires;Pix;10;342,41;3424,1;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+511;14/08/2023;Emanuelly Costa;Gael Souza;Boleto;8;461;3688;Belo Horizonte;Notebook;PROD002;Áudio e Vídeo
+512;09/12/2023;Igor Alves;Rebeca Lopes;Cartão;6;16,06;96,36;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+513;27/06/2023;Dr. Erick Leão;Maria Sophia Pimenta;Cartão;7;334,24;2339,68;Belo Horizonte;Geladeira;PROD004;Áudio e Vídeo
+514;11/09/2023;Alice Araújo;Gael Souza;Dinheiro;1;325,27;325,27;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+515;17/09/2023;Dante Vasconcelos;Elisa Rios;Dinheiro;6;128,04;768,24;Belo Horizonte;Fogão;PROD005;Eletrônicos
+516;16/08/2023;Srta. Jade Silva;Clara Machado;Cartão;7;410,38;2872,66;Belo Horizonte;Notebook;PROD002;Áudio e Vídeo
+517;01/12/2023;Emanuelly Costa;Ana Nascimento;Dinheiro;8;229,06;1832,48;Belo Horizonte;Notebook;PROD002;Áudio e Vídeo
+518;16/02/2023;Srta. Jade Silva;Letícia Gomes;Boleto;7;27,56;192,92;Belo Horizonte;Tablet;PROD009;Eletrônicos
+519;06/07/2023;Emanuelly Costa;Dr. Renan Porto;Dinheiro;9;285,54;2569,86;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+520;03/12/2023;Igor Alves;Diego da Costa;Dinheiro;6;284,47;1706,82;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+521;24/06/2023;Igor Alves;Dra. Liz da Costa;Boleto;2;57,74;115,48;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+522;26/03/2023;José Pedro Guerra;Srta. Eloá Rocha;Dinheiro;9;265,77;2391,93;Belo Horizonte;Notebook;PROD002;Eletrônicos
+523;03/03/2023;Dr. Erick Leão;Lucas Freitas;Dinheiro;2;134,6;269,2;Belo Horizonte;Geladeira;PROD004;Eletrodomésticos
+524;24/01/2023;Srta. Jade Silva;Bárbara Macedo;Dinheiro;4;361,23;1444,92;Belo Horizonte;Notebook;PROD002;Áudio e Vídeo
+525;13/09/2023;Emanuelly Costa;Rebeca Lopes;Cartão;8;332,64;2661,12;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+526;18/09/2023;Alice Araújo;Maria Liz Castro;Pix;9;468,3;4214,7;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+527;16/09/2023;Dr. Erick Leão;Guilherme Rios;Pix;3;60,74;182,22;Belo Horizonte;Micro-ondas;PROD010;Informática
+528;20/08/2023;Alice Araújo;Srta. Eloá Rocha;Dinheiro;5;204,96;1024,8;Belo Horizonte;Máquina de Lavar;PROD006;Informática
+529;26/12/2023;Dra. Ester Ferreira;Alana Oliveira;Pix;10;353,01;3530,1;Belo Horizonte;Tablet;PROD009;Informática
+530;11/12/2023;Alice Araújo;Diego da Costa;Pix;4;112,76;451,04;Belo Horizonte;Fogão;PROD005;Informática
+531;30/06/2023;Dra. Ester Ferreira;Apollo da Mota;Dinheiro;9;275,82;2482,38;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+532;25/09/2023;Maria Luísa Almeida;Dr. Léo Pires;Dinheiro;9;150,1;1350,9;Belo Horizonte;Câmera DSLR;PROD007;Eletrônicos
+533;17/05/2023;Alice Araújo;Maria Cecília Ramos;Boleto;3;36;108;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+534;05/10/2023;Emanuelly Costa;Stella da Rosa;Dinheiro;3;421,3;1263,9;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+535;28/11/2023;Dra. Ester Ferreira;Otávio Rezende;Pix;2;311,89;623,78;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+536;15/07/2023;Dr. Erick Leão;Guilherme Rios;Boleto;9;394,31;3548,79;Belo Horizonte;Fogão;PROD005;Eletrônicos
+537;14/11/2023;José Pedro Guerra;Dr. Renan Porto;Boleto;9;36,36;327,24;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+538;10/04/2023;Alícia Cassiano;Clara Machado;Pix;10;277,84;2778,4;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+539;13/07/2023;Emanuelly Costa;Thiago Souza;Boleto;2;101,62;203,24;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+540;03/01/2023;Igor Alves;Luiz Fernando Freitas;Pix;9;139,48;1255,32;Belo Horizonte;TV 4K;PROD003;Informática
+541;17/11/2023;Srta. Jade Silva;Maria Julia Mendonça;Boleto;1;85,31;85,31;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+542;07/02/2023;Igor Alves;Rebeca Lopes;Pix;8;397,06;3176,48;Belo Horizonte;Tablet;PROD009;Informática
+543;01/08/2023;Dra. Ester Ferreira;Dra. Rafaela Câmara;Dinheiro;3;265,1;795,3;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+544;19/06/2023;Igor Alves;Maria Cecília Ramos;Pix;2;181,21;362,42;Belo Horizonte;Geladeira;PROD004;Informática
+545;28/02/2023;Igor Alves;Clara Machado;Pix;10;269,94;2699,4;Belo Horizonte;Tablet;PROD009;Eletrônicos
+546;16/12/2023;Igor Alves;Otávio Rezende;Cartão;10;460,12;4601,2;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+547;22/09/2023;Igor Alves;Murilo Cavalcanti;Dinheiro;7;135,73;950,11;Belo Horizonte;Fogão;PROD005;Eletrônicos
+548;21/09/2023;Maria Luísa Almeida;Ana Nascimento;Pix;8;31,49;251,92;Belo Horizonte;Geladeira;PROD004;Informática
+549;10/12/2023;Dante Vasconcelos;Vinícius Moreira;Dinheiro;9;271,27;2441,43;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+550;18/12/2023;Alice Araújo;Dr. Léo Pires;Dinheiro;2;110,73;221,46;Belo Horizonte;Câmera DSLR;PROD007;Eletrônicos
+551;02/04/2023;Alícia Cassiano;Elisa Rios;Cartão;6;28,56;171,36;Belo Horizonte;Notebook;PROD002;Eletrônicos
+552;18/07/2023;José Pedro Guerra;Dra. Liz da Costa;Dinheiro;10;412,59;4125,9;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+553;01/10/2023;Emanuelly Costa;Ian da Cunha;Cartão;7;165,04;1155,28;Belo Horizonte;Câmera DSLR;PROD007;Eletrônicos
+554;15/09/2023;Maria Luísa Almeida;Maria Cecília Ramos;Boleto;10;32,3;323;Belo Horizonte;Notebook;PROD002;Informática
+555;22/07/2023;Emanuelly Costa;Apollo da Mota;Pix;10;52,39;523,9;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+556;21/11/2023;Alice Araújo;Ísis Dias;Boleto;9;117,73;1059,57;Belo Horizonte;Câmera DSLR;PROD007;Informática
+557;05/03/2023;Emanuelly Costa;Lorenzo Silva;Dinheiro;1;281,23;281,23;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+558;18/04/2023;Igor Alves;Lucas Freitas;Dinheiro;9;278,29;2504,61;Belo Horizonte;Notebook;PROD002;Informática
+559;12/11/2023;Alícia Cassiano;Dra. Evelyn Rezende;Cartão;9;79,8;718,2;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+560;09/10/2023;José Pedro Guerra;Ian da Cunha;Cartão;3;338,78;1016,34;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+561;12/04/2023;Srta. Jade Silva;João Miguel Castro;Boleto;5;339,13;1695,65;Belo Horizonte;Fogão;PROD005;Eletrônicos
+562;26/05/2023;Srta. Jade Silva;Gael Souza;Pix;6;72,83;436,98;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+563;22/12/2023;Srta. Jade Silva;Maria Sophia Pimenta;Boleto;6;248,07;1488,42;Belo Horizonte;Máquina de Lavar;PROD006;Informática
+564;10/06/2023;Dante Vasconcelos;Dr. Renan Porto;Dinheiro;6;479,74;2878,44;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+565;03/09/2023;José Pedro Guerra;Clara Machado;Boleto;5;421,65;2108,25;Belo Horizonte;TV 4K;PROD003;Informática
+566;27/11/2023;Srta. Jade Silva;Letícia Novais;Boleto;5;248,62;1243,1;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+567;17/11/2023;Maria Luísa Almeida;Miguel Leão;Cartão;3;446,74;1340,22;Belo Horizonte;Geladeira;PROD004;Informática
+568;30/10/2023;Dante Vasconcelos;Liz Macedo;Boleto;1;426,3;426,3;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+569;01/12/2023;Alice Araújo;Yan Gomes;Dinheiro;9;448,05;4032,45;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+570;10/03/2023;José Pedro Guerra;Murilo Cavalcanti;Cartão;4;446,8;1787,2;Belo Horizonte;Micro-ondas;PROD010;Informática
+571;11/11/2023;Alice Araújo;Sr. Benicio Câmara;Pix;7;188,29;1318,03;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+572;05/09/2023;Igor Alves;Liz Macedo;Pix;8;88,02;704,16;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+573;30/04/2023;Emanuelly Costa;Maria Julia Mendonça;Pix;8;123,56;988,48;Belo Horizonte;Fogão;PROD005;Informática
+574;29/08/2023;José Pedro Guerra;Liz Macedo;Cartão;9;454,79;4093,11;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+575;15/05/2023;Srta. Jade Silva;Dra. Rafaela Câmara;Pix;6;60,58;363,48;Belo Horizonte;Tablet;PROD009;Informática
+576;22/09/2023;Alícia Cassiano;Otávio Rezende;Pix;7;330,3;2312,1;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+577;04/09/2023;Srta. Jade Silva;Lorenzo Silva;Pix;9;208,86;1879,74;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+578;19/04/2023;Alice Araújo;Thales Cavalcante;Pix;8;91,15;729,2;Belo Horizonte;Notebook;PROD002;Informática
+579;01/08/2023;Igor Alves;Miguel Leão;Cartão;6;304,99;1829,94;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+580;30/10/2023;Alice Araújo;Ian da Cunha;Dinheiro;8;340,86;2726,88;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+581;10/03/2023;Dra. Ester Ferreira;Liz Macedo;Pix;1;129,4;129,4;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+582;03/11/2023;Srta. Jade Silva;Dra. Liz da Costa;Cartão;1;91,51;91,51;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+583;07/11/2023;José Pedro Guerra;Apollo da Mota;Pix;5;474,15;2370,75;Belo Horizonte;Geladeira;PROD004;Áudio e Vídeo
+584;26/10/2023;Alice Araújo;Letícia Gomes;Boleto;4;416,88;1667,52;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+585;02/11/2023;Srta. Jade Silva;Gael Souza;Pix;3;364,85;1094,55;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+586;14/04/2023;Dra. Ester Ferreira;Murilo Cavalcanti;Dinheiro;7;198,88;1392,16;Belo Horizonte;Notebook;PROD002;Eletrônicos
+587;11/11/2023;Srta. Jade Silva;Liz Macedo;Cartão;3;306,7;920,1;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+588;14/12/2023;Dr. Erick Leão;Rebeca Lopes;Dinheiro;2;246,3;492,6;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+589;28/04/2023;José Pedro Guerra;Maria Flor Gomes;Dinheiro;6;438,66;2631,96;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+590;06/08/2023;Alice Araújo;Sra. Marina Farias;Dinheiro;6;298,63;1791,78;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+591;03/11/2023;Dra. Ester Ferreira;Guilherme Rios;Boleto;4;455,94;1823,76;Belo Horizonte;Notebook;PROD002;Informática
+592;24/09/2023;Emanuelly Costa;Otávio Rezende;Pix;4;12,68;50,72;Belo Horizonte;Smartphone;PROD001;Eletrônicos
+593;07/08/2023;Srta. Jade Silva;Sra. Marina Farias;Boleto;6;210,33;1261,98;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+594;15/12/2023;Dr. Erick Leão;Sr. Benicio Câmara;Pix;9;217,55;1957,95;Belo Horizonte;Máquina de Lavar;PROD006;Informática
+595;02/04/2023;Igor Alves;Elisa Rios;Dinheiro;7;280,53;1963,71;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+596;28/12/2023;Dr. Erick Leão;Bianca Aparecida;Pix;5;494,37;2471,85;Belo Horizonte;Micro-ondas;PROD010;Informática
+597;21/02/2023;Dante Vasconcelos;Murilo Cavalcanti;Dinheiro;2;376,43;752,86;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+598;24/03/2023;Dr. Erick Leão;Dra. Liz da Costa;Cartão;6;402,42;2414,52;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+599;15/02/2023;Maria Luísa Almeida;Sra. Marina Farias;Pix;2;413,4;826,8;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+600;25/07/2023;Srta. Jade Silva;Ian da Cunha;Boleto;6;49,22;295,32;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+601;13/08/2023;Emanuelly Costa;Dra. Evelyn Rezende;Boleto;10;38,16;381,6;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+602;11/11/2023;Alice Araújo;Vinícius Moreira;Cartão;4;26,47;105,88;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+603;14/02/2023;Alícia Cassiano;Maria Flor Gomes;Dinheiro;6;127,24;763,44;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+604;23/09/2023;Emanuelly Costa;Bianca Aparecida;Cartão;6;338,13;2028,78;Belo Horizonte;Câmera DSLR;PROD007;Eletrodomésticos
+605;27/06/2023;Alícia Cassiano;Dr. Renan Porto;Pix;2;279,3;558,6;Belo Horizonte;Tablet;PROD009;Informática
+606;14/05/2023;Alice Araújo;Guilherme Rios;Cartão;8;465,56;3724,48;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+607;01/03/2023;Dra. Ester Ferreira;Sra. Marina Farias;Boleto;9;45,47;409,23;Belo Horizonte;Fogão;PROD005;Informática
+608;05/05/2023;Igor Alves;Maria Flor Gomes;Dinheiro;8;483,37;3866,96;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+609;01/03/2023;Alícia Cassiano;Gael Souza;Dinheiro;8;449,3;3594,4;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+610;31/07/2023;Igor Alves;Rebeca Lopes;Cartão;4;341,69;1366,76;Belo Horizonte;Geladeira;PROD004;Informática
+611;11/12/2023;Igor Alves;Gael Souza;Pix;5;131,65;658,25;Belo Horizonte;Notebook;PROD002;Áudio e Vídeo
+612;04/04/2023;Dante Vasconcelos;João Miguel Castro;Pix;8;163,8;1310,4;Belo Horizonte;Geladeira;PROD004;Informática
+613;28/04/2023;Dante Vasconcelos;Maria Laura Aparecida;Boleto;4;370,36;1481,44;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+614;13/12/2023;José Pedro Guerra;Letícia Gomes;Cartão;3;391,68;1175,04;Belo Horizonte;Notebook;PROD002;Eletrônicos
+615;14/11/2023;Igor Alves;João Miguel Castro;Boleto;9;479,42;4314,78;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+616;23/07/2023;Dante Vasconcelos;Sr. Benicio Câmara;Pix;8;99,61;796,88;Belo Horizonte;Tablet;PROD009;Informática
+617;04/10/2023;Emanuelly Costa;Murilo Cavalcanti;Boleto;1;267,61;267,61;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+618;03/03/2023;Dra. Ester Ferreira;Luiz Fernando Freitas;Boleto;7;431,6;3021,2;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+619;25/10/2023;Maria Luísa Almeida;Alana Oliveira;Boleto;1;15,79;15,79;Belo Horizonte;Geladeira;PROD004;Áudio e Vídeo
+620;02/05/2023;Alícia Cassiano;Apollo da Mota;Boleto;10;432,3;4323;Belo Horizonte;TV 4K;PROD003;Informática
+621;03/08/2023;Igor Alves;Yan Gomes;Dinheiro;6;100,12;600,72;Belo Horizonte;Câmera DSLR;PROD007;Eletrodomésticos
+622;22/10/2023;Dante Vasconcelos;Ana Nascimento;Boleto;5;230,86;1154,3;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+623;16/03/2023;Alice Araújo;Apollo da Mota;Cartão;4;282,12;1128,48;Belo Horizonte;Câmera DSLR;PROD007;Eletrodomésticos
+624;07/09/2023;Alícia Cassiano;Sra. Marina Farias;Cartão;3;216,55;649,65;Belo Horizonte;TV 4K;PROD003;Informática
+625;21/04/2023;Alícia Cassiano;Apollo da Mota;Cartão;7;58,5;409,5;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+626;04/07/2023;Dra. Ester Ferreira;Elisa Rios;Boleto;8;374,85;2998,8;Belo Horizonte;Fogão;PROD005;Informática
+627;14/12/2023;Srta. Jade Silva;Dra. Evelyn Rezende;Pix;6;19,72;118,32;Belo Horizonte;Notebook;PROD002;Informática
+628;17/08/2023;Maria Luísa Almeida;Otávio Rezende;Boleto;5;184;920;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+629;24/11/2023;Igor Alves;Guilherme Rios;Dinheiro;8;319,54;2556,32;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+630;10/06/2023;Igor Alves;Ian da Cunha;Boleto;2;48,76;97,52;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+631;16/08/2023;Igor Alves;Bianca Aparecida;Dinheiro;5;306,64;1533,2;Belo Horizonte;Câmera DSLR;PROD007;Informática
+632;01/05/2023;Alícia Cassiano;Bianca Aparecida;Cartão;7;91,99;643,93;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+633;02/02/2023;José Pedro Guerra;Elisa Rios;Cartão;4;91,79;367,16;Belo Horizonte;Notebook;PROD002;Eletrônicos
+634;23/02/2023;Alícia Cassiano;Letícia Gomes;Pix;1;387,76;387,76;Belo Horizonte;Tablet;PROD009;Eletrônicos
+635;28/04/2023;Dante Vasconcelos;Bianca Aparecida;Boleto;2;330,87;661,74;Belo Horizonte;Câmera DSLR;PROD007;Informática
+636;15/01/2023;Emanuelly Costa;Maria Julia Mendonça;Boleto;8;316,98;2535,84;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+637;08/10/2023;José Pedro Guerra;Srta. Eloá Rocha;Pix;6;433,48;2600,88;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+638;26/09/2023;Dra. Ester Ferreira;Ísis Dias;Boleto;10;302,82;3028,2;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+639;07/06/2023;Igor Alves;Guilherme Rios;Boleto;8;274,44;2195,52;Belo Horizonte;Notebook;PROD002;Áudio e Vídeo
+640;26/06/2023;Alícia Cassiano;Apollo da Mota;Cartão;3;158,75;476,25;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+641;05/01/2023;Dr. Erick Leão;Maria Cecília Ramos;Pix;8;474,01;3792,08;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+642;15/10/2023;Dr. Erick Leão;Thomas Pimenta;Pix;1;278,62;278,62;Belo Horizonte;Geladeira;PROD004;Áudio e Vídeo
+643;23/04/2023;Alícia Cassiano;Letícia Novais;Dinheiro;3;360,32;1080,96;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+644;26/05/2023;Dra. Ester Ferreira;Luara Cardoso;Dinheiro;4;263,14;1052,56;Belo Horizonte;Micro-ondas;PROD010;Informática
+645;29/05/2023;Maria Luísa Almeida;Dra. Liz da Costa;Dinheiro;4;428,21;1712,84;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+646;07/04/2023;Igor Alves;Dr. Léo Pires;Pix;10;231,86;2318,6;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+647;22/02/2023;Alícia Cassiano;Luara Cardoso;Pix;1;485,16;485,16;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+648;19/03/2023;Emanuelly Costa;João Miguel Castro;Pix;8;366,28;2930,24;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+649;26/08/2023;Emanuelly Costa;Dr. Ryan Cirino;Cartão;6;215,92;1295,52;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+650;06/10/2023;José Pedro Guerra;Thales Cavalcante;Pix;3;37,46;112,38;Belo Horizonte;Câmera DSLR;PROD007;Eletrônicos
+651;08/05/2023;Dr. Erick Leão;Maria Flor Gomes;Dinheiro;5;410,45;2052,25;Belo Horizonte;Smartphone;PROD001;Eletrônicos
+652;24/08/2023;Maria Luísa Almeida;Rebeca Lopes;Pix;4;371,43;1485,72;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+653;23/03/2023;Emanuelly Costa;Bianca Aparecida;Cartão;8;200,67;1605,36;Belo Horizonte;Fogão;PROD005;Informática
+654;04/07/2023;Emanuelly Costa;Maria Julia Mendonça;Pix;5;245,8;1229;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+655;08/01/2023;Alice Araújo;Luara Cardoso;Cartão;2;125,62;251,24;Belo Horizonte;Câmera DSLR;PROD007;Informática
+656;25/10/2023;José Pedro Guerra;Maria Liz Castro;Pix;7;396,68;2776,76;Belo Horizonte;Smartphone;PROD001;Eletrônicos
+657;13/09/2023;Maria Luísa Almeida;Vinícius Moreira;Boleto;6;387,69;2326,14;Belo Horizonte;Geladeira;PROD004;Eletrodomésticos
+658;06/03/2023;José Pedro Guerra;Dr. Renan Porto;Boleto;1;39,29;39,29;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+659;09/04/2023;Emanuelly Costa;Maria Liz Castro;Dinheiro;9;396,4;3567,6;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+660;06/09/2023;José Pedro Guerra;Elisa Rios;Boleto;6;364,96;2189,76;Belo Horizonte;Fogão;PROD005;Eletrônicos
+661;06/10/2023;Igor Alves;Alana Oliveira;Dinheiro;9;351,55;3163,95;Belo Horizonte;Geladeira;PROD004;Eletrodomésticos
+662;05/02/2023;Dra. Ester Ferreira;Maria Sophia Pimenta;Dinheiro;5;435,15;2175,75;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+663;21/08/2023;Emanuelly Costa;Maria Flor Gomes;Dinheiro;5;411,52;2057,6;Belo Horizonte;Tablet;PROD009;Informática
+664;14/11/2023;Dante Vasconcelos;Alana Oliveira;Cartão;3;442,64;1327,92;Belo Horizonte;Micro-ondas;PROD010;Informática
+665;10/10/2023;Alice Araújo;Letícia Gomes;Boleto;9;411,33;3701,97;Belo Horizonte;Geladeira;PROD004;Áudio e Vídeo
+666;19/02/2023;Dra. Ester Ferreira;Maria Julia Mendonça;Cartão;6;210,8;1264,8;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+667;17/01/2023;Dante Vasconcelos;Ana Nascimento;Dinheiro;1;419,24;419,24;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+668;03/12/2023;José Pedro Guerra;Rebeca Lopes;Boleto;4;58,39;233,56;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+669;07/01/2023;Dante Vasconcelos;Ian da Cunha;Dinheiro;1;189,51;189,51;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+670;13/10/2023;Dr. Erick Leão;Yan Gomes;Cartão;2;239,35;478,7;Belo Horizonte;Smartphone;PROD001;Informática
+671;05/06/2023;Maria Luísa Almeida;Lucas Freitas;Cartão;10;140,25;1402,5;Belo Horizonte;Smartphone;PROD001;Eletrônicos
+672;08/04/2023;Dante Vasconcelos;Rebeca Lopes;Pix;2;365,33;730,66;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+673;24/02/2023;Srta. Jade Silva;Stella da Rosa;Dinheiro;10;316,41;3164,1;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+674;09/10/2023;Dr. Erick Leão;Murilo Cavalcanti;Boleto;7;442,58;3098,06;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+675;30/06/2023;Igor Alves;Elisa Rios;Boleto;3;271,61;814,83;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+676;08/11/2023;Dante Vasconcelos;Laura Santos;Pix;6;212,05;1272,3;Belo Horizonte;Câmera DSLR;PROD007;Informática
+677;20/08/2023;José Pedro Guerra;Thomas Pimenta;Cartão;7;385,2;2696,4;Belo Horizonte;Fogão;PROD005;Informática
+678;23/09/2023;Alice Araújo;Ísis Dias;Cartão;1;491,65;491,65;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+679;12/01/2023;Alícia Cassiano;Elisa Rios;Pix;5;492,35;2461,75;Belo Horizonte;Geladeira;PROD004;Informática
+680;12/03/2023;Alícia Cassiano;Yan Gomes;Pix;2;28,49;56,98;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+681;20/10/2023;Dr. Erick Leão;Laura Santos;Pix;4;135,56;542,24;Belo Horizonte;Fogão;PROD005;Eletrônicos
+682;07/09/2023;Srta. Jade Silva;Ana Nascimento;Boleto;2;364,55;729,1;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+683;10/02/2023;Emanuelly Costa;Maria Flor Gomes;Boleto;1;368,09;368,09;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+684;03/03/2023;Dante Vasconcelos;Bianca Aparecida;Cartão;6;441,1;2646,6;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+685;13/06/2023;Dra. Ester Ferreira;Laura Santos;Pix;7;36,52;255,64;Belo Horizonte;Tablet;PROD009;Eletrônicos
+686;26/01/2023;Dr. Erick Leão;Clara Machado;Cartão;6;256,18;1537,08;Belo Horizonte;Geladeira;PROD004;Eletrodomésticos
+687;09/03/2023;Igor Alves;Letícia Novais;Dinheiro;4;221,65;886,6;Belo Horizonte;Câmera DSLR;PROD007;Eletrodomésticos
+688;15/05/2023;Maria Luísa Almeida;Thomas Pimenta;Dinheiro;10;375,2;3752;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+689;07/09/2023;Dr. Erick Leão;Ian da Cunha;Pix;3;383,4;1150,2;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+690;05/05/2023;Maria Luísa Almeida;Luara Cardoso;Dinheiro;9;311,84;2806,56;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+691;27/02/2023;Dr. Erick Leão;Thiago Souza;Boleto;6;345,52;2073,12;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+692;06/06/2023;Alice Araújo;Stella da Rosa;Dinheiro;6;103,34;620,04;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+693;13/04/2023;Igor Alves;Maria Sophia Pimenta;Cartão;10;81,45;814,5;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+694;28/05/2023;Emanuelly Costa;Dr. Ryan Cirino;Cartão;2;372,39;744,78;Belo Horizonte;Geladeira;PROD004;Eletrodomésticos
+695;18/04/2023;Dra. Ester Ferreira;Lucas Freitas;Pix;5;230,53;1152,65;Belo Horizonte;Smartphone;PROD001;Informática
+696;15/11/2023;Alice Araújo;Maria Liz Castro;Cartão;9;266,4;2397,6;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+697;11/05/2023;Alice Araújo;Otto Fonseca;Boleto;7;295,67;2069,69;Belo Horizonte;Tablet;PROD009;Eletrônicos
+698;28/01/2023;José Pedro Guerra;Ian da Cunha;Cartão;4;396,7;1586,8;Belo Horizonte;Micro-ondas;PROD010;Informática
+699;25/02/2023;Emanuelly Costa;Maria Cecília Ramos;Dinheiro;2;200,44;400,88;Belo Horizonte;Fogão;PROD005;Informática
+700;11/06/2023;José Pedro Guerra;Allana da Cruz;Cartão;4;490,1;1960,4;Belo Horizonte;Tablet;PROD009;Eletrônicos
+701;21/01/2023;Dante Vasconcelos;Rebeca Lopes;Boleto;3;107,45;322,35;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+702;27/06/2023;Igor Alves;Stella da Rosa;Boleto;6;250,07;1500,42;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+703;01/02/2023;Alícia Cassiano;Otávio Rezende;Cartão;4;498,04;1992,16;Belo Horizonte;Tablet;PROD009;Informática
+704;24/06/2023;Dr. Erick Leão;Maria Julia Mendonça;Pix;9;475,07;4275,63;Belo Horizonte;Geladeira;PROD004;Eletrodomésticos
+705;02/08/2023;Dante Vasconcelos;Laura Santos;Pix;2;367,65;735,3;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+706;18/08/2023;Dra. Ester Ferreira;Srta. Eloá Rocha;Pix;7;485,56;3398,92;Belo Horizonte;Micro-ondas;PROD010;Informática
+707;08/06/2023;Dra. Ester Ferreira;Srta. Eloá Rocha;Dinheiro;3;294,71;884,13;Belo Horizonte;Geladeira;PROD004;Eletrodomésticos
+708;12/06/2023;Maria Luísa Almeida;Elisa Rios;Cartão;3;331,55;994,65;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+709;13/06/2023;Dr. Erick Leão;Guilherme Rios;Boleto;3;165,62;496,86;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+710;07/04/2023;Maria Luísa Almeida;Srta. Eloá Rocha;Pix;8;375,35;3002,8;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+711;07/11/2023;Srta. Jade Silva;Letícia Gomes;Pix;1;383,6;383,6;Belo Horizonte;Micro-ondas;PROD010;Informática
+712;10/02/2023;José Pedro Guerra;Srta. Eloá Rocha;Dinheiro;10;123,77;1237,7;Belo Horizonte;Smartphone;PROD001;Informática
+713;31/08/2023;Alice Araújo;Dra. Luna Ferreira;Pix;6;100,15;600,9;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+714;31/07/2023;Dante Vasconcelos;Bianca Aparecida;Pix;4;25,79;103,16;Belo Horizonte;Smartphone;PROD001;Informática
+715;19/12/2023;Igor Alves;Luiz Fernando Freitas;Pix;4;42,41;169,64;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+716;10/06/2023;Dr. Erick Leão;Letícia Gomes;Cartão;7;208,38;1458,66;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+717;06/05/2023;Dra. Ester Ferreira;Dra. Rafaela Câmara;Dinheiro;9;63,56;572,04;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+718;08/04/2023;Alícia Cassiano;Clara Machado;Dinheiro;1;283,27;283,27;Belo Horizonte;Tablet;PROD009;Eletrônicos
+719;27/03/2023;Dr. Erick Leão;Maria Cecília Ramos;Cartão;5;389,1;1945,5;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+720;16/02/2023;Dra. Ester Ferreira;Bárbara Macedo;Pix;9;452,8;4075,2;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+721;21/07/2023;Dr. Erick Leão;Alana Oliveira;Dinheiro;10;469,54;4695,4;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+722;21/08/2023;Maria Luísa Almeida;Sra. Marina Farias;Boleto;1;97,65;97,65;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+723;28/02/2023;José Pedro Guerra;Dra. Liz da Costa;Boleto;3;362;1086;Belo Horizonte;Notebook;PROD002;Eletrônicos
+724;13/07/2023;Dra. Ester Ferreira;Otávio Rezende;Cartão;2;266,67;533,34;Belo Horizonte;Câmera DSLR;PROD007;Eletrodomésticos
+725;25/03/2023;Alice Araújo;Thales Cavalcante;Cartão;3;457;1371;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+726;17/11/2023;Alice Araújo;Bárbara Macedo;Pix;7;160,95;1126,65;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+727;23/08/2023;José Pedro Guerra;João Miguel Castro;Cartão;4;11,73;46,92;Belo Horizonte;Fogão;PROD005;Eletrônicos
+728;29/10/2023;José Pedro Guerra;Luiz Fernando Freitas;Dinheiro;10;442,52;4425,2;Belo Horizonte;Geladeira;PROD004;Eletrodomésticos
+729;06/05/2023;Dra. Ester Ferreira;Luara Cardoso;Pix;8;48,91;391,28;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+730;19/01/2023;Alice Araújo;Liz Macedo;Boleto;1;100,57;100,57;Belo Horizonte;Smartphone;PROD001;Informática
+731;02/08/2023;Alice Araújo;Dra. Luna Ferreira;Boleto;6;460,99;2765,94;Belo Horizonte;Smartphone;PROD001;Eletrônicos
+732;22/08/2023;Srta. Jade Silva;Yan Gomes;Cartão;10;333,85;3338,5;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+733;14/07/2023;Maria Luísa Almeida;Sr. Benicio Câmara;Dinheiro;2;386,57;773,14;Belo Horizonte;Máquina de Lavar;PROD006;Informática
+734;04/03/2023;Alícia Cassiano;Dr. Ryan Cirino;Dinheiro;9;41,81;376,29;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+735;25/02/2023;Srta. Jade Silva;Miguel Leão;Cartão;9;112,82;1015,38;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+736;07/08/2023;Srta. Jade Silva;Alana Oliveira;Boleto;8;364,8;2918,4;Belo Horizonte;Micro-ondas;PROD010;Informática
+737;08/03/2023;Srta. Jade Silva;Laura Santos;Dinheiro;9;291,82;2626,38;Belo Horizonte;Micro-ondas;PROD010;Informática
+738;03/04/2023;Srta. Jade Silva;Dr. Renan Porto;Boleto;9;367,3;3305,7;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+739;17/11/2023;Maria Luísa Almeida;Bianca Aparecida;Pix;4;10,77;43,08;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+740;20/06/2023;Igor Alves;Elisa Rios;Pix;10;499,5;4995;Belo Horizonte;Câmera DSLR;PROD007;Eletrônicos
+741;04/02/2023;Alícia Cassiano;Ísis Dias;Boleto;1;323,9;323,9;Belo Horizonte;Fogão;PROD005;Informática
+742;22/07/2023;Srta. Jade Silva;Letícia Gomes;Cartão;1;65,78;65,78;Belo Horizonte;Máquina de Lavar;PROD006;Informática
+743;31/08/2023;Emanuelly Costa;Ian da Cunha;Pix;3;105,07;315,21;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+744;25/08/2023;Dr. Erick Leão;Bianca Aparecida;Cartão;8;86,14;689,12;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+745;17/04/2023;Srta. Jade Silva;Vinícius Moreira;Boleto;9;156,68;1410,12;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+746;16/01/2023;Igor Alves;Otávio Rezende;Pix;6;42,44;254,64;Belo Horizonte;TV 4K;PROD003;Informática
+747;07/06/2023;Igor Alves;Diego da Costa;Cartão;10;306,79;3067,9;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+748;10/07/2023;José Pedro Guerra;Ísis Dias;Pix;5;212,8;1064;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+749;20/01/2023;Dante Vasconcelos;Letícia Novais;Dinheiro;9;158,14;1423,26;Belo Horizonte;Notebook;PROD002;Informática
+750;08/04/2023;Igor Alves;Apollo da Mota;Boleto;9;22,22;199,98;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+751;16/04/2023;Emanuelly Costa;Luiz Fernando Freitas;Dinheiro;6;80,21;481,26;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+752;18/12/2023;Srta. Jade Silva;Letícia Novais;Boleto;9;66,76;600,84;Belo Horizonte;Fogão;PROD005;Eletrônicos
+753;12/01/2023;Srta. Jade Silva;Sr. Benicio Câmara;Boleto;8;445,7;3565,6;Belo Horizonte;Notebook;PROD002;Informática
+754;22/05/2023;Dra. Ester Ferreira;Alana Oliveira;Dinheiro;4;167,23;668,92;Belo Horizonte;Geladeira;PROD004;Informática
+755;28/02/2023;Emanuelly Costa;Letícia Gomes;Cartão;2;143,6;287,2;Belo Horizonte;TV 4K;PROD003;Informática
+756;19/05/2023;Alice Araújo;Diego da Costa;Boleto;4;275,84;1103,36;Belo Horizonte;Tablet;PROD009;Informática
+757;10/11/2023;Igor Alves;Dra. Rafaela Câmara;Dinheiro;10;129,96;1299,6;Belo Horizonte;Notebook;PROD002;Informática
+758;24/02/2023;Dr. Erick Leão;Otto Fonseca;Cartão;1;73,74;73,74;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+759;12/11/2023;Igor Alves;Ísis Dias;Boleto;7;202,04;1414,28;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+760;27/08/2023;Srta. Jade Silva;Srta. Eloá Rocha;Cartão;4;359,32;1437,28;Belo Horizonte;Tablet;PROD009;Eletrônicos
+761;29/08/2023;Dante Vasconcelos;Dr. Renan Porto;Pix;8;57,66;461,28;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+762;04/04/2023;Igor Alves;Alana Oliveira;Dinheiro;10;136,45;1364,5;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+763;29/06/2023;José Pedro Guerra;Luiz Fernando Freitas;Pix;8;24,83;198,64;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+764;18/09/2023;Maria Luísa Almeida;Thomas Pimenta;Cartão;5;386,29;1931,45;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+765;30/09/2023;José Pedro Guerra;Thomas Pimenta;Dinheiro;6;282,51;1695,06;Belo Horizonte;Notebook;PROD002;Informática
+766;04/09/2023;Dr. Erick Leão;Gael Souza;Boleto;4;314,23;1256,92;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+767;11/08/2023;Srta. Jade Silva;Dr. Ryan Cirino;Pix;4;408,82;1635,28;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+768;28/02/2023;Srta. Jade Silva;Allana da Cruz;Dinheiro;3;334,68;1004,04;Belo Horizonte;Notebook;PROD002;Áudio e Vídeo
+769;07/06/2023;Dr. Erick Leão;Gael Souza;Cartão;6;281,99;1691,94;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+770;11/09/2023;Emanuelly Costa;Letícia Novais;Pix;10;387,96;3879,6;Belo Horizonte;Câmera DSLR;PROD007;Informática
+771;05/12/2023;Alice Araújo;Clara Machado;Boleto;3;444,76;1334,28;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+772;16/04/2023;Igor Alves;Ísis Dias;Boleto;7;311,63;2181,41;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+773;26/10/2023;Emanuelly Costa;Letícia Gomes;Dinheiro;7;361,72;2532,04;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+774;09/10/2023;Emanuelly Costa;Lorenzo Silva;Boleto;3;427,73;1283,19;Belo Horizonte;Smartphone;PROD001;Informática
+775;10/08/2023;Srta. Jade Silva;Thomas Pimenta;Boleto;2;432,01;864,02;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+776;06/12/2023;Alice Araújo;Apollo da Mota;Pix;7;208,96;1462,72;Belo Horizonte;Câmera DSLR;PROD007;Eletrodomésticos
+777;20/03/2023;Alícia Cassiano;Maria Julia Mendonça;Pix;4;282,16;1128,64;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+778;07/09/2023;Dr. Erick Leão;Srta. Eloá Rocha;Cartão;3;15,69;47,07;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+779;23/12/2023;Srta. Jade Silva;Thiago Souza;Pix;3;324,7;974,1;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+780;16/07/2023;Igor Alves;Dr. Renan Porto;Pix;8;259,61;2076,88;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+781;02/05/2023;Dra. Ester Ferreira;Luara Cardoso;Dinheiro;7;306,24;2143,68;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+782;18/10/2023;José Pedro Guerra;Diego da Costa;Boleto;9;292,41;2631,69;Belo Horizonte;Smartphone;PROD001;Eletrônicos
+783;27/09/2023;Alícia Cassiano;Luiz Fernando Freitas;Cartão;2;294,33;588,66;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+784;30/08/2023;Maria Luísa Almeida;Vinícius Moreira;Boleto;9;446,06;4014,54;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+785;29/08/2023;José Pedro Guerra;Murilo Cavalcanti;Dinheiro;10;35,86;358,6;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+786;31/05/2023;Alícia Cassiano;Dra. Luna Ferreira;Cartão;10;369,57;3695,7;Belo Horizonte;Câmera DSLR;PROD007;Informática
+787;01/02/2023;José Pedro Guerra;José Pedro da Rocha;Pix;10;377,22;3772,2;Belo Horizonte;Micro-ondas;PROD010;Informática
+788;27/05/2023;José Pedro Guerra;Letícia Novais;Pix;10;35,29;352,9;Belo Horizonte;Fogão;PROD005;Eletrônicos
+789;09/03/2023;Srta. Jade Silva;Luara Cardoso;Boleto;9;47,66;428,94;Belo Horizonte;Fogão;PROD005;Informática
+790;30/10/2023;Alice Araújo;Maria Julia Mendonça;Dinheiro;5;16,96;84,8;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+791;06/09/2023;Alice Araújo;Rebeca Lopes;Cartão;6;405,84;2435,04;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+792;11/09/2023;Dr. Erick Leão;Maria Flor Gomes;Dinheiro;6;492,2;2953,2;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+793;23/10/2023;Igor Alves;Otto Fonseca;Boleto;4;333,73;1334,92;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+794;01/09/2023;Alícia Cassiano;Apollo da Mota;Pix;2;35,74;71,48;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+795;15/05/2023;Alice Araújo;Rebeca Lopes;Dinheiro;7;344,92;2414,44;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+796;14/12/2023;Igor Alves;Rebeca Lopes;Cartão;1;151,51;151,51;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+797;09/11/2023;Alícia Cassiano;Dr. Ryan Cirino;Boleto;2;459,68;919,36;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+798;25/08/2023;Dante Vasconcelos;Miguel Leão;Pix;5;403,14;2015,7;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+799;08/10/2023;Emanuelly Costa;Vinícius Moreira;Cartão;9;175,33;1577,97;Belo Horizonte;TV 4K;PROD003;Informática
+800;17/12/2023;José Pedro Guerra;Stella da Rosa;Pix;2;15,86;31,72;Belo Horizonte;Notebook;PROD002;Eletrônicos
+801;14/11/2023;Maria Luísa Almeida;Otto Fonseca;Pix;5;133,43;667,15;Belo Horizonte;Smartphone;PROD001;Eletrônicos
+802;06/11/2023;Alice Araújo;Otávio Rezende;Pix;10;322,66;3226,6;Belo Horizonte;Notebook;PROD002;Eletrônicos
+803;28/08/2023;Maria Luísa Almeida;Dra. Liz da Costa;Dinheiro;2;350,87;701,74;Belo Horizonte;Fogão;PROD005;Informática
+804;24/03/2023;Maria Luísa Almeida;Luara Cardoso;Cartão;5;386,99;1934,95;Belo Horizonte;Máquina de Lavar;PROD006;Informática
+805;16/05/2023;Alice Araújo;Clara Machado;Cartão;7;200,41;1402,87;Belo Horizonte;Smartphone;PROD001;Informática
+806;02/04/2023;José Pedro Guerra;Ana Nascimento;Pix;8;489,92;3919,36;Belo Horizonte;Geladeira;PROD004;Áudio e Vídeo
+807;15/08/2023;Alícia Cassiano;Ana Nascimento;Cartão;9;386,67;3480,03;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+808;10/01/2023;José Pedro Guerra;Maria Sophia Pimenta;Cartão;2;44,5;89;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+809;25/12/2023;Igor Alves;Thomas Pimenta;Cartão;1;335,66;335,66;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+810;12/08/2023;Dr. Erick Leão;Miguel Leão;Cartão;9;356,73;3210,57;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+811;04/03/2023;Srta. Jade Silva;Dra. Rafaela Câmara;Boleto;9;120,66;1085,94;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+812;20/11/2023;Maria Luísa Almeida;Yan Gomes;Boleto;6;344,1;2064,6;Belo Horizonte;Câmera DSLR;PROD007;Eletrônicos
+813;01/04/2023;Dra. Ester Ferreira;Liz Macedo;Dinheiro;2;422,18;844,36;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+814;19/11/2023;Igor Alves;João Miguel Castro;Cartão;4;156,45;625,8;Belo Horizonte;Câmera DSLR;PROD007;Eletrônicos
+815;09/04/2023;Emanuelly Costa;Miguel Leão;Pix;8;370,31;2962,48;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+816;13/09/2023;Dra. Ester Ferreira;Clara Machado;Cartão;8;200,5;1604;Belo Horizonte;Tablet;PROD009;Informática
+817;27/07/2023;Maria Luísa Almeida;Lucas Freitas;Dinheiro;1;176,25;176,25;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+818;06/02/2023;Emanuelly Costa;Bianca Aparecida;Pix;9;82,99;746,91;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+819;05/05/2023;Alice Araújo;Lorenzo Silva;Pix;8;330,38;2643,04;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+820;09/11/2023;Alice Araújo;José Pedro da Rocha;Cartão;1;453,28;453,28;Belo Horizonte;Notebook;PROD002;Áudio e Vídeo
+821;02/02/2023;Dante Vasconcelos;Thiago Souza;Boleto;2;65,95;131,9;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+822;14/06/2023;Dante Vasconcelos;Sr. Benicio Câmara;Cartão;7;168,88;1182,16;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+823;21/05/2023;Alice Araújo;Sr. Benicio Câmara;Dinheiro;10;94,99;949,9;Belo Horizonte;Notebook;PROD002;Eletrônicos
+824;13/08/2023;Dante Vasconcelos;José Pedro da Rocha;Cartão;3;351,18;1053,54;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+825;22/03/2023;Emanuelly Costa;João Miguel Castro;Cartão;3;58,98;176,94;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+826;02/08/2023;José Pedro Guerra;Maria Liz Castro;Pix;1;13,54;13,54;Belo Horizonte;Notebook;PROD002;Informática
+827;30/07/2023;Dante Vasconcelos;Thales Cavalcante;Cartão;4;80,11;320,44;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+828;18/11/2023;Alícia Cassiano;Stella da Rosa;Dinheiro;10;98,2;982;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+829;29/09/2023;Maria Luísa Almeida;Letícia Gomes;Boleto;1;283,28;283,28;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+830;22/05/2023;Emanuelly Costa;Dra. Evelyn Rezende;Cartão;9;258,69;2328,21;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+831;01/04/2023;Alice Araújo;Maria Julia Mendonça;Cartão;3;345,77;1037,31;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+832;11/08/2023;Alícia Cassiano;Dr. Ryan Cirino;Dinheiro;1;325,98;325,98;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+833;22/03/2023;Emanuelly Costa;João Miguel Castro;Cartão;1;61,17;61,17;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+834;03/08/2023;Dante Vasconcelos;Bianca Aparecida;Boleto;2;448,59;897,18;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+835;20/02/2023;Dante Vasconcelos;Bianca Aparecida;Dinheiro;4;391,7;1566,8;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+836;30/08/2023;Srta. Jade Silva;João Miguel Castro;Cartão;4;194,01;776,04;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+837;02/04/2023;Dr. Erick Leão;Yan Gomes;Pix;7;81,02;567,14;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+838;14/04/2023;Igor Alves;Srta. Eloá Rocha;Cartão;8;362,71;2901,68;Belo Horizonte;Máquina de Lavar;PROD006;Informática
+839;27/08/2023;José Pedro Guerra;Guilherme Rios;Pix;10;39,23;392,3;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+840;23/11/2023;Srta. Jade Silva;Dra. Luna Ferreira;Pix;6;117,73;706,38;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+841;21/04/2023;Srta. Jade Silva;Apollo da Mota;Dinheiro;2;211,73;423,46;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+842;07/05/2023;Igor Alves;Thiago Souza;Pix;5;17,11;85,55;Belo Horizonte;Câmera DSLR;PROD007;Eletrodomésticos
+843;02/08/2023;Emanuelly Costa;Liz Macedo;Dinheiro;10;473,66;4736,6;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+844;03/09/2023;Maria Luísa Almeida;Clara Machado;Dinheiro;9;26,47;238,23;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+845;22/04/2023;Alice Araújo;Stella da Rosa;Boleto;4;50,71;202,84;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+846;03/09/2023;Alícia Cassiano;Dra. Luna Ferreira;Dinheiro;4;327,34;1309,36;Belo Horizonte;Notebook;PROD002;Eletrônicos
+847;26/08/2023;Alice Araújo;Diego da Costa;Dinheiro;10;376,17;3761,7;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+848;27/12/2023;Emanuelly Costa;Dra. Liz da Costa;Cartão;3;397,03;1191,09;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+849;01/06/2023;Dr. Erick Leão;Sr. Benicio Câmara;Boleto;7;447,78;3134,46;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+850;14/11/2023;Igor Alves;Bianca Aparecida;Cartão;10;275,79;2757,9;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+851;26/02/2023;Dr. Erick Leão;Yan Gomes;Dinheiro;9;473,21;4258,89;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+852;28/11/2023;Dra. Ester Ferreira;Diego da Costa;Cartão;10;30,03;300,3;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+853;21/06/2023;Dante Vasconcelos;Dra. Rafaela Câmara;Cartão;9;357,58;3218,22;Belo Horizonte;Geladeira;PROD004;Eletrodomésticos
+854;26/04/2023;Igor Alves;Stella da Rosa;Boleto;8;371,32;2970,56;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+855;02/02/2023;Igor Alves;Stella da Rosa;Dinheiro;9;343,31;3089,79;Belo Horizonte;Fogão;PROD005;Eletrônicos
+856;30/12/2023;Dra. Ester Ferreira;Vinícius Moreira;Boleto;8;255,71;2045,68;Belo Horizonte;Notebook;PROD002;Áudio e Vídeo
+857;23/08/2023;Maria Luísa Almeida;Letícia Novais;Dinheiro;8;314,27;2514,16;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+858;26/03/2023;Alícia Cassiano;Bárbara Macedo;Pix;3;151,3;453,9;Belo Horizonte;Notebook;PROD002;Eletrônicos
+859;31/05/2023;Dr. Erick Leão;Vinícius Moreira;Pix;8;83,74;669,92;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+860;30/05/2023;Dante Vasconcelos;Gael Souza;Cartão;8;179,88;1439,04;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+861;30/07/2023;Srta. Jade Silva;Dr. Ryan Cirino;Boleto;4;419,12;1676,48;Belo Horizonte;Tablet;PROD009;Informática
+862;23/08/2023;Alícia Cassiano;Laura Santos;Pix;8;300,75;2406;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+863;05/09/2023;Igor Alves;Maria Cecília Ramos;Cartão;5;94,15;470,75;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+864;13/11/2023;Alice Araújo;Diego da Costa;Boleto;3;183,03;549,09;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+865;02/05/2023;Maria Luísa Almeida;Liz Macedo;Boleto;3;486,87;1460,61;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+866;05/04/2023;Dante Vasconcelos;Elisa Rios;Cartão;10;71,97;719,7;Belo Horizonte;Fogão;PROD005;Informática
+867;18/08/2023;Dra. Ester Ferreira;Dra. Luna Ferreira;Boleto;6;489,23;2935,38;Belo Horizonte;TV 4K;PROD003;Informática
+868;16/03/2023;José Pedro Guerra;Alana Oliveira;Pix;2;461,01;922,02;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+869;28/11/2023;Alícia Cassiano;Apollo da Mota;Boleto;1;485,37;485,37;Belo Horizonte;Tablet;PROD009;Informática
+870;23/06/2023;Maria Luísa Almeida;Miguel Leão;Dinheiro;10;336,77;3367,7;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+871;07/06/2023;Emanuelly Costa;Thomas Pimenta;Pix;1;78,32;78,32;Belo Horizonte;Tablet;PROD009;Eletrônicos
+872;08/11/2023;Dante Vasconcelos;José Pedro da Rocha;Pix;8;185,12;1480,96;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+873;13/12/2023;Maria Luísa Almeida;Murilo Cavalcanti;Dinheiro;5;105,9;529,5;Belo Horizonte;Notebook;PROD002;Áudio e Vídeo
+874;08/12/2023;Igor Alves;Thomas Pimenta;Pix;4;250,33;1001,32;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+875;26/05/2023;Igor Alves;Stella da Rosa;Boleto;7;191,12;1337,84;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+876;16/08/2023;Dr. Erick Leão;Clara Machado;Boleto;8;438,41;3507,28;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+877;13/03/2023;Srta. Jade Silva;Allana da Cruz;Cartão;3;404,78;1214,34;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+878;03/02/2023;Srta. Jade Silva;Sr. Benicio Câmara;Dinheiro;3;111,81;335,43;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+879;31/03/2023;Dra. Ester Ferreira;Luiz Fernando Freitas;Pix;2;13,24;26,48;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+880;11/10/2023;José Pedro Guerra;Liz Macedo;Boleto;4;101,14;404,56;Belo Horizonte;Câmera DSLR;PROD007;Informática
+881;25/04/2023;Emanuelly Costa;Lorenzo Silva;Pix;10;158,92;1589,2;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+882;01/12/2023;Alícia Cassiano;Guilherme Rios;Pix;5;157,08;785,4;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+883;03/03/2023;Alícia Cassiano;João Miguel Castro;Cartão;8;454,33;3634,64;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+884;17/10/2023;Dr. Erick Leão;Sra. Marina Farias;Dinheiro;10;375,33;3753,3;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+885;13/05/2023;Alice Araújo;José Pedro da Rocha;Cartão;2;192,87;385,74;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+886;25/03/2023;Emanuelly Costa;Luara Cardoso;Boleto;3;166,64;499,92;Belo Horizonte;TV 4K;PROD003;Informática
+887;29/05/2023;Alícia Cassiano;Rebeca Lopes;Cartão;7;321,76;2252,32;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+888;03/11/2023;Alice Araújo;Dra. Rafaela Câmara;Boleto;9;104,97;944,73;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+889;17/12/2023;Igor Alves;Ana Nascimento;Boleto;6;415,14;2490,84;Belo Horizonte;Fogão;PROD005;Informática
+890;10/07/2023;José Pedro Guerra;Guilherme Rios;Boleto;3;16,32;48,96;Belo Horizonte;Tablet;PROD009;Informática
+891;07/04/2023;Dra. Ester Ferreira;Letícia Gomes;Cartão;3;60,18;180,54;Belo Horizonte;TV 4K;PROD003;Eletrodomésticos
+892;09/03/2023;Emanuelly Costa;Apollo da Mota;Boleto;7;235,64;1649,48;Belo Horizonte;Notebook;PROD002;Eletrônicos
+893;02/11/2023;Dra. Ester Ferreira;Sr. Benicio Câmara;Boleto;5;348,61;1743,05;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+894;24/04/2023;Alice Araújo;Maria Liz Castro;Pix;3;357,85;1073,55;Belo Horizonte;Smartphone;PROD001;Eletrônicos
+895;10/02/2023;Dr. Erick Leão;Maria Liz Castro;Cartão;4;160,64;642,56;Belo Horizonte;Geladeira;PROD004;Eletrodomésticos
+896;22/01/2023;Dante Vasconcelos;Ana Nascimento;Cartão;2;19,22;38,44;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+897;10/05/2023;Emanuelly Costa;Gael Souza;Boleto;9;300,66;2705,94;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+898;28/10/2023;Dante Vasconcelos;Thales Cavalcante;Boleto;1;379,73;379,73;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+899;30/06/2023;Alice Araújo;Murilo Cavalcanti;Pix;1;54,48;54,48;Belo Horizonte;Fogão;PROD005;Informática
+900;28/09/2023;Dante Vasconcelos;Diego da Costa;Pix;9;289,42;2604,78;Belo Horizonte;Notebook;PROD002;Eletrônicos
+901;20/02/2023;Dante Vasconcelos;Murilo Cavalcanti;Dinheiro;5;94,17;470,85;Belo Horizonte;Tablet;PROD009;Eletrônicos
+902;11/12/2023;Maria Luísa Almeida;Thales Cavalcante;Boleto;6;352,09;2112,54;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+903;28/07/2023;Maria Luísa Almeida;Sr. Benicio Câmara;Boleto;7;217,81;1524,67;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+904;11/09/2023;Igor Alves;Diego da Costa;Boleto;2;238,29;476,58;Belo Horizonte;Tablet;PROD009;Eletrodomésticos
+905;10/09/2023;Maria Luísa Almeida;Otávio Rezende;Boleto;9;363,85;3274,65;Belo Horizonte;Notebook;PROD002;Informática
+906;26/04/2023;Dra. Ester Ferreira;Guilherme Rios;Boleto;8;304,19;2433,52;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+907;14/12/2023;Igor Alves;Thales Cavalcante;Cartão;7;102,5;717,5;Belo Horizonte;Notebook;PROD002;Áudio e Vídeo
+908;25/09/2023;Maria Luísa Almeida;Bárbara Macedo;Pix;8;339,33;2714,64;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+909;28/03/2023;Maria Luísa Almeida;Yan Gomes;Pix;7;206,31;1444,17;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+910;30/04/2023;Dr. Erick Leão;Miguel Leão;Dinheiro;6;108,13;648,78;Belo Horizonte;Câmera DSLR;PROD007;Eletrônicos
+911;26/11/2023;Dr. Erick Leão;Stella da Rosa;Dinheiro;5;384,76;1923,8;Belo Horizonte;Micro-ondas;PROD010;Informática
+912;17/03/2023;José Pedro Guerra;Ana Nascimento;Cartão;10;475,57;4755,7;Belo Horizonte;Fone de Ouvido;PROD008;Informática
+913;16/01/2023;Maria Luísa Almeida;Bianca Aparecida;Cartão;5;249,78;1248,9;Belo Horizonte;Geladeira;PROD004;Eletrodomésticos
+914;15/07/2023;Srta. Jade Silva;Vinícius Moreira;Boleto;2;254,09;508,18;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+915;09/02/2023;Dra. Ester Ferreira;Maria Flor Gomes;Dinheiro;3;158,35;475,05;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+916;16/09/2023;Alícia Cassiano;Dra. Rafaela Câmara;Boleto;8;108,95;871,6;Belo Horizonte;Fone de Ouvido;PROD008;Áudio e Vídeo
+917;02/03/2023;Dr. Erick Leão;Clara Machado;Boleto;9;277,84;2500,56;Belo Horizonte;Smartphone;PROD001;Áudio e Vídeo
+918;01/04/2023;Dra. Ester Ferreira;Maria Julia Mendonça;Boleto;7;226,85;1587,95;Belo Horizonte;Smartphone;PROD001;Eletrônicos
+919;19/07/2023;José Pedro Guerra;Sr. Benicio Câmara;Cartão;3;250,83;752,49;Belo Horizonte;TV 4K;PROD003;Informática
+920;01/09/2023;Dra. Ester Ferreira;Dra. Luna Ferreira;Cartão;10;340,76;3407,6;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+921;12/11/2023;Igor Alves;Maria Flor Gomes;Boleto;7;139,06;973,42;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+922;07/03/2023;Igor Alves;Stella da Rosa;Cartão;6;40,1;240,6;Belo Horizonte;Micro-ondas;PROD010;Eletrônicos
+923;02/07/2023;Dr. Erick Leão;Stella da Rosa;Cartão;6;196,48;1178,88;Belo Horizonte;Câmera DSLR;PROD007;Informática
+924;19/12/2023;Maria Luísa Almeida;Ísis Dias;Cartão;4;131,33;525,32;Belo Horizonte;Fogão;PROD005;Eletrônicos
+925;20/01/2023;José Pedro Guerra;Maria Julia Mendonça;Dinheiro;6;93,19;559,14;Belo Horizonte;Tablet;PROD009;Informática
+926;11/01/2023;José Pedro Guerra;José Pedro da Rocha;Cartão;10;262,23;2622,3;Belo Horizonte;Câmera DSLR;PROD007;Informática
+927;21/10/2023;Maria Luísa Almeida;João Miguel Castro;Cartão;6;195,09;1170,54;Belo Horizonte;Câmera DSLR;PROD007;Informática
+928;27/03/2023;Srta. Jade Silva;Ísis Dias;Boleto;4;174,62;698,48;Belo Horizonte;Tablet;PROD009;Informática
+929;28/05/2023;Alícia Cassiano;Otto Fonseca;Boleto;7;108,86;762,02;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+930;24/10/2023;Maria Luísa Almeida;José Pedro da Rocha;Boleto;10;206,99;2069,9;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+931;07/08/2023;Dante Vasconcelos;Stella da Rosa;Cartão;5;42,96;214,8;Belo Horizonte;Tablet;PROD009;Áudio e Vídeo
+932;06/12/2023;Dra. Ester Ferreira;Alana Oliveira;Pix;5;257,27;1286,35;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+933;10/12/2023;Dra. Ester Ferreira;Thales Cavalcante;Cartão;7;207,13;1449,91;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+934;20/04/2023;José Pedro Guerra;Luara Cardoso;Dinheiro;9;432,73;3894,57;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+935;06/07/2023;José Pedro Guerra;Maria Sophia Pimenta;Pix;10;366,04;3660,4;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+936;30/07/2023;Igor Alves;Gael Souza;Pix;3;375,75;1127,25;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+937;12/05/2023;Srta. Jade Silva;Maria Laura Aparecida;Dinheiro;7;140,8;985,6;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+938;06/05/2023;Alícia Cassiano;Luiz Fernando Freitas;Dinheiro;4;65,64;262,56;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+939;14/04/2023;Alice Araújo;Luara Cardoso;Pix;9;495,73;4461,57;Belo Horizonte;Câmera DSLR;PROD007;Eletrônicos
+940;26/11/2023;Emanuelly Costa;Miguel Leão;Dinheiro;1;136,61;136,61;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+941;05/11/2023;Alícia Cassiano;Gael Souza;Dinheiro;1;37,11;37,11;Belo Horizonte;Notebook;PROD002;Informática
+942;13/03/2023;Dante Vasconcelos;Bárbara Macedo;Cartão;6;339,12;2034,72;Belo Horizonte;Notebook;PROD002;Áudio e Vídeo
+943;12/09/2023;Maria Luísa Almeida;Maria Laura Aparecida;Cartão;9;335,47;3019,23;Belo Horizonte;Micro-ondas;PROD010;Informática
+944;01/05/2023;Dr. Erick Leão;Lucas Freitas;Pix;6;171,35;1028,1;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+945;29/07/2023;Alícia Cassiano;José Pedro da Rocha;Cartão;2;95,83;191,66;Belo Horizonte;Fogão;PROD005;Áudio e Vídeo
+946;07/10/2023;Dr. Erick Leão;Apollo da Mota;Pix;8;271,4;2171,2;Belo Horizonte;Notebook;PROD002;Informática
+947;01/09/2023;Igor Alves;Ísis Dias;Cartão;5;440,92;2204,6;Belo Horizonte;TV 4K;PROD003;Informática
+948;10/05/2023;Dra. Ester Ferreira;Otávio Rezende;Boleto;10;27,06;270,6;Belo Horizonte;Smartphone;PROD001;Eletrodomésticos
+949;15/08/2023;Dr. Erick Leão;Lorenzo Silva;Dinheiro;6;452,55;2715,3;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+950;18/04/2023;Alice Araújo;Clara Machado;Boleto;5;157,44;787,2;Belo Horizonte;Geladeira;PROD004;Informática
+951;09/09/2023;José Pedro Guerra;Bianca Aparecida;Dinheiro;7;396,77;2777,39;Belo Horizonte;Fogão;PROD005;Eletrônicos
+952;24/12/2023;Alícia Cassiano;Murilo Cavalcanti;Cartão;6;361,52;2169,12;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+953;21/08/2023;Emanuelly Costa;Sr. Benicio Câmara;Cartão;6;216,23;1297,38;Belo Horizonte;Tablet;PROD009;Informática
+954;25/07/2023;Dante Vasconcelos;Dra. Liz da Costa;Boleto;3;318,78;956,34;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+955;08/05/2023;Dra. Ester Ferreira;Diego da Costa;Pix;6;292,15;1752,9;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+956;02/09/2023;Alice Araújo;Sra. Marina Farias;Pix;10;346,02;3460,2;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+957;13/02/2023;Dr. Erick Leão;Yan Gomes;Pix;10;415,12;4151,2;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+958;11/01/2023;Emanuelly Costa;Elisa Rios;Pix;7;439,43;3076,01;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+959;26/12/2023;Alice Araújo;Otto Fonseca;Dinheiro;2;487,32;974,64;Belo Horizonte;Geladeira;PROD004;Informática
+960;15/02/2023;Igor Alves;Dra. Luna Ferreira;Cartão;10;220,16;2201,6;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+961;11/12/2023;José Pedro Guerra;Bárbara Macedo;Pix;1;362,11;362,11;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+962;11/09/2023;Dr. Erick Leão;Srta. Eloá Rocha;Dinheiro;4;103,37;413,48;Belo Horizonte;Fogão;PROD005;Informática
+963;03/08/2023;Alice Araújo;Guilherme Rios;Pix;4;304,04;1216,16;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+964;13/11/2023;José Pedro Guerra;Maria Laura Aparecida;Boleto;1;152,19;152,19;Belo Horizonte;Fogão;PROD005;Eletrodomésticos
+965;06/01/2023;José Pedro Guerra;Srta. Eloá Rocha;Boleto;10;345,29;3452,9;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+966;02/11/2023;Alícia Cassiano;Gael Souza;Cartão;7;346,56;2425,92;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+967;30/08/2023;Igor Alves;Allana da Cruz;Cartão;9;38,79;349,11;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+968;04/06/2023;Dr. Erick Leão;Maria Julia Mendonça;Boleto;1;134,29;134,29;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+969;25/10/2023;Alice Araújo;Sra. Marina Farias;Pix;3;484,35;1453,05;Belo Horizonte;Tablet;PROD009;Eletrônicos
+970;09/03/2023;Maria Luísa Almeida;Alana Oliveira;Dinheiro;9;251,49;2263,41;Belo Horizonte;Máquina de Lavar;PROD006;Áudio e Vídeo
+971;07/03/2023;José Pedro Guerra;Luara Cardoso;Boleto;3;137,6;412,8;Belo Horizonte;Máquina de Lavar;PROD006;Eletrônicos
+972;22/09/2023;Igor Alves;Thiago Souza;Pix;7;148,63;1040,41;Belo Horizonte;Fogão;PROD005;Informática
+973;12/10/2023;José Pedro Guerra;Otto Fonseca;Pix;6;371,07;2226,42;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+974;29/08/2023;Alícia Cassiano;Dra. Luna Ferreira;Dinheiro;3;36,74;110,22;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+975;15/08/2023;Igor Alves;Diego da Costa;Dinheiro;7;66,85;467,95;Belo Horizonte;Fone de Ouvido;PROD008;Eletrônicos
+976;28/06/2023;Maria Luísa Almeida;Lucas Freitas;Boleto;8;251,56;2012,48;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+977;16/10/2023;Srta. Jade Silva;Lucas Freitas;Cartão;3;419,13;1257,39;Belo Horizonte;Tablet;PROD009;Informática
+978;09/02/2023;Dante Vasconcelos;Maria Flor Gomes;Dinheiro;9;385,76;3471,84;Belo Horizonte;TV 4K;PROD003;Áudio e Vídeo
+979;15/12/2023;Maria Luísa Almeida;Thomas Pimenta;Boleto;2;444,81;889,62;Belo Horizonte;Smartphone;PROD001;Informática
+980;20/03/2023;Emanuelly Costa;Letícia Novais;Dinheiro;10;465,28;4652,8;Belo Horizonte;Notebook;PROD002;Informática
+981;18/06/2023;Emanuelly Costa;Ian da Cunha;Dinheiro;8;232,49;1859,92;Belo Horizonte;Fogão;PROD005;Eletrônicos
+982;19/04/2023;Emanuelly Costa;Ian da Cunha;Boleto;6;474,24;2845,44;Belo Horizonte;Micro-ondas;PROD010;Eletrodomésticos
+983;17/02/2023;Dr. Erick Leão;Sra. Marina Farias;Pix;6;401,09;2406,54;Belo Horizonte;Notebook;PROD002;Áudio e Vídeo
+984;11/01/2023;Dante Vasconcelos;Dra. Luna Ferreira;Dinheiro;4;482,87;1931,48;Belo Horizonte;Câmera DSLR;PROD007;Eletrônicos
+985;02/06/2023;José Pedro Guerra;Thiago Souza;Boleto;7;149,62;1047,34;Belo Horizonte;TV 4K;PROD003;Eletrônicos
+986;20/09/2023;Dante Vasconcelos;João Miguel Castro;Dinheiro;10;74,33;743,3;Belo Horizonte;Notebook;PROD002;Informática
+987;16/02/2023;Dr. Erick Leão;Yan Gomes;Pix;7;243,46;1704,22;Belo Horizonte;Micro-ondas;PROD010;Áudio e Vídeo
+988;20/09/2023;Igor Alves;Luiz Fernando Freitas;Pix;7;319,04;2233,28;Belo Horizonte;Notebook;PROD002;Eletrônicos
+989;29/05/2023;José Pedro Guerra;Thiago Souza;Cartão;3;466,03;1398,09;Belo Horizonte;Tablet;PROD009;Eletrônicos
+990;08/05/2023;Dra. Ester Ferreira;Thiago Souza;Boleto;8;157,19;1257,52;Belo Horizonte;TV 4K;PROD003;Informática
+991;20/09/2023;Maria Luísa Almeida;Murilo Cavalcanti;Dinheiro;10;33,39;333,9;Belo Horizonte;Notebook;PROD002;Eletrônicos
+992;01/07/2023;Alícia Cassiano;José Pedro da Rocha;Cartão;7;56,3;394,1;Belo Horizonte;Micro-ondas;PROD010;Informática
+993;04/04/2023;Dr. Erick Leão;Liz Macedo;Cartão;9;17,97;161,73;Belo Horizonte;Fone de Ouvido;PROD008;Eletrodomésticos
+994;28/10/2023;José Pedro Guerra;Sr. Benicio Câmara;Dinheiro;7;439,61;3077,27;Belo Horizonte;Fogão;PROD005;Informática
+995;19/04/2023;Alice Araújo;Letícia Novais;Boleto;10;405,84;4058,4;Belo Horizonte;Máquina de Lavar;PROD006;Eletrodomésticos
+996;22/07/2023;Maria Luísa Almeida;Lorenzo Silva;Pix;2;222,56;445,12;Belo Horizonte;Smartphone;PROD001;Eletrônicos
+997;05/06/2023;Srta. Jade Silva;Letícia Gomes;Boleto;8;235,48;1883,84;Belo Horizonte;Câmera DSLR;PROD007;Áudio e Vídeo
+998;11/03/2023;Emanuelly Costa;Dra. Evelyn Rezende;Cartão;7;404,27;2829,89;Belo Horizonte;Notebook;PROD002;Eletrodomésticos
+999;18/04/2023;José Pedro Guerra;Ian da Cunha;Pix;1;351,06;351,06;Belo Horizonte;Geladeira;PROD004;Eletrônicos
+1000;14/02/2023;Alícia Cassiano;Maria Flor Gomes;Dinheiro;4;223,54;894,16;Belo Horizonte;Tablet;PROD009;Eletrodomésticos

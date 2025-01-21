@@ -1,0 +1,9 @@
+{
+  "sql_server": {
+    "usuario": "seu_usuario",
+    "senha": "sua_senha",
+    "servidor": "nome_do_servidor",
+    "banco_de_dados": "nome_do_banco"
+  },
+  "nome_tabela": "Vendas"
+}
