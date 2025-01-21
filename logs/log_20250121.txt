@@ -1,1 +1,2 @@
 2025-01-21 15:30:37.325632 - Arquivo processado: C:\Users\nanay\OneDrive\Área de Trabalho\analise-dados\dados\vendas_belo_horizonte.csv
+2025-01-21 17:30:38.142434 - Arquivo processado: C:\Users\nanay\OneDrive\Área de Trabalho\analise-dados\dados\vendas_belo_horizonte_1.csv

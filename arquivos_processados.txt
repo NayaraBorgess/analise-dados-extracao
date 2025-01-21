@@ -1,1 +1,2 @@
 C:\Users\nanay\OneDrive\Área de Trabalho\analise-dados\dados\vendas_belo_horizonte.csv
+C:\Users\nanay\OneDrive\Área de Trabalho\analise-dados\dados\vendas_belo_horizonte_1.csv

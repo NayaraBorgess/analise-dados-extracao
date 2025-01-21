@@ -2,6 +2,7 @@ import pandas as pd
 import random
 from faker import Faker
 from datetime import datetime, timedelta
+import uuid  # Importando o módulo uuid
 
 # Configurações
 fake = Faker('pt_BR')
@@ -26,7 +27,7 @@ def gerar_data():
 
 # Gerando 1000 registros
 dados = []
-for i in range(1, 1001):  # i vai de 1 a 1000, garantindo que id_venda seja único
+for _ in range(1000):  # Gerando 1000 registros
     quantidade = random.randint(1, 10)
     preco_unitario = round(random.uniform(10, 500), 2)
     valor_total = round(quantidade * preco_unitario, 2)
@@ -37,7 +38,7 @@ for i in range(1, 1001):  # i vai de 1 a 1000, garantindo que id_venda seja úni
     segmento_produto = random.choice(segmentos_produtos)
     
     registro = {
-        'id_venda': i,  # id_venda é único, pois i vai de 1 a 1000 sem repetição
+        'id_venda': str(uuid.uuid4()),  # Gerando um UUID único para cada venda
         'data_venda': gerar_data(),  # Data no formato dia/mês/ano
         'nome_vendedor': random.choice(vendedores),
         'nome_comprador': random.choice(compradores),
