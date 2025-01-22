@@ -1,6 +1,6 @@
 # Análise de Dados
 
-Este projeto é destinado à análise de dados de vendas, com foco em Belo Horizonte. Ele inclui scripts para conectar a bancos de dados SQL, extrair e tratar dados, além de gerar relatórios de vendas.
+Este projeto é destinado à análise de dados de vendas, com foco no Brasil. Ele inclui scripts para conectar a bancos de dados SQL, extrair e tratar dados, além de gerar relatórios de vendas.
 
 ## Estrutura do Projeto
 
