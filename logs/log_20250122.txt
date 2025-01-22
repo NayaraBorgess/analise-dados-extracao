@@ -1,0 +1,1 @@
+2025-01-22 18:18:16.021926 - Arquivo processado: C:\Users\nanay\OneDrive\Área de Trabalho\analise-dados\dados\vendas_estados_brasil.csv

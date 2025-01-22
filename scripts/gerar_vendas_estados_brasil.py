@@ -18,6 +18,15 @@ produtos = ['Smartphone', 'Notebook', 'TV 4K', 'Geladeira', 'Fogão', 'Máquina 
 codigos_produtos = [f'PROD{str(i).zfill(3)}' for i in range(1, 11)]  # PROD001, PROD002, ..., PROD010
 segmentos_produtos = ['Eletrônicos', 'Eletrodomésticos', 'Informática', 'Áudio e Vídeo']
 
+# Lista de estados brasileiros
+estados_brasileiros = [
+    'Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Ceará', 'Distrito Federal',
+    'Espírito Santo', 'Goiás', 'Maranhão', 'Mato Grosso', 'Mato Grosso do Sul',
+    'Minas Gerais', 'Pará', 'Paraíba', 'Paraná', 'Pernambuco', 'Piauí', 'Rio de Janeiro',
+    'Rio Grande do Norte', 'Rio Grande do Sul', 'Rondônia', 'Roraima', 'Santa Catarina',
+    'São Paulo', 'Sergipe', 'Tocantins'
+]
+
 # Função para gerar uma data aleatória em 2023 no formato dia/mês/ano
 def gerar_data():
     start_date = datetime(2023, 1, 1)
@@ -46,7 +55,7 @@ for _ in range(1000):  # Gerando 1000 registros
         'quantidade': quantidade,
         'preco_unitario': preco_unitario,
         'valor_total': valor_total,
-        'local_empresa': 'Belo Horizonte',
+        'local_empresa': random.choice(estados_brasileiros),  # Escolhendo um estado aleatório
         'produto': produto,
         'codigo_produto': codigo_produto,
         'segmento_produto': segmento_produto
@@ -57,4 +66,4 @@ for _ in range(1000):  # Gerando 1000 registros
 df = pd.DataFrame(dados)
 
 # Salvando em um arquivo Excel
-df.to_excel('vendas_belo_horizonte.xlsx', index=False)
+df.to_excel('vendas_estados_brasil.xlsx', index=False)
