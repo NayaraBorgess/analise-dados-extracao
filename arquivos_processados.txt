@@ -2,3 +2,4 @@ C:\Users\nanay\OneDrive\햞ea de Trabalho\analise-dados\dados\vendas_belo_horizon
 C:\Users\nanay\OneDrive\햞ea de Trabalho\analise-dados\dados\vendas_belo_horizonte_1.csv
 C:\Users\nanay\OneDrive\햞ea de Trabalho\analise-dados\dados\vendas_belo_horizonte_2.csv
 C:\Users\nanay\OneDrive\햞ea de Trabalho\analise-dados\dados\vendas_estados_brasil.csv
+C:\Users\nanay\OneDrive\햞ea de Trabalho\analise-dados\dados\vendas_estados_brasil_.csv
