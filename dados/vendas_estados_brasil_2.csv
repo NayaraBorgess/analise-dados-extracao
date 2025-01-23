@@ -1,0 +1,1001 @@
+﻿id_venda;data_venda;nome_vendedor;nome_comprador;meio_pagamento;quantidade;preco_unitario;valor_total;local_empresa;produto;codigo_produto;segmento_produto
+7d9ac280-556a-4dbc-8185-9a80cb2a630a;25/04/2023;Emanuella Azevedo;Esther Fonseca;Cartão;2;22,26;44,52;Rondônia;Fogão;PROD005;Eletrodomésticos
+c70f20d2-6c27-412c-9bb1-327c31582313;16/01/2023;Vicente Ferreira;Bryan da Rosa;Pix;9;52,6;473,4;Pernambuco;Câmera DSLR;PROD007;Eletrônicos
+4f186648-88d4-426c-a475-9f123437a22f;23/04/2023;Srta. Maria Julia Mendes;Manuela da Costa;Boleto;10;23;230;Sergipe;Geladeira;PROD004;Áudio e Vídeo
+37563db6-ad4d-4f7a-b3b1-95bf8f840aaa;24/06/2023;Marcos Vinicius da Conceição;Dra. Júlia Moura;Pix;1;381,82;381,82;São Paulo;TV 4K;PROD003;Áudio e Vídeo
+a1dbad96-9ef2-470d-9746-f08fc2324ae8;03/07/2023;Olivia da Mata;Srta. Gabriela da Costa;Boleto;6;60,08;360,48;Sergipe;Câmera DSLR;PROD007;Eletrônicos
+cd3d82d4-9e6e-4300-a7cf-d342adf0d682;13/07/2023;Vicente Ferreira;Benjamin Moreira;Boleto;1;367,57;367,57;Tocantins;Tablet;PROD009;Eletrônicos
+14ea8dc1-ac98-49dd-bbf8-e13d9c796d56;27/12/2023;Vicente Ferreira;Rafael Porto;Pix;10;443,87;4438,7;São Paulo;Máquina de Lavar;PROD006;Eletrodomésticos
+14c29d3e-c244-45a4-8d63-35c8fb3d3b59;14/07/2023;Marcos Vinicius da Conceição;Francisco Cunha;Boleto;5;492,76;2463,8;Ceará;Geladeira;PROD004;Eletrônicos
+75a3c734-9dd7-4599-83d4-c7adb4c1b62f;08/11/2023;Emanuella Azevedo;Marina Pinto;Pix;6;184,08;1104,48;Ceará;Fogão;PROD005;Eletrônicos
+ebd2644f-14b9-457a-864d-bb7c9f145223;17/12/2023;Olivia da Mata;Dr. Rael Casa Grande;Cartão;8;195,93;1567,44;Espírito Santo;Tablet;PROD009;Eletrodomésticos
+eb8ccfae-cdfd-439c-b9b9-ebabd41aa368;03/02/2023;Sr. Noah Sousa;Gael Henrique Campos;Boleto;1;404,47;404,47;Distrito Federal;Câmera DSLR;PROD007;Informática
+5eac1626-89fd-4e36-94bc-ed97c294543f;16/05/2023;Emanuella Azevedo;Joana Sampaio;Boleto;8;203,86;1630,88;Santa Catarina;Fone de Ouvido;PROD008;Eletrodomésticos
+5c06d49d-2b04-4d8f-a5c6-273c14869646;05/07/2023;Sr. Noah Sousa;Lavínia Cirino;Dinheiro;10;219,93;2199,3;Amapá;Micro-ondas;PROD010;Áudio e Vídeo
+8eada928-2334-4f86-8407-de6e47f2a8d7;15/12/2023;Mateus da Mata;Srta. Gabriela da Costa;Cartão;1;431,94;431,94;Minas Gerais;TV 4K;PROD003;Eletrodomésticos
+898105aa-d9f8-4d43-86d7-732fe1191150;11/10/2023;Eduardo Guerra;Igor Correia;Cartão;7;301,99;2113,93;Rondônia;Fone de Ouvido;PROD008;Informática
+bfc523fd-05bc-4f2d-b8bb-680b3c7a8745;31/05/2023;Mateus da Mata;Raul Macedo;Dinheiro;9;377,93;3401,37;Acre;Máquina de Lavar;PROD006;Eletrônicos
+bd939c0c-d928-45f9-856a-63bedc0bbca5;17/11/2023;Marcos Vinicius da Conceição;Ravy Araújo;Pix;5;486,23;2431,15;Bahia;TV 4K;PROD003;Eletrônicos
+583ca059-a624-4cff-9dbe-4082e68debdf;03/11/2023;Olivia da Mata;Julia Mendes;Cartão;6;383,63;2301,78;Amazonas;Tablet;PROD009;Eletrônicos
+3cd40145-dbe9-4157-bb7b-a29042ee358b;30/01/2023;Sr. Noah Sousa;Gael Henrique Campos;Cartão;6;440,57;2643,42;Amapá;Fogão;PROD005;Eletrodomésticos
+43eb14f2-9391-4faf-8d41-8aef67a8bc16;07/03/2023;Srta. Maria Julia Mendes;Benjamin Moreira;Pix;8;409,85;3278,8;Goiás;Tablet;PROD009;Eletrodomésticos
+34e5cf07-3b33-478a-8ee5-3b05e153c42d;04/10/2023;Sr. Noah Sousa;Marcos Vinicius Vieira;Boleto;9;437,49;3937,41;Minas Gerais;Câmera DSLR;PROD007;Eletrodomésticos
+d9e45c9e-d814-49f2-acf4-3c4ec741fa1a;03/03/2023;Sr. Noah Sousa;Maria Alice Caldeira;Cartão;6;224,67;1348,02;Mato Grosso;Tablet;PROD009;Áudio e Vídeo
+b6d9cca4-256a-4e4f-987a-982c97cf337d;04/01/2023;Vicente Ferreira;Marcos Vinicius Vieira;Cartão;1;298,27;298,27;Espírito Santo;Geladeira;PROD004;Eletrodomésticos
+d393165a-8af5-4312-a47c-691c8701c430;21/09/2023;Sr. Noah Sousa;Lorena da Cunha;Dinheiro;2;453,66;907,32;Distrito Federal;Máquina de Lavar;PROD006;Eletrônicos
+c8718e35-99a8-47d1-974b-a987acc3559e;05/05/2023;Srta. Maria Julia Mendes;Henry Gabriel da Rosa;Pix;9;74,83;673,47;Amazonas;Micro-ondas;PROD010;Áudio e Vídeo
+e8ded0d1-18d1-4798-824f-50dfee7457e8;30/07/2023;Srta. Maria Julia Mendes;Sra. Caroline Caldeira;Cartão;2;332,9;665,8;Rondônia;Máquina de Lavar;PROD006;Áudio e Vídeo
+caeacffe-d06a-4010-8509-d69aa9adc316;08/05/2023;Sr. Noah Sousa;Caroline Duarte;Dinheiro;2;39,7;79,4;Bahia;Máquina de Lavar;PROD006;Eletrônicos
+9561b88e-e5e8-4ee7-819b-52d66c60d324;08/02/2023;Srta. Maria Julia Mendes;Benjamin Moreira;Cartão;7;99,91;699,37;Alagoas;Fone de Ouvido;PROD008;Eletrodomésticos
+1f213f47-3d2b-4244-b37d-358a652d8929;27/03/2023;Mateus da Mata;Julia Mendes;Dinheiro;9;419,65;3776,85;Distrito Federal;Notebook;PROD002;Eletrodomésticos
+4584297b-d8b2-4933-8dfe-ea2a692ad63d;02/01/2023;Mateus da Mata;Sr. João Gabriel Novaes;Dinheiro;7;452,2;3165,4;Maranhão;TV 4K;PROD003;Áudio e Vídeo
+501f3b8d-c5f2-4ea0-b5f7-b9b1e920af6f;21/03/2023;Sr. Noah Sousa;Diego Martins;Pix;7;351,33;2459,31;Alagoas;Tablet;PROD009;Áudio e Vídeo
+37d9cc5e-0e2e-4395-8086-d82a2cc91ec1;30/01/2023;Eduardo Guerra;Manuela da Costa;Dinheiro;10;370,51;3705,1;Pernambuco;Smartphone;PROD001;Informática
+aad0195d-a520-4bda-8539-a17ff58aadea;06/04/2023;Vicente Ferreira;Srta. Gabriela da Costa;Cartão;9;87,14;784,26;Rondônia;Tablet;PROD009;Eletrônicos
+81b53db1-ac71-4b1c-8be5-28824c95be45;24/10/2023;Dra. Melissa da Mata;Rafael Porto;Cartão;4;207,85;831,4;Pará;Micro-ondas;PROD010;Eletrodomésticos
+3f7bded9-f3a3-4c09-a9a6-64feadadb10c;15/04/2023;Olivia da Mata;Joana Sampaio;Boleto;10;286,96;2869,6;Minas Gerais;Máquina de Lavar;PROD006;Informática
+72d1475c-7c00-42dc-ba2a-e3e8ce1b43aa;11/06/2023;Vicente Ferreira;Helena Carvalho;Dinheiro;3;339,13;1017,39;Rio Grande do Norte;Fogão;PROD005;Áudio e Vídeo
+45e3e9f0-3376-400a-b029-11408bf8694c;17/09/2023;Marcos Vinicius da Conceição;Lavínia Cirino;Boleto;10;498,09;4980,9;Amapá;Notebook;PROD002;Eletrodomésticos
+19b718b4-6dab-48e6-940c-7e78d1137a22;06/10/2023;Marcos Vinicius da Conceição;Luiza Vargas;Cartão;4;191,07;764,28;Rondônia;TV 4K;PROD003;Áudio e Vídeo
+c87c3ef4-2261-4bd1-ac3e-ee10e1b51d37;16/05/2023;Vicente Ferreira;Ana Sophia Moreira;Pix;9;156,7;1410,3;Goiás;Notebook;PROD002;Eletrodomésticos
+332f1026-7573-4ecb-b32e-a44baab841da;18/12/2023;Marcos Vinicius da Conceição;Davi Lucca Guerra;Dinheiro;5;306,37;1531,85;Goiás;Máquina de Lavar;PROD006;Eletrodomésticos
+c84ac2a5-4cb6-4dc7-a8b6-ad1a7dd51235;23/01/2023;Eduardo Guerra;Dr. Dom Mendes;Pix;1;55,23;55,23;Rio Grande do Sul;Câmera DSLR;PROD007;Informática
+fddd227f-88bd-48f4-a6ae-9b41aef21421;15/10/2023;Eduardo Guerra;Marina Moraes;Cartão;5;89,18;445,9;Roraima;Fone de Ouvido;PROD008;Áudio e Vídeo
+7d32088c-ad39-464b-85b2-3b59e499bda3;09/08/2023;Emanuella Azevedo;Rafael Porto;Boleto;3;277,34;832,02;Mato Grosso do Sul;Máquina de Lavar;PROD006;Eletrodomésticos
+cce28690-c56e-4392-877e-595b4c5d088f;08/12/2023;Vicente Ferreira;Dr. Raul Leão;Dinheiro;1;450,47;450,47;Rio Grande do Norte;Geladeira;PROD004;Eletrodomésticos
+225e36c9-f7a6-4522-b41a-12db9ca32f74;01/04/2023;Mateus da Mata;Samuel Azevedo;Pix;3;463,62;1390,86;Santa Catarina;Geladeira;PROD004;Eletrodomésticos
+dfe02420-96ed-4f49-a7fa-df1bec3d3dbb;17/05/2023;Emanuella Azevedo;Joaquim da Costa;Cartão;6;393,37;2360,22;Minas Gerais;Câmera DSLR;PROD007;Eletrodomésticos
+0ccf762b-d377-490c-9482-0bb9ddd91491;24/08/2023;Olivia da Mata;João Guilherme Lopes;Pix;1;430,71;430,71;Espírito Santo;Geladeira;PROD004;Eletrodomésticos
+33f3dc57-c5a4-40e8-a440-cc7987314a02;23/05/2023;Vicente Ferreira;Dr. Rael Casa Grande;Boleto;1;333,42;333,42;Mato Grosso do Sul;Câmera DSLR;PROD007;Informática
+cfe65b1e-f58a-48e0-bcd5-48f78eb5e28d;15/01/2023;Vicente Ferreira;Sr. João Gabriel Novaes;Pix;9;205,84;1852,56;Rio de Janeiro;Tablet;PROD009;Informática
+d6ca69bd-0211-474b-8ca5-fd6ff5538f7b;26/06/2023;Olivia da Mata;Sra. Sabrina Cirino;Cartão;5;28,75;143,75;Minas Gerais;Micro-ondas;PROD010;Áudio e Vídeo
+effd98e9-6d3d-4430-83f7-c736a7e81018;01/01/2023;Julia Novais;Marina Pinto;Pix;10;103,14;1031,4;Mato Grosso do Sul;Smartphone;PROD001;Áudio e Vídeo
+f312908d-4ecb-4abe-a90a-cb970f6df51f;06/12/2023;Vicente Ferreira;Sra. Caroline Caldeira;Boleto;7;44,29;310,03;Pernambuco;Máquina de Lavar;PROD006;Informática
+b2f70b76-2487-4764-a1b7-4a8e43eaf831;23/12/2023;Marcos Vinicius da Conceição;Benjamin Moreira;Pix;5;336,78;1683,9;Distrito Federal;Máquina de Lavar;PROD006;Áudio e Vídeo
+62145e01-ad96-4c3f-8ba5-d886c45929e4;12/11/2023;Dra. Melissa da Mata;João Guilherme Lopes;Dinheiro;7;335,82;2350,74;Piauí;Câmera DSLR;PROD007;Eletrodomésticos
+0744556d-ddf2-42d5-bedb-681f917af620;24/10/2023;Dra. Melissa da Mata;Dr. Rhavi Costa;Boleto;1;158,9;158,9;Paraíba;Geladeira;PROD004;Áudio e Vídeo
+ed793658-bfea-4efc-bb98-ee434603d897;28/03/2023;Vicente Ferreira;Diego Martins;Boleto;8;226,66;1813,28;Amapá;Geladeira;PROD004;Áudio e Vídeo
+414cc80d-7572-43f2-8769-9af3e86f6b03;17/03/2023;Eduardo Guerra;Rafael Porto;Pix;4;339,67;1358,68;Paraná;Geladeira;PROD004;Eletrodomésticos
+95e73546-5c06-45c4-b913-144b1fc871bc;01/08/2023;Dra. Melissa da Mata;Caroline Duarte;Dinheiro;10;426,37;4263,7;Paraná;Notebook;PROD002;Áudio e Vídeo
+ad3035bc-8fe1-4940-81db-23b106fe1e84;06/08/2023;Sr. Noah Sousa;Renan Borges;Dinheiro;7;129,55;906,85;Alagoas;Smartphone;PROD001;Eletrônicos
+e72c4df0-ec44-45f2-b49f-c4555ef9bf88;10/03/2023;Srta. Maria Julia Mendes;Erick Costela;Boleto;9;132,11;1188,99;São Paulo;Notebook;PROD002;Áudio e Vídeo
+303d1595-d34c-41d4-b7d1-2a8b8f9b618c;08/10/2023;Srta. Maria Julia Mendes;Raul Macedo;Dinheiro;8;310,2;2481,6;Paraíba;Tablet;PROD009;Áudio e Vídeo
+20cdfc85-0294-4bf4-b263-97f5e2ac1d81;17/11/2023;Sr. Noah Sousa;Lorena da Cunha;Dinheiro;5;378,37;1891,85;Amapá;Fogão;PROD005;Áudio e Vídeo
+27da84fd-094d-4b06-a351-8aa99c181dbc;04/10/2023;Vicente Ferreira;Lavínia Cirino;Pix;5;124,9;624,5;Espírito Santo;Máquina de Lavar;PROD006;Informática
+06d0d53b-ba9a-400b-b9ae-8a1a38426ae8;01/08/2023;Mateus da Mata;Dr. Dom Mendes;Dinheiro;7;350,04;2450,28;Pará;Geladeira;PROD004;Eletrônicos
+61ddac27-c2d7-4659-a88e-157494c7cd23;27/10/2023;Eduardo Guerra;Amanda Barros;Dinheiro;1;111,35;111,35;Paraná;Câmera DSLR;PROD007;Áudio e Vídeo
+98881616-d626-4537-a4b3-297dff451089;03/08/2023;Julia Novais;Esther Fonseca;Pix;1;471,94;471,94;Paraná;Fogão;PROD005;Áudio e Vídeo
+447c6c7e-c760-409a-b419-971d25d45943;19/07/2023;Olivia da Mata;Erick Costela;Dinheiro;4;143,74;574,96;Santa Catarina;Fone de Ouvido;PROD008;Eletrônicos
+b595e0b8-e4e2-40cf-a37b-43a93551ec11;21/07/2023;Dra. Melissa da Mata;Gael Henrique Campos;Cartão;3;421,85;1265,55;Amapá;TV 4K;PROD003;Eletrônicos
+57ceed0b-2563-481b-99a2-ead668dbe2f8;26/01/2023;Marcos Vinicius da Conceição;Alana Nunes;Boleto;7;76,49;535,43;Distrito Federal;Fone de Ouvido;PROD008;Eletrodomésticos
+79f45f95-5f1b-44f3-8e2b-d5edbc83d514;04/08/2023;Marcos Vinicius da Conceição;Pedro Henrique Santos;Dinheiro;8;170,15;1361,2;Acre;Câmera DSLR;PROD007;Informática
+c33efebc-3b07-4aad-b01e-5897a22399b7;29/11/2023;Vicente Ferreira;Dr. Rael Casa Grande;Cartão;9;35,52;319,68;São Paulo;Máquina de Lavar;PROD006;Eletrodomésticos
+31dbaace-b2e7-4a08-9d27-72a4ebd10adf;15/11/2023;Emanuella Azevedo;Joana Sampaio;Pix;1;475,31;475,31;Paraná;Geladeira;PROD004;Eletrônicos
+640a2248-e131-47a1-b5c7-c1466fbbce96;25/12/2023;Marcos Vinicius da Conceição;Dr. Rael Casa Grande;Boleto;2;286,35;572,7;Ceará;Geladeira;PROD004;Áudio e Vídeo
+2ede4e39-4c67-4bf3-9801-c12ece4ecaf3;09/06/2023;Vicente Ferreira;Manuela da Costa;Cartão;10;307,55;3075,5;Maranhão;Notebook;PROD002;Eletrodomésticos
+8f886fce-bf79-46c6-a9ea-c3f807bc7f50;12/04/2023;Vicente Ferreira;Manuela da Costa;Pix;10;341,9;3419;Amazonas;Câmera DSLR;PROD007;Áudio e Vídeo
+76332391-7585-44e9-bf9e-fd2e8528fb0e;17/10/2023;Eduardo Guerra;Dr. Raul Leão;Dinheiro;5;426,64;2133,2;Rondônia;Micro-ondas;PROD010;Eletrônicos
+0401e78d-7b3c-48c3-ba0f-7904c94e4057;04/08/2023;Srta. Maria Julia Mendes;Ana Sophia Moreira;Dinheiro;6;43,79;262,74;Mato Grosso do Sul;Máquina de Lavar;PROD006;Eletrônicos
+a9f1bb16-45c7-423f-901d-e5e57ddd18f0;25/09/2023;Marcos Vinicius da Conceição;Luiza Vargas;Dinheiro;8;356,58;2852,64;Paraíba;Câmera DSLR;PROD007;Eletrodomésticos
+d418a8b0-303f-4198-ad61-b322fae273b9;15/06/2023;Sr. Noah Sousa;Pedro Henrique Santos;Boleto;7;414,61;2902,27;Paraíba;Micro-ondas;PROD010;Informática
+54262ab2-61c8-44eb-9e2f-e20cef85a029;22/06/2023;Eduardo Guerra;Julia Mendes;Boleto;4;377,73;1510,92;Ceará;Micro-ondas;PROD010;Áudio e Vídeo
+2476825b-3a0e-412c-8a1d-42a23679dd93;24/05/2023;Dra. Melissa da Mata;Joaquim da Costa;Boleto;8;113,94;911,52;Piauí;Fogão;PROD005;Informática
+fe9e42f8-0a53-4acb-95c6-1e4e2c25cf45;04/05/2023;Mateus da Mata;Julia Mendes;Pix;1;263,15;263,15;Roraima;Geladeira;PROD004;Eletrônicos
+63dbf473-2f33-4e07-86cc-b8f5871649e5;09/01/2023;Vicente Ferreira;Diego Martins;Pix;8;326,49;2611,92;Minas Gerais;Fone de Ouvido;PROD008;Áudio e Vídeo
+67e7de3e-cebc-471c-8087-3bf72e22f4b5;31/08/2023;Julia Novais;Yasmin Camargo;Boleto;4;160,04;640,16;Pará;Micro-ondas;PROD010;Informática
+3fd1149b-183c-4d58-b43d-5f94269839da;06/06/2023;Marcos Vinicius da Conceição;Maria Alice Caldeira;Cartão;9;172,09;1548,81;Santa Catarina;Fone de Ouvido;PROD008;Informática
+210c16b6-b708-4438-887e-0ce0806ecdfd;09/04/2023;Sr. Noah Sousa;Esther Fonseca;Dinheiro;4;164,62;658,48;Goiás;Tablet;PROD009;Eletrodomésticos
+8d1996e1-1f50-4d31-b9d4-cf74a94dfac1;21/02/2023;Sr. Noah Sousa;Diego Martins;Pix;10;488,54;4885,4;Mato Grosso do Sul;Tablet;PROD009;Informática
+a824a634-bc46-4cd8-b554-0d65bd38bc80;21/05/2023;Eduardo Guerra;Lunna Ribeiro;Boleto;3;158,11;474,33;Roraima;Tablet;PROD009;Eletrodomésticos
+dfcebc53-5634-470e-a422-57e69ddf38c5;07/01/2023;Dra. Melissa da Mata;Diego Martins;Dinheiro;3;322,56;967,68;Paraná;Fone de Ouvido;PROD008;Eletrônicos
+932473de-97ee-4692-8620-cb79670345c5;02/09/2023;Vicente Ferreira;Isis Barbosa;Dinheiro;8;176,95;1415,6;Paraná;Smartphone;PROD001;Informática
+1fd7f3c3-0311-45c2-8ce0-a3312e8482a6;18/03/2023;Dra. Melissa da Mata;João Guilherme Lopes;Cartão;2;292,74;585,48;Espírito Santo;Smartphone;PROD001;Eletrodomésticos
+74a03a2e-4fb0-4ec3-9025-8c90c627f631;25/09/2023;Mateus da Mata;Luiz Miguel da Rosa;Dinheiro;2;283,46;566,92;Maranhão;Câmera DSLR;PROD007;Eletrodomésticos
+8a7b0756-3a21-4e96-9c91-02f33e8308a1;09/11/2023;Vicente Ferreira;Amanda Barros;Pix;10;495,12;4951,2;Rio Grande do Sul;Fogão;PROD005;Eletrônicos
+0b836f5e-29b9-4f4b-9c97-f361bc2eeff2;03/05/2023;Emanuella Azevedo;Benjamin Moreira;Cartão;4;139,68;558,72;Ceará;Notebook;PROD002;Eletrodomésticos
+713af94a-7c4f-4648-84ec-975bc8b18297;30/05/2023;Eduardo Guerra;Maria Alice Caldeira;Boleto;1;210,17;210,17;Roraima;Micro-ondas;PROD010;Áudio e Vídeo
+fbcd30ed-b022-482f-be98-33f7a7953a70;18/12/2023;Sr. Noah Sousa;Sr. João Gabriel Novaes;Pix;5;354,46;1772,3;Pará;Fone de Ouvido;PROD008;Eletrônicos
+1eb1aca7-ee3c-4d72-a084-a7ac1868b629;14/03/2023;Vicente Ferreira;Lunna Ribeiro;Pix;2;276,84;553,68;Sergipe;TV 4K;PROD003;Informática
+85dc1abe-921e-48f1-b204-4debf714c260;13/08/2023;Vicente Ferreira;Francisco Cunha;Boleto;5;301,57;1507,85;Roraima;Micro-ondas;PROD010;Informática
+3f20bb2a-1e64-4913-bbd9-03b2b9fc1e6f;13/08/2023;Vicente Ferreira;Srta. Gabriela da Costa;Cartão;7;471,91;3303,37;Pará;Tablet;PROD009;Áudio e Vídeo
+f29678d5-8682-4879-8636-1ad51a98626e;28/04/2023;Dra. Melissa da Mata;Manuela da Costa;Cartão;6;305,82;1834,92;São Paulo;Smartphone;PROD001;Eletrônicos
+8c7ca5f2-081a-49e0-88d4-1c181547dc1f;23/09/2023;Srta. Maria Julia Mendes;Lorena da Cunha;Pix;5;292,36;1461,8;Rio de Janeiro;TV 4K;PROD003;Áudio e Vídeo
+8befe6ae-13f1-48e1-a327-85e5e9adea95;29/08/2023;Olivia da Mata;Henry Gabriel da Rosa;Boleto;7;321,04;2247,28;Mato Grosso;Fone de Ouvido;PROD008;Eletrônicos
+71af8010-9336-411b-bf7e-9abdc3d49492;22/12/2023;Srta. Maria Julia Mendes;Diego Martins;Dinheiro;2;430,29;860,58;Tocantins;Máquina de Lavar;PROD006;Áudio e Vídeo
+c907417f-cba1-4cc0-abba-35457e72ec04;10/05/2023;Olivia da Mata;Marina Moraes;Dinheiro;9;27,98;251,82;Pernambuco;Notebook;PROD002;Informática
+b7d17fb6-0563-43aa-bcb2-cde436654a69;31/07/2023;Eduardo Guerra;Caroline Duarte;Boleto;1;332,25;332,25;Rio Grande do Norte;Tablet;PROD009;Áudio e Vídeo
+2a904bd6-20c6-4711-b122-e33bb61d0405;17/05/2023;Julia Novais;Lavínia Cirino;Boleto;8;316,45;2531,6;Paraíba;Smartphone;PROD001;Eletrodomésticos
+d0f02c44-e4fe-40a3-8baf-575173cf33e3;30/12/2023;Emanuella Azevedo;João Guilherme Lopes;Cartão;8;69,5;556;Piauí;Micro-ondas;PROD010;Eletrodomésticos
+196cc4af-c0a9-4bfd-9e9c-51b58b6c35b7;02/03/2023;Emanuella Azevedo;Julia Mendes;Boleto;7;55,67;389,69;Pernambuco;Notebook;PROD002;Áudio e Vídeo
+f507ec7f-e92f-42cb-9687-f70057b9aa99;05/05/2023;Srta. Maria Julia Mendes;Benjamin Moreira;Pix;5;213,59;1067,95;Minas Gerais;Fone de Ouvido;PROD008;Áudio e Vídeo
+3cbe677d-f668-46cc-8ba0-f1f0f89182b4;05/02/2023;Marcos Vinicius da Conceição;Dr. Rael Casa Grande;Dinheiro;4;461,72;1846,88;Mato Grosso;Tablet;PROD009;Eletrodomésticos
+dff70d9e-63f8-4ab8-a2dd-10710d03b929;02/06/2023;Dra. Melissa da Mata;Manuela da Costa;Dinheiro;9;140,91;1268,19;Bahia;Smartphone;PROD001;Informática
+156876fe-8549-4271-b6ca-f5d974baa2ec;10/10/2023;Julia Novais;Alana Nunes;Dinheiro;8;273,9;2191,2;Mato Grosso;Máquina de Lavar;PROD006;Informática
+df0b26f7-86d3-44ae-b186-479b66d8e5c7;30/04/2023;Mateus da Mata;Rafael Porto;Boleto;4;490,58;1962,32;Santa Catarina;Geladeira;PROD004;Áudio e Vídeo
+02337196-528d-4cb3-9452-58df22fae18b;06/12/2023;Emanuella Azevedo;Julia Mendes;Cartão;8;355,56;2844,48;Bahia;Câmera DSLR;PROD007;Áudio e Vídeo
+1fdde8fe-a49e-4463-b7c4-a7a82ec98567;14/08/2023;Vicente Ferreira;Yasmin Camargo;Dinheiro;9;483,02;4347,18;Acre;Máquina de Lavar;PROD006;Eletrônicos
+7fd03605-7826-4d32-b35b-f62eace0ece0;29/08/2023;Marcos Vinicius da Conceição;Dr. Dom Mendes;Dinheiro;3;210,89;632,67;Rio Grande do Sul;TV 4K;PROD003;Eletrônicos
+a6d9a096-a1d0-435b-88dd-18655b3100d3;12/06/2023;Srta. Maria Julia Mendes;Marina Pinto;Cartão;2;427,36;854,72;Rio Grande do Norte;Tablet;PROD009;Áudio e Vídeo
+56f86933-94ac-4a58-9a75-c7a8323a8ac6;16/02/2023;Mateus da Mata;Ana Sophia Moreira;Cartão;2;125,04;250,08;Paraíba;Fogão;PROD005;Eletrodomésticos
+6b6e02e6-73fc-4186-b7bb-1961c01332ff;16/06/2023;Eduardo Guerra;Diego Martins;Boleto;3;350,06;1050,18;Mato Grosso do Sul;Smartphone;PROD001;Eletrônicos
+f8b93ba7-0ddb-448a-918a-82a547b1ad12;17/10/2023;Emanuella Azevedo;Raul Macedo;Pix;7;81,33;569,31;Amapá;Tablet;PROD009;Áudio e Vídeo
+6753ed38-e35e-43c4-ae96-8045faa486fb;12/09/2023;Dra. Melissa da Mata;Dra. Júlia Moura;Pix;10;436,71;4367,1;Paraíba;Micro-ondas;PROD010;Eletrodomésticos
+1b5190ee-39ad-4c85-8acc-ecc9d2f4391a;28/05/2023;Julia Novais;Raul Macedo;Cartão;5;235,19;1175,95;Paraíba;Smartphone;PROD001;Áudio e Vídeo
+81b4af7e-da70-48bd-b267-a873f70fe7b8;20/12/2023;Marcos Vinicius da Conceição;Francisco Cunha;Boleto;6;493,95;2963,7;Distrito Federal;Fogão;PROD005;Áudio e Vídeo
+4dfac9c7-bf32-45ce-95c0-a8bb6b89a078;15/07/2023;Dra. Melissa da Mata;Dr. Raul Leão;Boleto;7;428,13;2996,91;Roraima;Notebook;PROD002;Eletrodomésticos
+b2654057-4c83-485f-8976-f719e0ed81ac;05/01/2023;Dra. Melissa da Mata;Igor Correia;Cartão;5;20,75;103,75;Rio Grande do Norte;Câmera DSLR;PROD007;Informática
+28fb519f-c722-408c-921c-96147c6aff9a;07/11/2023;Olivia da Mata;Maria Alice Caldeira;Pix;8;418,09;3344,72;Rio Grande do Norte;Fogão;PROD005;Eletrodomésticos
+67df8c72-986b-46e5-af1c-6541f97b6aee;18/11/2023;Eduardo Guerra;João Guilherme Lopes;Dinheiro;5;342,1;1710,5;Alagoas;TV 4K;PROD003;Eletrônicos
+60cad907-3aee-4af0-8d53-544587ba3de1;01/06/2023;Olivia da Mata;Esther Fonseca;Dinheiro;10;188,78;1887,8;Ceará;TV 4K;PROD003;Eletrônicos
+b68c2a2e-1318-4ae8-9848-d0dbce4c20f5;29/09/2023;Julia Novais;Lorena da Cunha;Pix;4;74,76;299,04;Goiás;Tablet;PROD009;Informática
+8e536815-cd68-4d53-a8ae-08fc64799922;28/02/2023;Srta. Maria Julia Mendes;Isis Barbosa;Pix;8;484,02;3872,16;São Paulo;Fogão;PROD005;Informática
+8186de2e-ae26-4e2b-aa2a-da8a25ae5140;16/02/2023;Mateus da Mata;Helena Carvalho;Boleto;4;431,47;1725,88;Piauí;Câmera DSLR;PROD007;Informática
+f0f77aa5-8dac-494e-bf78-5b6dd54250ff;23/11/2023;Olivia da Mata;Ana Sophia Moreira;Pix;2;232,85;465,7;Paraná;Fogão;PROD005;Áudio e Vídeo
+c31aef13-ad07-4750-9605-430add1e602d;09/11/2023;Sr. Noah Sousa;Dr. Rhavi Costa;Cartão;1;313,58;313,58;Rio Grande do Sul;Tablet;PROD009;Informática
+555e5e83-1452-4c05-9c30-b8205ee347e6;01/03/2023;Emanuella Azevedo;Rafael Porto;Cartão;8;455,6;3644,8;Maranhão;Fogão;PROD005;Áudio e Vídeo
+73586433-3e70-4a4a-8c68-86d49b317929;18/07/2023;Srta. Maria Julia Mendes;Bella Albuquerque;Dinheiro;8;66,9;535,2;Rio de Janeiro;Geladeira;PROD004;Eletrodomésticos
+6bf24ccc-5579-4292-8aa6-7d4a0f2c015c;12/11/2023;Mateus da Mata;Lorena da Cunha;Cartão;3;443,85;1331,55;Roraima;Notebook;PROD002;Áudio e Vídeo
+10db4b76-d024-48ab-940f-d704e59fed18;05/07/2023;Vicente Ferreira;Igor Correia;Boleto;6;116,46;698,76;Piauí;Fone de Ouvido;PROD008;Eletrodomésticos
+3ed517f0-1534-49d0-b8c6-acc0b536b161;04/03/2023;Srta. Maria Julia Mendes;Pedro Henrique Santos;Pix;6;39,67;238,02;Rio Grande do Sul;Fogão;PROD005;Eletrodomésticos
+340dafce-04bf-4ab5-a0b6-960d7d792400;05/05/2023;Emanuella Azevedo;Gael Henrique Campos;Pix;10;485,84;4858,4;Amapá;Smartphone;PROD001;Informática
+838ca3a7-fb98-4ad4-b556-79afc6bce364;18/06/2023;Emanuella Azevedo;Srta. Gabriela da Costa;Cartão;9;111,51;1003,59;Goiás;Geladeira;PROD004;Eletrodomésticos
+59358113-6941-451d-b7b3-ec468730f1f0;31/03/2023;Vicente Ferreira;Erick Costela;Cartão;3;493,89;1481,67;Bahia;Tablet;PROD009;Informática
+ace1093f-6d84-49dc-8a9d-fbc32671ad0c;09/01/2023;Emanuella Azevedo;Sr. João Gabriel Novaes;Cartão;1;185,54;185,54;Bahia;Geladeira;PROD004;Informática
+b1556f7b-f866-4b31-9ab0-de6792cc2cfe;18/08/2023;Olivia da Mata;Davi Lucca Guerra;Cartão;7;267,78;1874,46;Paraíba;Notebook;PROD002;Áudio e Vídeo
+7fb69624-0664-4f06-9ca1-f4b705bbb2ea;04/12/2023;Julia Novais;João Guilherme Lopes;Dinheiro;9;118,56;1067,04;Rio Grande do Sul;Micro-ondas;PROD010;Eletrônicos
+9d9c650c-3ce7-4848-acd2-7c54c380cf65;07/08/2023;Vicente Ferreira;Julia Mendes;Dinheiro;1;39,8;39,8;Amapá;Fone de Ouvido;PROD008;Áudio e Vídeo
+b7c11ca0-8436-4d73-a24f-5aa3776a1818;06/03/2023;Marcos Vinicius da Conceição;Luiza Vargas;Boleto;2;167,83;335,66;Minas Gerais;TV 4K;PROD003;Eletrônicos
+e597504e-acbd-4877-9aa4-305f31d9b99b;20/02/2023;Vicente Ferreira;Dr. Rhavi Costa;Pix;10;269,97;2699,7;Pará;Fone de Ouvido;PROD008;Áudio e Vídeo
+780e96d1-07e2-4d3f-950e-a4fb92b0b620;21/08/2023;Mateus da Mata;Henry Gabriel da Rosa;Cartão;8;445,16;3561,28;Mato Grosso;Câmera DSLR;PROD007;Informática
+be472dc2-3a9c-4155-a65c-05b2e23641b5;20/03/2023;Srta. Maria Julia Mendes;Isis Barbosa;Cartão;7;163,14;1141,98;Tocantins;Fogão;PROD005;Informática
+5e30a5d4-815e-434b-b004-a8da1b466845;08/03/2023;Julia Novais;Lunna Ribeiro;Boleto;2;55,68;111,36;Rondônia;Notebook;PROD002;Informática
+4a23ce0f-d7cb-4c05-ae40-52200983a2ad;28/05/2023;Dra. Melissa da Mata;João Guilherme Lopes;Boleto;2;211,3;422,6;Amazonas;Câmera DSLR;PROD007;Eletrônicos
+04a8c201-7bc6-4412-9331-7a5b736df046;25/04/2023;Vicente Ferreira;Dr. Raul Leão;Boleto;10;258,63;2586,3;Amazonas;TV 4K;PROD003;Áudio e Vídeo
+707a78fd-f4d3-4ce7-99df-cdc91c0f9125;08/11/2023;Marcos Vinicius da Conceição;Samuel Azevedo;Pix;5;291,31;1456,55;Goiás;Câmera DSLR;PROD007;Eletrônicos
+7e2c9176-5684-410f-8882-50979c6b4ef1;03/04/2023;Emanuella Azevedo;Gael Henrique Campos;Dinheiro;5;461,55;2307,75;Amapá;Máquina de Lavar;PROD006;Eletrônicos
+53d945ac-369c-4e9d-a0c3-f9afac4ae1cf;29/09/2023;Sr. Noah Sousa;Alana Nunes;Dinheiro;3;373,07;1119,21;Paraíba;Smartphone;PROD001;Eletrônicos
+24f79de7-22c2-4f2e-9d21-0a6c207ba4ed;18/10/2023;Dra. Melissa da Mata;Pedro Henrique Santos;Cartão;6;87,13;522,78;Bahia;Fogão;PROD005;Informática
+8739c318-0e85-4c3f-a2ff-8eaf94606373;20/05/2023;Srta. Maria Julia Mendes;Erick Costela;Dinheiro;3;379,67;1139,01;Paraná;Smartphone;PROD001;Eletrônicos
+a8e78344-f3d7-4ed7-afd6-a891778a2717;20/09/2023;Vicente Ferreira;Dr. Raul Leão;Dinheiro;10;226,6;2266;Amazonas;Fogão;PROD005;Eletrodomésticos
+ac53dbef-3f13-43af-acbc-a9f307b34e90;27/09/2023;Marcos Vinicius da Conceição;Rafael Porto;Pix;5;342,33;1711,65;Minas Gerais;Micro-ondas;PROD010;Áudio e Vídeo
+24370c90-b4ce-4c69-b6b1-7bf0784ca75e;19/04/2023;Emanuella Azevedo;Amanda Barros;Boleto;10;36,84;368,4;Maranhão;Geladeira;PROD004;Informática
+198d7ecc-235b-40dd-9347-855dd83c517b;31/03/2023;Emanuella Azevedo;Alana Nunes;Pix;6;68,79;412,74;Pernambuco;Fone de Ouvido;PROD008;Áudio e Vídeo
+6a7d511a-71fd-49ab-8b63-5891adf547bc;23/07/2023;Eduardo Guerra;Sra. Sabrina Cirino;Cartão;9;418,34;3765,06;Paraíba;Máquina de Lavar;PROD006;Eletrônicos
+f64a104c-5fdb-402b-872b-95b9dcf79745;21/10/2023;Mateus da Mata;Marcos Vinicius Vieira;Dinheiro;2;432,43;864,86;Maranhão;Micro-ondas;PROD010;Áudio e Vídeo
+352e4717-6c44-4d42-9b9d-790886eb8d41;13/11/2023;Srta. Maria Julia Mendes;Joaquim da Costa;Boleto;2;208,47;416,94;Amapá;Máquina de Lavar;PROD006;Eletrodomésticos
+2e866cb1-6bd2-474c-ab3d-e8798fe98f31;29/10/2023;Mateus da Mata;Yasmin Camargo;Cartão;7;423,8;2966,6;Minas Gerais;Geladeira;PROD004;Áudio e Vídeo
+b6e4a28b-bdd7-49f1-b621-0ce6696d32d8;28/03/2023;Vicente Ferreira;Davi Lucca Guerra;Cartão;5;375,44;1877,2;Pernambuco;Geladeira;PROD004;Informática
+9767746f-3f10-405a-9ca7-c5c41aaab620;27/11/2023;Emanuella Azevedo;Joana Sampaio;Cartão;9;105,01;945,09;Bahia;Máquina de Lavar;PROD006;Informática
+d5586712-e65b-4fe1-8d49-36fb91b53573;02/12/2023;Vicente Ferreira;Renan Borges;Dinheiro;5;106,66;533,3;Paraíba;Micro-ondas;PROD010;Eletrodomésticos
+d993d44f-0449-4f4b-9bd3-eb7b5285f6b4;18/11/2023;Olivia da Mata;Dra. Júlia Moura;Dinheiro;10;382,34;3823,4;Amapá;Fone de Ouvido;PROD008;Informática
+9912b0cb-3ab8-46c0-8464-da1b289e9def;30/10/2023;Eduardo Guerra;Dr. Raul Leão;Cartão;8;226,68;1813,44;Maranhão;Fogão;PROD005;Informática
+b1341358-f77a-427e-8f7e-3cf160da379b;27/05/2023;Vicente Ferreira;Dr. Rhavi Costa;Cartão;8;231,44;1851,52;Rio Grande do Norte;Smartphone;PROD001;Informática
+22189a55-d47c-4275-a102-f856f9fbcb5f;19/08/2023;Dra. Melissa da Mata;Dr. Rhavi Costa;Pix;10;258,46;2584,6;Mato Grosso;Fone de Ouvido;PROD008;Eletrônicos
+1e6908af-699d-48b0-b7b8-6e71c4913dce;19/08/2023;Vicente Ferreira;Dr. Dom Mendes;Cartão;10;243,06;2430,6;Pernambuco;TV 4K;PROD003;Eletrônicos
+eb3b7976-b7ea-4a21-a93e-ee8cc330b82c;26/09/2023;Julia Novais;Luiza Vargas;Pix;3;29,18;87,54;Mato Grosso do Sul;Fone de Ouvido;PROD008;Áudio e Vídeo
+dde4982b-b771-4c2a-ac4d-e0fb20e80643;23/06/2023;Dra. Melissa da Mata;Lunna Ribeiro;Boleto;6;459,79;2758,74;Amapá;Câmera DSLR;PROD007;Áudio e Vídeo
+1470a5af-ccbd-41ba-9e06-70278dacdc54;10/05/2023;Dra. Melissa da Mata;Dra. Júlia Moura;Boleto;6;56,31;337,86;Amapá;Câmera DSLR;PROD007;Informática
+e6d0ac10-7bf5-40f7-8d0b-dd1a2eeb743a;02/12/2023;Mateus da Mata;Lavínia Cirino;Cartão;10;335,17;3351,7;Maranhão;Máquina de Lavar;PROD006;Informática
+7ffdfe6f-48fa-4a3d-b3c5-f1eeca0645e7;10/12/2023;Julia Novais;Pedro Henrique Santos;Dinheiro;9;194,57;1751,13;Pernambuco;Máquina de Lavar;PROD006;Eletrodomésticos
+73d0f68e-b0c8-4889-a04a-5e8f37ee3685;20/04/2023;Olivia da Mata;Dr. Rael Casa Grande;Dinheiro;6;18,93;113,58;Distrito Federal;Fogão;PROD005;Eletrodomésticos
+53952469-6d36-4849-85b5-8b3387b5aec2;01/06/2023;Vicente Ferreira;Davi Lucca Guerra;Cartão;4;499,99;1999,96;Rondônia;TV 4K;PROD003;Eletrônicos
+e16b5fe2-623d-4154-8bd6-7cb866ba974d;02/11/2023;Mateus da Mata;Dra. Júlia Moura;Pix;6;439,43;2636,58;Ceará;Micro-ondas;PROD010;Eletrodomésticos
+5a60ec0e-cbea-4afb-b39b-5e6e0f969a2b;23/01/2023;Mateus da Mata;Bella Albuquerque;Pix;10;406,43;4064,3;Paraíba;TV 4K;PROD003;Áudio e Vídeo
+56351ac3-f7a5-4e00-b960-b97ef02a9335;01/10/2023;Sr. Noah Sousa;João Guilherme Lopes;Dinheiro;10;149,61;1496,1;Tocantins;Fone de Ouvido;PROD008;Eletrodomésticos
+85a55ee4-3c92-4502-a60d-d47309f8ae8e;25/08/2023;Marcos Vinicius da Conceição;Dr. Rael Casa Grande;Dinheiro;4;190,24;760,96;Pernambuco;Micro-ondas;PROD010;Áudio e Vídeo
+4c7b8c0b-9016-4920-b794-56ba5cdbcb2a;06/11/2023;Emanuella Azevedo;Sr. João Gabriel Novaes;Cartão;9;215,14;1936,26;Rio Grande do Sul;TV 4K;PROD003;Eletrodomésticos
+c3919a76-dc87-4499-bc74-77e4088fc022;31/12/2023;Julia Novais;Marina Moraes;Boleto;8;438,32;3506,56;Amapá;Tablet;PROD009;Eletrônicos
+47e01671-8f13-4c49-9a32-d8fd3448b02e;12/08/2023;Vicente Ferreira;Maria Alice Caldeira;Dinheiro;3;143,67;431,01;Mato Grosso do Sul;Tablet;PROD009;Eletrodomésticos
+792825fd-67a4-4efe-ba81-7b87ef339dd7;01/05/2023;Mateus da Mata;Pedro Henrique Santos;Boleto;1;213,3;213,3;Espírito Santo;Câmera DSLR;PROD007;Informática
+faaa0648-050f-45fe-a4e6-8ef99f5f051f;16/03/2023;Emanuella Azevedo;Rafael Porto;Boleto;1;166,16;166,16;Tocantins;Notebook;PROD002;Informática
+20aee1e4-f847-4d8f-a8fb-c29b8c342671;18/08/2023;Dra. Melissa da Mata;Helena Carvalho;Cartão;8;351,08;2808,64;Acre;TV 4K;PROD003;Áudio e Vídeo
+fe7fc0d1-efca-49f5-9f9d-6d91d4c9e5b5;26/02/2023;Marcos Vinicius da Conceição;Joana Sampaio;Boleto;5;115,67;578,35;Amazonas;TV 4K;PROD003;Áudio e Vídeo
+f4274384-14aa-4a81-9a35-efe92cadc6fd;02/02/2023;Vicente Ferreira;Julia Mendes;Cartão;1;126,84;126,84;Rio Grande do Sul;Micro-ondas;PROD010;Áudio e Vídeo
+dd072729-7142-4c54-9755-76e183deb2b2;08/08/2023;Eduardo Guerra;Luiza Vargas;Boleto;9;291,77;2625,93;Espírito Santo;TV 4K;PROD003;Informática
+6cc31c0c-0442-479c-a360-8ddc1d8ca3b2;04/02/2023;Julia Novais;Marina Pinto;Cartão;10;214,12;2141,2;Minas Gerais;Notebook;PROD002;Informática
+265be4da-9425-4559-906e-7385df13bd1d;10/05/2023;Eduardo Guerra;Dr. Raul Leão;Cartão;8;31,33;250,64;Mato Grosso do Sul;Câmera DSLR;PROD007;Informática
+1833c40f-5714-4c1b-93fe-1ed84704cdbf;10/03/2023;Eduardo Guerra;Dr. Raul Leão;Boleto;4;369,14;1476,56;Tocantins;Notebook;PROD002;Informática
+a71de157-1c0e-41e2-bee5-f089813b2654;20/11/2023;Emanuella Azevedo;Lavínia Cirino;Cartão;3;416,89;1250,67;Roraima;Fone de Ouvido;PROD008;Áudio e Vídeo
+a6282125-494c-4518-ad3b-b2eb47373c6f;13/04/2023;Eduardo Guerra;Dr. Vinicius Moura;Boleto;8;28,12;224,96;Pernambuco;Geladeira;PROD004;Eletrônicos
+0e588c70-956d-43fe-99c3-5329479d1b31;10/05/2023;Eduardo Guerra;Amanda Barros;Pix;7;494,67;3462,69;Maranhão;Tablet;PROD009;Áudio e Vídeo
+36d3faef-9d98-492b-b75c-a1d087d5417c;20/05/2023;Vicente Ferreira;Bella Albuquerque;Dinheiro;6;432,45;2594,7;Minas Gerais;Smartphone;PROD001;Informática
+aba02ab4-05f9-42e9-9ef2-fdb9bffb4ab3;06/04/2023;Srta. Maria Julia Mendes;Joaquim da Costa;Dinheiro;8;448,37;3586,96;Mato Grosso do Sul;Câmera DSLR;PROD007;Informática
+e34ed326-a365-4f96-9521-7aa3f55696c7;10/02/2023;Mateus da Mata;Srta. Gabriela da Costa;Pix;9;140,69;1266,21;Piauí;Notebook;PROD002;Áudio e Vídeo
+2ccf9fe8-9e69-4c9d-b0c8-c66b045d2af0;05/12/2023;Marcos Vinicius da Conceição;João Guilherme Lopes;Dinheiro;5;167,39;836,95;Rio Grande do Norte;Notebook;PROD002;Informática
+bcb65e86-b0c3-4dc3-bfe0-30f8dbfc0dc5;17/08/2023;Eduardo Guerra;Sra. Caroline Caldeira;Boleto;7;91,66;641,62;Rio Grande do Norte;Fone de Ouvido;PROD008;Informática
+24352074-24e0-41e7-a343-030389673b64;10/12/2023;Mateus da Mata;Bella Albuquerque;Pix;7;144,53;1011,71;Acre;Smartphone;PROD001;Eletrônicos
+27a6056d-eeb3-4536-81a0-4e506dd418bd;06/03/2023;Vicente Ferreira;Joana Sampaio;Boleto;3;425,85;1277,55;Mato Grosso do Sul;Fone de Ouvido;PROD008;Eletrônicos
+0a731091-3d2f-4827-aa5b-298674328812;14/12/2023;Srta. Maria Julia Mendes;Bella Albuquerque;Boleto;7;475,24;3326,68;Paraíba;Smartphone;PROD001;Eletrodomésticos
+4464757e-0708-468a-a923-a41322d3484d;23/07/2023;Olivia da Mata;Dr. Rhavi Costa;Boleto;2;291,22;582,44;Espírito Santo;Tablet;PROD009;Informática
+42d70d4a-e6d7-4aad-9121-0b5a513e4255;23/09/2023;Mateus da Mata;Benjamin Moreira;Cartão;2;22,7;45,4;Goiás;TV 4K;PROD003;Áudio e Vídeo
+890c8e9e-0f03-4ae6-bd67-1475b4338c1a;22/12/2023;Srta. Maria Julia Mendes;Caroline Duarte;Cartão;5;354,98;1774,9;Bahia;Geladeira;PROD004;Informática
+4aca2765-279a-4876-96be-e7f8aa3d1133;16/12/2023;Olivia da Mata;Erick Costela;Boleto;2;231,5;463;Roraima;Fone de Ouvido;PROD008;Eletrônicos
+f874e8c8-d20b-45ea-9485-6e01a6385cd8;22/03/2023;Emanuella Azevedo;Bella Albuquerque;Pix;2;279,5;559;Amazonas;Fogão;PROD005;Informática
+aedf6090-8984-48e5-b06c-b319aba047ee;14/01/2023;Olivia da Mata;Benjamin Moreira;Boleto;4;398,11;1592,44;Paraíba;Geladeira;PROD004;Áudio e Vídeo
+61f09ea0-8a79-4627-afea-3267333995e7;08/06/2023;Mateus da Mata;Marcos Vinicius Vieira;Dinheiro;9;73,59;662,31;Pernambuco;Notebook;PROD002;Eletrônicos
+d23c6a8f-ef27-4033-9508-7c28d59ca34e;06/03/2023;Olivia da Mata;Dr. Rhavi Costa;Cartão;7;386,89;2708,23;Paraíba;Micro-ondas;PROD010;Eletrônicos
+5012894f-f902-493f-86ba-b498f24c0b79;10/10/2023;Dra. Melissa da Mata;Renan Borges;Pix;8;343,25;2746;Pará;Máquina de Lavar;PROD006;Eletrodomésticos
+edd83329-5c66-41f1-a4c4-c52dcef883c2;23/09/2023;Emanuella Azevedo;João Guilherme Lopes;Pix;9;456,25;4106,25;Ceará;Smartphone;PROD001;Eletrônicos
+cba684dd-0932-47f9-8720-f30673bb3166;23/09/2023;Marcos Vinicius da Conceição;Pedro Henrique Santos;Boleto;6;468,02;2808,12;Distrito Federal;Geladeira;PROD004;Informática
+0cea842b-4113-47de-acc6-f6c6332c2bca;15/09/2023;Emanuella Azevedo;Manuela da Costa;Pix;9;144,48;1300,32;Ceará;Fogão;PROD005;Eletrônicos
+b0f0ef46-170f-4105-9496-c4244f135cf2;16/10/2023;Eduardo Guerra;Samuel Azevedo;Cartão;10;363,11;3631,1;Alagoas;Micro-ondas;PROD010;Informática
+a797c831-fabf-4686-8070-70f973cea3a4;13/11/2023;Eduardo Guerra;Julia Mendes;Boleto;10;139,68;1396,8;Rio Grande do Sul;Geladeira;PROD004;Áudio e Vídeo
+8d5a60e5-04f0-4a8e-a840-4d317932d17e;21/08/2023;Vicente Ferreira;Joaquim da Costa;Cartão;5;246,64;1233,2;Ceará;Câmera DSLR;PROD007;Informática
+c7a8df16-37dc-41f1-90eb-7b52af5da368;24/06/2023;Dra. Melissa da Mata;Dra. Júlia Moura;Boleto;8;213,65;1709,2;Roraima;Fone de Ouvido;PROD008;Eletrodomésticos
+196e2840-11f3-4c6a-af4e-18b962325b7a;08/03/2023;Olivia da Mata;Davi Lucca Guerra;Cartão;6;369,76;2218,56;Mato Grosso;Máquina de Lavar;PROD006;Áudio e Vídeo
+18c549a0-7499-4f91-ac1d-8140d25ea8cd;07/05/2023;Emanuella Azevedo;Ana Sophia Moreira;Cartão;4;238,57;954,28;Maranhão;Fogão;PROD005;Áudio e Vídeo
+50fb0bed-72dc-48ac-9f16-06b219b84258;23/03/2023;Olivia da Mata;Gael Henrique Campos;Boleto;7;433,44;3034,08;Distrito Federal;Câmera DSLR;PROD007;Eletrodomésticos
+fc19b705-9a31-4eb1-8921-ed8f9b46bd7c;13/09/2023;Marcos Vinicius da Conceição;Julia Mendes;Cartão;3;254,15;762,45;Amapá;Tablet;PROD009;Áudio e Vídeo
+ac715834-9dbb-40e7-814f-ab0bfc19ed53;26/10/2023;Olivia da Mata;Lunna Ribeiro;Cartão;7;257,67;1803,69;Maranhão;Geladeira;PROD004;Eletrodomésticos
+72cf6860-7a75-4e32-8b0c-4ff38830c258;02/10/2023;Eduardo Guerra;Ana Sophia Moreira;Dinheiro;8;302,78;2422,24;Bahia;Fone de Ouvido;PROD008;Informática
+00b467f5-6c73-4d04-9477-bcbae4c4aeac;24/01/2023;Mateus da Mata;Lunna Ribeiro;Pix;5;366,48;1832,4;Mato Grosso do Sul;Câmera DSLR;PROD007;Informática
+f194f5ea-1430-410f-9c17-c4842ab5d45f;09/10/2023;Marcos Vinicius da Conceição;Luiza Vargas;Cartão;9;151,41;1362,69;Bahia;Câmera DSLR;PROD007;Áudio e Vídeo
+9035afa0-17a9-4c7e-a1bf-956a4dafde1e;15/03/2023;Sr. Noah Sousa;Srta. Gabriela da Costa;Dinheiro;2;203,01;406,02;Pernambuco;Máquina de Lavar;PROD006;Informática
+bb1f7b39-0feb-42b2-9a03-9c015c6402e1;31/08/2023;Julia Novais;Francisco Cunha;Pix;1;32,2;32,2;Rio Grande do Norte;TV 4K;PROD003;Informática
+c1c7f55a-8638-4171-a3b3-93fa749304b2;25/03/2023;Mateus da Mata;Luiza Vargas;Boleto;9;78,49;706,41;Rio de Janeiro;Micro-ondas;PROD010;Informática
+744c2bea-112a-4d0b-a5ee-11e487f8ba5c;29/12/2023;Dra. Melissa da Mata;João Guilherme Lopes;Dinheiro;6;258,58;1551,48;Tocantins;Tablet;PROD009;Áudio e Vídeo
+bb9ab26f-d216-461a-a1d0-adadd88229f3;26/10/2023;Marcos Vinicius da Conceição;Sra. Caroline Caldeira;Cartão;1;190,5;190,5;Rio Grande do Norte;Notebook;PROD002;Áudio e Vídeo
+1d808c59-6552-4724-9fb5-ed87e5f3c589;27/01/2023;Dra. Melissa da Mata;Isis Siqueira;Pix;8;140,11;1120,88;Pernambuco;Micro-ondas;PROD010;Eletrodomésticos
+6a02f94a-7b85-4808-b748-a243c9a86e0f;15/12/2023;Sr. Noah Sousa;Rafael Porto;Cartão;10;389,56;3895,6;Distrito Federal;Câmera DSLR;PROD007;Eletrodomésticos
+a41f5762-f316-4ff1-8f25-34838ba7c908;31/07/2023;Sr. Noah Sousa;Henry Gabriel da Rosa;Dinheiro;1;226,11;226,11;Santa Catarina;Câmera DSLR;PROD007;Eletrodomésticos
+a7dd11a0-376a-4bc9-9b1a-084354901ef6;15/10/2023;Olivia da Mata;Erick Costela;Dinheiro;1;355,83;355,83;Pernambuco;Tablet;PROD009;Eletrodomésticos
+71f9b981-e972-4791-a20a-f70f3a2c49ab;30/09/2023;Olivia da Mata;Marina Pinto;Boleto;7;163,74;1146,18;Rondônia;TV 4K;PROD003;Áudio e Vídeo
+6814b424-b229-48d5-8044-5e660360b725;23/05/2023;Julia Novais;João Guilherme Lopes;Pix;5;308,94;1544,7;Maranhão;Geladeira;PROD004;Eletrodomésticos
+0aeedcab-270f-40a0-be32-b7e04c54f692;03/09/2023;Olivia da Mata;Benjamin Moreira;Boleto;5;355,4;1777;Maranhão;Fone de Ouvido;PROD008;Informática
+9e65dd2d-b953-4770-9bbf-5f2d1e5f163f;22/07/2023;Olivia da Mata;Dr. Rael Casa Grande;Pix;2;291;582;Maranhão;Tablet;PROD009;Áudio e Vídeo
+67c7c5ff-2170-433f-8f91-e661cb0c65a9;15/08/2023;Marcos Vinicius da Conceição;Esther Fonseca;Dinheiro;1;150,94;150,94;Distrito Federal;Notebook;PROD002;Informática
+0b42fa68-b4d8-4dbf-8bbd-856022ff5b5c;12/03/2023;Vicente Ferreira;Luiza Vargas;Pix;4;415,7;1662,8;Espírito Santo;Fogão;PROD005;Informática
+13de2b7f-1722-4807-99cf-21d4713c587f;23/11/2023;Sr. Noah Sousa;Lunna Ribeiro;Cartão;1;338,22;338,22;Pará;Tablet;PROD009;Eletrodomésticos
+3875302c-4ccd-42e1-a98f-7262cb40ae32;03/01/2023;Julia Novais;Raul Macedo;Dinheiro;6;361,51;2169,06;Rio Grande do Sul;Notebook;PROD002;Eletrodomésticos
+8bc83bcc-1d3e-4f7d-aeae-4cb732ecd32f;14/06/2023;Marcos Vinicius da Conceição;Dr. Rhavi Costa;Cartão;8;243,95;1951,6;São Paulo;Geladeira;PROD004;Informática
+570fb5a6-aa20-49bc-ac5c-29a7b47b946f;31/03/2023;Mateus da Mata;Renan Borges;Cartão;2;329,63;659,26;Tocantins;Geladeira;PROD004;Eletrônicos
+3138ca26-ea3b-4f61-ab28-396ece0a541f;20/01/2023;Eduardo Guerra;João Guilherme Lopes;Cartão;7;396,1;2772,7;Mato Grosso;TV 4K;PROD003;Informática
+51f4c27c-dbfd-447c-99b7-6e356a5ad30c;10/03/2023;Julia Novais;Francisco Cunha;Boleto;5;232,63;1163,15;Distrito Federal;Tablet;PROD009;Áudio e Vídeo
+5e5f6532-c780-423b-990a-4a1df9d37069;06/04/2023;Eduardo Guerra;Esther Fonseca;Boleto;2;172,04;344,08;Sergipe;Fone de Ouvido;PROD008;Informática
+2eb40005-bae1-40f9-bb73-cb75958c940c;09/11/2023;Mateus da Mata;Sra. Sabrina Cirino;Boleto;5;288,21;1441,05;Amapá;Geladeira;PROD004;Eletrodomésticos
+d122b447-f910-451c-90ef-475c165430ee;02/09/2023;Olivia da Mata;Joana Sampaio;Cartão;7;337,94;2365,58;Goiás;TV 4K;PROD003;Eletrodomésticos
+894f18b9-bbc9-4d4f-b212-55171c30befd;04/06/2023;Dra. Melissa da Mata;Sra. Caroline Caldeira;Cartão;7;125,41;877,87;Goiás;Fogão;PROD005;Informática
+af3abe60-92f1-4acf-bcf7-e4b72b9a50bf;27/08/2023;Marcos Vinicius da Conceição;Raul Macedo;Dinheiro;6;349,46;2096,76;Rondônia;Smartphone;PROD001;Eletrônicos
+b11f41ba-3e29-4095-821b-9a705299445d;24/11/2023;Marcos Vinicius da Conceição;Bella Albuquerque;Pix;9;462,32;4160,88;Espírito Santo;Fogão;PROD005;Eletrônicos
+ff55980a-dc2e-4387-8f22-b82b1cae6106;01/08/2023;Julia Novais;Isis Siqueira;Pix;3;244,31;732,93;São Paulo;Fone de Ouvido;PROD008;Informática
+5f4fd494-8132-4c90-b86e-354afaf7221a;27/09/2023;Srta. Maria Julia Mendes;Yasmin Camargo;Boleto;4;343,37;1373,48;Amapá;Micro-ondas;PROD010;Eletrônicos
+b9f6436d-a453-41a1-8b17-9707afad24a2;21/10/2023;Julia Novais;Dra. Júlia Moura;Pix;10;64,98;649,8;Mato Grosso;Tablet;PROD009;Eletrodomésticos
+e93d85bf-2a93-457c-904c-e7882dfdfd67;16/02/2023;Julia Novais;Luiz Miguel da Rosa;Cartão;9;226,5;2038,5;Paraíba;Geladeira;PROD004;Áudio e Vídeo
+959a1ce1-3afa-4224-acb9-c3477641ce08;14/10/2023;Srta. Maria Julia Mendes;Igor Correia;Boleto;3;261,49;784,47;Santa Catarina;Fone de Ouvido;PROD008;Eletrônicos
+7807115a-1f75-4fda-9cfb-96471e180eb9;24/10/2023;Vicente Ferreira;Rafael Porto;Dinheiro;1;204,01;204,01;Mato Grosso do Sul;Smartphone;PROD001;Eletrodomésticos
+ae43bc34-7bad-4e05-91c3-840a4ed1ebf5;30/08/2023;Eduardo Guerra;Diego Martins;Dinheiro;2;275,17;550,34;Ceará;Smartphone;PROD001;Eletrônicos
+4c8f4cff-2ace-4197-8891-e136e2635dad;15/07/2023;Srta. Maria Julia Mendes;Alana Nunes;Dinheiro;3;385,26;1155,78;Amapá;Câmera DSLR;PROD007;Informática
+c1e641f0-4842-4dba-b9ac-307464919cb1;02/04/2023;Julia Novais;Pedro Lucas Mendes;Pix;9;75,17;676,53;Santa Catarina;Máquina de Lavar;PROD006;Eletrônicos
+f1725a7a-96c5-4d89-825b-d461858d5a01;26/08/2023;Julia Novais;Sra. Sabrina Cirino;Dinheiro;4;419,06;1676,24;Tocantins;Smartphone;PROD001;Informática
+ead152ef-84f0-46f3-aef9-deefe081c30e;22/05/2023;Sr. Noah Sousa;Sra. Caroline Caldeira;Cartão;4;131,28;525,12;Alagoas;Máquina de Lavar;PROD006;Eletrodomésticos
+99c30882-1b22-4c1f-8d73-1144a6dd8fc2;16/04/2023;Vicente Ferreira;Ana Sophia Moreira;Cartão;7;311,31;2179,17;Paraíba;Smartphone;PROD001;Eletrodomésticos
+be9a6352-e166-4b03-a14f-8e5fefb63e30;23/01/2023;Mateus da Mata;Luiz Miguel da Rosa;Pix;10;339,29;3392,9;Piauí;Smartphone;PROD001;Eletrodomésticos
+4f39e8c7-cd24-4edd-9a0b-82b7bd3a5027;15/09/2023;Marcos Vinicius da Conceição;Maria Alice Caldeira;Boleto;4;379,65;1518,6;Rio de Janeiro;Smartphone;PROD001;Eletrodomésticos
+c928ac8b-a3b9-49ae-b41a-e51dba8fdfdc;04/06/2023;Emanuella Azevedo;Erick Costela;Pix;10;388,54;3885,4;Pará;Máquina de Lavar;PROD006;Eletrodomésticos
+72e5d049-ab6c-4589-8bc2-7ceff77f1b07;17/11/2023;Mateus da Mata;Benjamin Moreira;Dinheiro;5;144,83;724,15;Alagoas;Tablet;PROD009;Eletrodomésticos
+182787ba-4ea9-497e-8e94-e4fbad19f252;23/12/2023;Mateus da Mata;Henry Gabriel da Rosa;Pix;6;471,38;2828,28;Maranhão;Câmera DSLR;PROD007;Informática
+fac2f4da-690f-44f1-b9d7-b0813b800ad0;04/05/2023;Sr. Noah Sousa;João Guilherme Lopes;Pix;7;100,1;700,7;Sergipe;Tablet;PROD009;Áudio e Vídeo
+03afa242-f9ca-4488-aef8-757ebd42a61c;02/08/2023;Julia Novais;Yasmin Camargo;Pix;8;458,22;3665,76;Minas Gerais;Tablet;PROD009;Áudio e Vídeo
+a8c91166-c0d9-4c1d-8b05-809e503c1eab;19/08/2023;Olivia da Mata;Pedro Henrique Santos;Pix;4;134,95;539,8;Alagoas;Máquina de Lavar;PROD006;Eletrônicos
+3733397c-6408-4638-8a7d-7af68786a550;07/02/2023;Sr. Noah Sousa;Amanda Barros;Pix;5;194,81;974,05;Paraná;Micro-ondas;PROD010;Eletrônicos
+6eafe2f7-7c39-4e43-8bfd-d99286a0915c;08/01/2023;Sr. Noah Sousa;Caroline Duarte;Cartão;4;436,04;1744,16;Santa Catarina;Máquina de Lavar;PROD006;Informática
+2e43fd24-12e5-44aa-b2db-7d1e0c1d7795;23/07/2023;Sr. Noah Sousa;Benjamin Moreira;Boleto;8;458,08;3664,64;São Paulo;Micro-ondas;PROD010;Eletrodomésticos
+f29e7ff2-c5b8-471d-841f-ee0426a35bee;07/06/2023;Marcos Vinicius da Conceição;Bella Albuquerque;Dinheiro;5;196,52;982,6;Paraíba;Tablet;PROD009;Informática
+5618cf88-763e-4a71-87e4-6b0119d673dd;15/04/2023;Olivia da Mata;Dr. Vinicius Moura;Dinheiro;2;403,38;806,76;Alagoas;Fone de Ouvido;PROD008;Informática
+f81e66dc-486f-41b8-98dd-18eeb5962252;14/05/2023;Julia Novais;Manuela da Costa;Dinheiro;10;433,4;4334;Maranhão;TV 4K;PROD003;Eletrônicos
+4bcc2869-f124-4d75-9969-0a8235450a8e;19/10/2023;Sr. Noah Sousa;Julia Mendes;Boleto;3;106,13;318,39;Goiás;Geladeira;PROD004;Áudio e Vídeo
+f166305c-2b76-4b72-9e7f-65e2b0afa79c;28/03/2023;Olivia da Mata;Raul Macedo;Pix;8;483,59;3868,72;Santa Catarina;Fone de Ouvido;PROD008;Áudio e Vídeo
+0ff3eac0-cd13-428f-9aa2-a530e44ac974;26/09/2023;Eduardo Guerra;Isis Barbosa;Cartão;9;249,27;2243,43;São Paulo;Tablet;PROD009;Eletrônicos
+1b8b4a0a-c260-4fdd-8743-b1f6becd0d09;29/12/2023;Emanuella Azevedo;Helena Carvalho;Pix;1;212,07;212,07;Pernambuco;Geladeira;PROD004;Eletrônicos
+170696b4-bf1e-4ee2-bb6d-5f9c6546af11;04/12/2023;Srta. Maria Julia Mendes;Samuel Azevedo;Cartão;8;192,87;1542,96;Piauí;Micro-ondas;PROD010;Áudio e Vídeo
+0cf387e4-1981-4a12-b629-178ecfe088cf;02/10/2023;Marcos Vinicius da Conceição;Samuel Azevedo;Dinheiro;9;211,56;1904,04;Sergipe;Smartphone;PROD001;Informática
+3830ff91-c7da-4758-b72e-090657adae4e;04/05/2023;Sr. Noah Sousa;Luiza Vargas;Boleto;3;62,44;187,32;Tocantins;Notebook;PROD002;Eletrodomésticos
+f271ac69-176c-48f9-8093-32895a3f2bd3;11/07/2023;Mateus da Mata;Francisco Cunha;Pix;6;140,99;845,94;Roraima;Câmera DSLR;PROD007;Eletrônicos
+6e4651c5-2ba0-4f9b-9fca-141f566c9dd5;17/02/2023;Mateus da Mata;Alana Nunes;Dinheiro;4;156,99;627,96;Piauí;Notebook;PROD002;Eletrônicos
+7d437639-04ca-4654-80b1-05a1804d2f03;12/02/2023;Srta. Maria Julia Mendes;Sra. Sabrina Cirino;Boleto;8;37,5;300;Rio de Janeiro;Smartphone;PROD001;Eletrodomésticos
+e92b93a9-9744-4b80-b604-02f04f40021f;19/04/2023;Dra. Melissa da Mata;Isis Siqueira;Boleto;2;448,45;896,9;Alagoas;Smartphone;PROD001;Eletrodomésticos
+b49f8834-4fd2-4930-905b-8f30e2667127;02/04/2023;Olivia da Mata;Samuel Azevedo;Pix;2;345,37;690,74;Rio de Janeiro;Fogão;PROD005;Eletrônicos
+5f456d38-2a3f-4e3f-a7b3-58e912512a6a;03/06/2023;Emanuella Azevedo;Gael Henrique Campos;Pix;3;378,6;1135,8;Rio de Janeiro;Câmera DSLR;PROD007;Eletrônicos
+27576510-15e8-4d50-af2c-ce7f559acfae;16/07/2023;Emanuella Azevedo;Joaquim da Costa;Cartão;7;341,75;2392,25;Pernambuco;Tablet;PROD009;Informática
+1d965c00-7c9b-4c2c-9600-82abc454c6f6;08/02/2023;Olivia da Mata;Srta. Gabriela da Costa;Dinheiro;6;36,31;217,86;São Paulo;Câmera DSLR;PROD007;Eletrodomésticos
+f1ef14f2-0a6d-4819-914c-5b156f038728;09/09/2023;Sr. Noah Sousa;Dr. Raul Leão;Dinheiro;6;24,52;147,12;Pará;Fogão;PROD005;Áudio e Vídeo
+114b036c-e6bd-4b72-b5f8-2322fa7b559b;13/11/2023;Marcos Vinicius da Conceição;Joana Sampaio;Cartão;3;343,05;1029,15;Amapá;Câmera DSLR;PROD007;Eletrônicos
+a3928e86-11f1-4cd7-8e17-6002682f8828;12/06/2023;Olivia da Mata;Ana Sophia Moreira;Cartão;5;85,57;427,85;Acre;TV 4K;PROD003;Áudio e Vídeo
+72da641a-db5f-435e-b8f9-5fe0d59aa454;09/03/2023;Vicente Ferreira;Renan Borges;Dinheiro;5;227,92;1139,6;Paraíba;Fogão;PROD005;Eletrônicos
+661095cc-132b-4762-b28f-cf6a231ca696;14/01/2023;Vicente Ferreira;Dr. Raul Leão;Cartão;9;281,82;2536,38;Rio Grande do Norte;Câmera DSLR;PROD007;Eletrônicos
+8117f9d6-d144-4cf4-93dc-540c771a1524;30/05/2023;Mateus da Mata;Alana Nunes;Cartão;10;394,37;3943,7;Santa Catarina;Câmera DSLR;PROD007;Eletrônicos
+c50d1453-2861-4542-8f7e-7a99cf5b43fd;17/12/2023;Mateus da Mata;Raul Macedo;Pix;9;453,55;4081,95;Goiás;Geladeira;PROD004;Eletrodomésticos
+909cfef8-29eb-4b56-9da6-cacb0cf8819a;27/03/2023;Mateus da Mata;Lorena da Cunha;Dinheiro;5;141,52;707,6;Maranhão;TV 4K;PROD003;Eletrônicos
+025b8b4b-0f65-4386-b16d-5832d32c69c4;07/05/2023;Srta. Maria Julia Mendes;Srta. Gabriela da Costa;Pix;8;393,51;3148,08;Paraíba;Máquina de Lavar;PROD006;Informática
+74ba535d-6ff3-451e-8e5c-8601be65b823;20/06/2023;Dra. Melissa da Mata;Alana Nunes;Boleto;2;76,39;152,78;Paraíba;Smartphone;PROD001;Áudio e Vídeo
+3047e559-c5d3-459b-bc13-d33f5752ee85;03/06/2023;Olivia da Mata;Srta. Gabriela da Costa;Pix;6;221;1326;Paraná;Micro-ondas;PROD010;Eletrodomésticos
+1926e634-3d32-4aeb-917d-1d78c585af8a;30/05/2023;Srta. Maria Julia Mendes;Gael Henrique Campos;Pix;6;97,04;582,24;Mato Grosso;Câmera DSLR;PROD007;Informática
+fd5d67b1-943e-4b0a-921c-747e48cc9306;28/02/2023;Dra. Melissa da Mata;Caroline Duarte;Pix;7;147,35;1031,45;Rondônia;Câmera DSLR;PROD007;Informática
+5cc89642-0620-4273-afbb-64448965832d;13/08/2023;Marcos Vinicius da Conceição;Joaquim da Costa;Cartão;9;23,19;208,71;Tocantins;Fone de Ouvido;PROD008;Eletrodomésticos
+4d8de030-de13-4448-8d8c-aa29c402bd69;04/05/2023;Marcos Vinicius da Conceição;Erick Costela;Pix;7;339,76;2378,32;Roraima;TV 4K;PROD003;Informática
+167657c8-ea9a-4508-b039-1b44cfce0964;03/11/2023;Srta. Maria Julia Mendes;Manuela da Costa;Dinheiro;7;396,65;2776,55;Piauí;Notebook;PROD002;Áudio e Vídeo
+b95e0634-e0cd-4504-8204-3f849f7e73ff;04/07/2023;Julia Novais;Srta. Gabriela da Costa;Cartão;9;462,51;4162,59;Amazonas;Câmera DSLR;PROD007;Eletrônicos
+b821b832-654b-45b9-8a02-af174ed5e2ce;28/11/2023;Dra. Melissa da Mata;Rafael Porto;Dinheiro;4;332,22;1328,88;São Paulo;Máquina de Lavar;PROD006;Eletrodomésticos
+80a9ae5b-b1a8-45ea-94bf-9cd2ea0f8887;06/01/2023;Vicente Ferreira;Sr. João Gabriel Novaes;Pix;6;483,2;2899,2;Pernambuco;Câmera DSLR;PROD007;Eletrônicos
+f894b5d7-42a6-4c3c-8752-096b703c35c5;17/08/2023;Olivia da Mata;Pedro Lucas Mendes;Dinheiro;9;283,42;2550,78;São Paulo;Micro-ondas;PROD010;Eletrodomésticos
+2170f787-42e4-4e54-bfe6-be2b888652a8;13/01/2023;Srta. Maria Julia Mendes;Ana Sophia Moreira;Boleto;10;348,31;3483,1;Pará;TV 4K;PROD003;Informática
+3e0febb4-0665-40e2-9d5b-3cc48cad7613;09/06/2023;Olivia da Mata;Francisco Cunha;Pix;2;66,87;133,74;Pernambuco;TV 4K;PROD003;Informática
+71f2aa3e-866a-4902-b671-eb0562b6f406;23/12/2023;Srta. Maria Julia Mendes;Dr. Vinicius Moura;Cartão;8;180,67;1445,36;Maranhão;Notebook;PROD002;Áudio e Vídeo
+0da961f0-48da-452f-8c47-73535faca8b6;25/06/2023;Vicente Ferreira;Igor Correia;Pix;1;406,99;406,99;Santa Catarina;Notebook;PROD002;Eletrônicos
+672fd049-0e40-42a6-a874-c8d2461077d5;19/06/2023;Julia Novais;Sra. Sabrina Cirino;Dinheiro;4;262,84;1051,36;Espírito Santo;Tablet;PROD009;Eletrodomésticos
+9705d5b0-5e10-4d3c-bd01-c23ddad13a5a;22/07/2023;Eduardo Guerra;Esther Fonseca;Pix;7;318,58;2230,06;Paraíba;TV 4K;PROD003;Áudio e Vídeo
+40704e34-cf70-4942-90a2-fe2a65af624c;16/04/2023;Marcos Vinicius da Conceição;Amanda Barros;Cartão;10;220,48;2204,8;Rio de Janeiro;Smartphone;PROD001;Eletrodomésticos
+770a2713-5104-409f-9d97-00e1e343d445;07/07/2023;Olivia da Mata;Caroline Duarte;Dinheiro;2;401,76;803,52;Amazonas;Tablet;PROD009;Eletrodomésticos
+efc68e03-e8e6-4ba0-86c0-40abf4a40706;02/11/2023;Mateus da Mata;Luiza Vargas;Dinheiro;5;338,64;1693,2;Rio de Janeiro;Fone de Ouvido;PROD008;Informática
+dcd25ebe-6be4-406c-9083-41bbea6c1c03;11/12/2023;Marcos Vinicius da Conceição;Luiza Vargas;Cartão;2;180,48;360,96;Rondônia;Fone de Ouvido;PROD008;Eletrodomésticos
+6e0c23a8-eeeb-4a5a-bc78-953d4f9deb92;01/03/2023;Emanuella Azevedo;Bella Albuquerque;Pix;3;163,46;490,38;Pernambuco;Geladeira;PROD004;Informática
+f05df06d-b8d9-4bad-8827-2a98929a1fb7;05/08/2023;Emanuella Azevedo;Julia Mendes;Pix;7;214,94;1504,58;Piauí;TV 4K;PROD003;Áudio e Vídeo
+e74f338b-e28a-4422-9667-ee0c749defa0;11/06/2023;Srta. Maria Julia Mendes;Luiza Vargas;Cartão;3;249,92;749,76;Mato Grosso do Sul;TV 4K;PROD003;Eletrodomésticos
+39c2cfbb-9b4e-4dea-b604-47e101a21dd5;15/10/2023;Julia Novais;Dr. Rhavi Costa;Dinheiro;1;247,46;247,46;Pará;Geladeira;PROD004;Áudio e Vídeo
+77439dfa-dc3e-424a-b5b9-4668d815ce1c;27/03/2023;Vicente Ferreira;Gael Henrique Campos;Cartão;8;213,66;1709,28;Sergipe;Fone de Ouvido;PROD008;Áudio e Vídeo
+b5dee6b8-f53e-40c1-ace4-8c9a7497da0e;03/10/2023;Marcos Vinicius da Conceição;Raul Macedo;Dinheiro;4;153,12;612,48;Rio de Janeiro;Fogão;PROD005;Eletrodomésticos
+31071ab0-58d9-429f-99d2-89fa84d7a85d;18/05/2023;Julia Novais;Bella Albuquerque;Cartão;8;279,37;2234,96;São Paulo;Notebook;PROD002;Eletrônicos
+d6bcf557-452f-4dc2-addc-d9ed555f63da;01/12/2023;Sr. Noah Sousa;João Guilherme Lopes;Cartão;8;277,71;2221,68;Paraíba;Câmera DSLR;PROD007;Eletrônicos
+68a1d408-1648-4b9f-bedf-147d43bd7d71;02/03/2023;Sr. Noah Sousa;Bryan da Rosa;Boleto;5;180,8;904;Roraima;Notebook;PROD002;Áudio e Vídeo
+27729768-6d44-4554-9ba2-972ec2e7bbc4;16/04/2023;Sr. Noah Sousa;Lunna Ribeiro;Boleto;10;320,06;3200,6;Piauí;TV 4K;PROD003;Eletrodomésticos
+98e949a3-d20c-4c31-8aa4-0fc2c0f8e02f;27/12/2023;Marcos Vinicius da Conceição;Diego Martins;Boleto;5;302,46;1512,3;Pernambuco;TV 4K;PROD003;Informática
+6cbb3cf5-2af8-4c9e-abc4-986230c2d808;22/05/2023;Emanuella Azevedo;Joaquim da Costa;Pix;2;76,44;152,88;Espírito Santo;Câmera DSLR;PROD007;Eletrônicos
+88954c17-6004-4bd9-bb04-60506b870f0b;08/09/2023;Emanuella Azevedo;Gael Henrique Campos;Boleto;3;358,58;1075,74;Rio Grande do Sul;Geladeira;PROD004;Áudio e Vídeo
+c9a10999-b09d-4b18-961e-b11e27441ed8;26/07/2023;Julia Novais;Esther Fonseca;Boleto;7;193,83;1356,81;Roraima;Notebook;PROD002;Eletrônicos
+bf3a2f39-2a56-4c1b-aca7-deed27e2df2d;25/10/2023;Eduardo Guerra;Dr. Rael Casa Grande;Cartão;6;232,8;1396,8;Santa Catarina;Fone de Ouvido;PROD008;Informática
+87c9d661-41a4-486c-ac80-5e1fc3211094;01/10/2023;Mateus da Mata;Bryan da Rosa;Dinheiro;8;321,07;2568,56;Tocantins;Máquina de Lavar;PROD006;Eletrônicos
+95790fb0-4fa5-43b8-8af2-67e71a768f05;22/06/2023;Julia Novais;Gael Henrique Campos;Pix;4;252,41;1009,64;Rio de Janeiro;Máquina de Lavar;PROD006;Informática
+dbedf1e5-8400-47c3-861f-dee284e95585;20/02/2023;Srta. Maria Julia Mendes;Samuel Azevedo;Cartão;8;396,27;3170,16;Ceará;Smartphone;PROD001;Eletrônicos
+9aa1a3d1-87fe-4ac3-a0ac-37d9af9693d7;19/12/2023;Emanuella Azevedo;Dr. Rhavi Costa;Boleto;8;233,69;1869,52;Ceará;Câmera DSLR;PROD007;Eletrodomésticos
+a5672297-d648-448d-8162-2493cdbb7703;12/02/2023;Olivia da Mata;Erick Costela;Pix;5;55,74;278,7;Alagoas;Máquina de Lavar;PROD006;Informática
+9a3849a5-f26d-4420-8b4d-bee8182fd16e;02/12/2023;Vicente Ferreira;Marcos Vinicius Vieira;Cartão;7;316,55;2215,85;Acre;Geladeira;PROD004;Áudio e Vídeo
+57420d46-e454-4cd6-a127-bda74ab8c522;23/09/2023;Srta. Maria Julia Mendes;Helena Carvalho;Cartão;4;243,64;974,56;Roraima;TV 4K;PROD003;Eletrodomésticos
+80280f7d-55f7-41ed-9681-852ac452a718;02/09/2023;Vicente Ferreira;Maria Alice Caldeira;Dinheiro;6;410,38;2462,28;Amapá;Câmera DSLR;PROD007;Eletrodomésticos
+7b17556b-fb7f-46bf-877f-60a8180f25ce;12/03/2023;Mateus da Mata;Dr. Rael Casa Grande;Pix;2;60,57;121,14;Rio Grande do Sul;Máquina de Lavar;PROD006;Informática
+8b3af59b-0fa0-41d0-98d0-c3461edec5f2;09/11/2023;Emanuella Azevedo;Luiz Miguel da Rosa;Boleto;3;43,52;130,56;Santa Catarina;Micro-ondas;PROD010;Eletrônicos
+79f4d02a-47ac-47d1-bb20-b36afa3651a0;12/11/2023;Srta. Maria Julia Mendes;Bryan da Rosa;Cartão;4;317,76;1271,04;Amazonas;TV 4K;PROD003;Áudio e Vídeo
+eabe6c24-63d1-410f-8b6f-0612c6803a9f;29/06/2023;Mateus da Mata;Dr. Vinicius Moura;Pix;3;378,7;1136,1;Espírito Santo;Micro-ondas;PROD010;Áudio e Vídeo
+11923d6a-7d51-4b3f-a7f1-fdad08d1248a;20/12/2023;Eduardo Guerra;Erick Costela;Boleto;5;325,86;1629,3;Distrito Federal;Geladeira;PROD004;Informática
+ec4604c7-5bfd-4e36-9e48-892bfe065f7b;01/06/2023;Eduardo Guerra;Joana Sampaio;Dinheiro;9;307,39;2766,51;Minas Gerais;Geladeira;PROD004;Áudio e Vídeo
+2965bb40-7253-417e-8f61-ddba0875ad97;28/09/2023;Eduardo Guerra;Bella Albuquerque;Boleto;2;128,13;256,26;Bahia;Micro-ondas;PROD010;Eletrônicos
+5741ddab-b854-434f-80c3-33508840fe51;07/07/2023;Julia Novais;Igor Correia;Pix;7;431,8;3022,6;São Paulo;Micro-ondas;PROD010;Áudio e Vídeo
+268ce8c3-6e63-41a2-a4a5-bc1e637c21b1;28/10/2023;Vicente Ferreira;Helena Carvalho;Boleto;8;477,68;3821,44;Distrito Federal;Notebook;PROD002;Eletrônicos
+d9007563-40ae-4960-9c0b-0df20f44f996;18/11/2023;Julia Novais;Dr. Rael Casa Grande;Dinheiro;1;462,06;462,06;Pará;Câmera DSLR;PROD007;Informática
+241e44a2-5e99-4370-80eb-fa943b4cac89;23/05/2023;Vicente Ferreira;João Guilherme Lopes;Cartão;7;50,39;352,73;Pernambuco;Tablet;PROD009;Eletrodomésticos
+3a92fe7f-527f-4fcb-b2f1-1da7f58fd968;20/07/2023;Dra. Melissa da Mata;Ravy Araújo;Cartão;4;487,41;1949,64;Maranhão;TV 4K;PROD003;Informática
+7c8b4dda-1726-4d52-ba61-b673d77301a0;06/05/2023;Vicente Ferreira;Sra. Sabrina Cirino;Cartão;7;367,68;2573,76;Paraíba;Geladeira;PROD004;Eletrônicos
+62d55ac6-cf68-47f9-9fbc-c064f016fbb1;03/03/2023;Eduardo Guerra;Marcos Vinicius Vieira;Pix;10;308,33;3083,3;Roraima;Fogão;PROD005;Eletrodomésticos
+84ae1cdc-f725-4be8-82e9-bd96112b2a37;27/03/2023;Olivia da Mata;Lavínia Cirino;Boleto;1;90,28;90,28;Santa Catarina;Máquina de Lavar;PROD006;Informática
+726bb9f8-ce2a-4a19-9d76-e1ba41813668;08/08/2023;Marcos Vinicius da Conceição;Yasmin Camargo;Cartão;2;388;776;Goiás;Smartphone;PROD001;Informática
+418959ad-2470-457e-8c79-b1c85ebe85db;19/09/2023;Olivia da Mata;Lunna Ribeiro;Dinheiro;10;317,49;3174,9;Rio de Janeiro;Fone de Ouvido;PROD008;Áudio e Vídeo
+220b81a9-26ed-463c-956f-5219a8913aa0;21/10/2023;Vicente Ferreira;Maria Alice Caldeira;Cartão;3;190,17;570,51;Alagoas;Fogão;PROD005;Eletrônicos
+20b3d580-fe4e-4711-af93-ef97e79717d9;16/07/2023;Emanuella Azevedo;Renan Borges;Cartão;1;129,83;129,83;Piauí;Fone de Ouvido;PROD008;Informática
+3a788bb8-a3a3-404f-95ab-0bb3a6ff68f2;13/06/2023;Marcos Vinicius da Conceição;Isis Barbosa;Boleto;7;120,01;840,07;Amazonas;Geladeira;PROD004;Áudio e Vídeo
+3fad72d5-2b7a-4f97-bc93-ae21cdd344f0;25/04/2023;Julia Novais;Rafael Porto;Dinheiro;9;339,93;3059,37;Amapá;Smartphone;PROD001;Eletrodomésticos
+2cafdb6a-e995-403b-9ade-d727c4204615;14/02/2023;Julia Novais;Francisco Cunha;Cartão;8;434,36;3474,88;Mato Grosso do Sul;Fogão;PROD005;Informática
+5f7aadba-4984-4fed-a6b4-656572c1850a;26/08/2023;Olivia da Mata;Manuela da Costa;Dinheiro;4;152,88;611,52;São Paulo;Fogão;PROD005;Eletrodomésticos
+67124439-6ad6-4eb9-bcdd-2587153477b7;19/03/2023;Eduardo Guerra;Henry Gabriel da Rosa;Cartão;4;368,91;1475,64;Espírito Santo;Tablet;PROD009;Eletrodomésticos
+d01c4067-7c26-4950-a3a7-e9a459469541;01/01/2023;Mateus da Mata;Esther Fonseca;Boleto;9;179,75;1617,75;Amazonas;Smartphone;PROD001;Informática
+f7878a6c-ca1d-45a6-949b-ed62a7807f00;09/09/2023;Eduardo Guerra;Dra. Júlia Moura;Boleto;4;269,61;1078,44;Amapá;Geladeira;PROD004;Áudio e Vídeo
+f80d1b39-ea24-47d5-89de-4149437d4eb2;25/12/2023;Olivia da Mata;Francisco Cunha;Cartão;1;461,42;461,42;Rio de Janeiro;Tablet;PROD009;Áudio e Vídeo
+1a41805c-f75d-4c8f-8d46-666b0be8e9d2;31/10/2023;Dra. Melissa da Mata;Lunna Ribeiro;Dinheiro;2;257,66;515,32;Rondônia;Câmera DSLR;PROD007;Eletrônicos
+4d57b440-f737-45e7-a4d7-679dc7cf3366;21/07/2023;Olivia da Mata;Dr. Vinicius Moura;Dinheiro;3;126,02;378,06;Goiás;Fogão;PROD005;Informática
+2b7487c6-b889-4424-bf2a-25b19069354c;27/10/2023;Vicente Ferreira;Dra. Júlia Moura;Cartão;4;46,6;186,4;Ceará;Geladeira;PROD004;Eletrodomésticos
+69f715e3-46e3-4841-90cd-9a47c5880868;02/10/2023;Olivia da Mata;Dr. Rael Casa Grande;Pix;8;238,37;1906,96;Paraíba;Câmera DSLR;PROD007;Eletrônicos
+af43e456-deb6-4421-a31f-a6b24a0c33ea;22/03/2023;Marcos Vinicius da Conceição;Marcos Vinicius Vieira;Cartão;5;237,04;1185,2;Distrito Federal;Notebook;PROD002;Eletrônicos
+8a89407b-bf98-4716-ade5-34c1e102984c;22/07/2023;Julia Novais;Lunna Ribeiro;Boleto;6;82,68;496,08;Goiás;Geladeira;PROD004;Informática
+55670e2b-f0e0-438d-86a1-ad298a4fa700;12/10/2023;Julia Novais;Joana Sampaio;Cartão;3;25,23;75,69;Paraíba;Câmera DSLR;PROD007;Áudio e Vídeo
+cd6d43ee-edce-4274-9aa5-3c7145180034;07/01/2023;Eduardo Guerra;Dr. Rael Casa Grande;Pix;2;403,91;807,82;Bahia;TV 4K;PROD003;Eletrônicos
+11d5b07a-d8ed-4bd4-b3c0-7a062afc6e26;26/10/2023;Dra. Melissa da Mata;Sr. João Gabriel Novaes;Cartão;4;413,6;1654,4;Acre;Máquina de Lavar;PROD006;Eletrônicos
+c75b83f5-357f-4a66-8855-672bffe5ac75;17/02/2023;Olivia da Mata;Marina Moraes;Cartão;2;106,9;213,8;Paraíba;Fone de Ouvido;PROD008;Eletrodomésticos
+c4eda0c4-f142-4335-a40a-eaa53946a8cb;22/07/2023;Srta. Maria Julia Mendes;Samuel Azevedo;Dinheiro;1;92,31;92,31;Rondônia;Micro-ondas;PROD010;Áudio e Vídeo
+57891156-c8b0-469a-946c-e21f0e980b25;21/05/2023;Marcos Vinicius da Conceição;Luiz Miguel da Rosa;Pix;7;94,68;662,76;Alagoas;Geladeira;PROD004;Eletrodomésticos
+a8853765-e487-485c-b193-5eba08c1bfa5;13/09/2023;Mateus da Mata;Benjamin Moreira;Dinheiro;10;313,4;3134;Alagoas;Geladeira;PROD004;Informática
+1e65e69f-c975-439c-b77c-4bc1e2f20acb;13/04/2023;Julia Novais;Joana Sampaio;Cartão;2;147,09;294,18;Minas Gerais;TV 4K;PROD003;Áudio e Vídeo
+ebf369f3-7fa9-4d25-824b-0ea039283ccc;17/10/2023;Julia Novais;Dr. Vinicius Moura;Dinheiro;6;245,05;1470,3;Goiás;Fone de Ouvido;PROD008;Informática
+4aade37f-fdaa-4e57-8e17-18658c67e101;16/01/2023;Marcos Vinicius da Conceição;Lunna Ribeiro;Dinheiro;3;22,77;68,31;Pernambuco;Micro-ondas;PROD010;Eletrodomésticos
+df827b5a-e0a3-4a65-9e69-cd54519f5d69;21/02/2023;Sr. Noah Sousa;Erick Costela;Pix;6;385,75;2314,5;Goiás;Geladeira;PROD004;Eletrodomésticos
+e7fcadf4-0fa6-40ed-a144-8208c387d1df;22/10/2023;Mateus da Mata;Dr. Raul Leão;Pix;9;409,98;3689,82;Ceará;Smartphone;PROD001;Eletrodomésticos
+7a750626-acea-437c-9c17-f0f8381d0ed7;27/12/2023;Olivia da Mata;Gael Henrique Campos;Pix;4;300,33;1201,32;Rio de Janeiro;Máquina de Lavar;PROD006;Eletrônicos
+7b1294fa-5401-4d33-9c2f-a6cb9dced33c;31/03/2023;Srta. Maria Julia Mendes;Rafael Porto;Cartão;4;419,98;1679,92;Alagoas;Fone de Ouvido;PROD008;Informática
+051b7937-7d3b-4f66-b3fc-11aee5ad393a;01/01/2023;Olivia da Mata;Luiza Vargas;Pix;4;304,81;1219,24;Sergipe;Smartphone;PROD001;Áudio e Vídeo
+c1874001-4432-4881-aaf7-699e9b091ac8;31/01/2023;Eduardo Guerra;Dra. Júlia Moura;Pix;3;176,97;530,91;São Paulo;TV 4K;PROD003;Informática
+18560e19-7d9d-47ac-8b8f-a4fadf834912;11/07/2023;Mateus da Mata;Manuela da Costa;Cartão;2;424,78;849,56;Mato Grosso;Máquina de Lavar;PROD006;Eletrônicos
+5441e708-9bf6-437a-ae84-db0c44001ea6;24/11/2023;Srta. Maria Julia Mendes;Dr. Rhavi Costa;Boleto;5;168,08;840,4;Ceará;TV 4K;PROD003;Áudio e Vídeo
+f200448b-3266-4d56-94bd-67d3aaaa96aa;25/04/2023;Dra. Melissa da Mata;Renan Borges;Dinheiro;9;349,84;3148,56;Maranhão;Micro-ondas;PROD010;Informática
+91c5df42-bcb6-4d67-9868-deba4ffd0d01;18/10/2023;Eduardo Guerra;Renan Borges;Boleto;5;72,4;362;Sergipe;Smartphone;PROD001;Áudio e Vídeo
+ea72b2c3-a71c-4197-a44b-fa1612c15d39;12/09/2023;Emanuella Azevedo;Dr. Dom Mendes;Cartão;10;118,24;1182,4;Espírito Santo;Micro-ondas;PROD010;Eletrônicos
+0a4ab2a9-957f-4df1-b072-fa389a13d20e;29/12/2023;Olivia da Mata;Luiz Miguel da Rosa;Cartão;6;491,37;2948,22;Goiás;TV 4K;PROD003;Eletrônicos
+ae790428-7354-49e1-8c67-05d4f0e23cc5;12/05/2023;Vicente Ferreira;Sra. Caroline Caldeira;Cartão;4;132,28;529,12;Alagoas;Notebook;PROD002;Informática
+96d93ac6-6d02-4d2d-ad94-8bffbe824185;31/07/2023;Srta. Maria Julia Mendes;Alana Nunes;Boleto;7;224,73;1573,11;Piauí;Câmera DSLR;PROD007;Eletrodomésticos
+6ba2db11-50f5-437a-a69c-2de286f6a489;25/03/2023;Srta. Maria Julia Mendes;Isis Barbosa;Cartão;7;59,7;417,9;Maranhão;Fone de Ouvido;PROD008;Eletrodomésticos
+13ad6112-2178-42af-b59d-b579ea1bd94a;25/06/2023;Emanuella Azevedo;Alana Nunes;Pix;1;166,17;166,17;Santa Catarina;Notebook;PROD002;Eletrônicos
+5ebd8c49-21d3-4eb3-9722-0d056a0a1fb5;01/11/2023;Dra. Melissa da Mata;Isis Siqueira;Cartão;2;278,05;556,1;Pará;Notebook;PROD002;Informática
+c4520a99-2611-4529-a242-1854e639c6f6;28/01/2023;Vicente Ferreira;Dr. Dom Mendes;Pix;3;307,59;922,77;Distrito Federal;Câmera DSLR;PROD007;Eletrodomésticos
+dc71c9d4-3785-4720-91bd-d2e04cf27599;05/12/2023;Marcos Vinicius da Conceição;João Guilherme Lopes;Pix;7;351,63;2461,41;Amazonas;Tablet;PROD009;Informática
+bd0a341c-7e7f-4e60-bce9-41c93ba64e79;20/03/2023;Eduardo Guerra;Bella Albuquerque;Cartão;1;202,52;202,52;Pará;Tablet;PROD009;Áudio e Vídeo
+83643a1e-b3a0-41ab-9673-a6a13ae65e8f;13/04/2023;Vicente Ferreira;Samuel Azevedo;Pix;2;154,33;308,66;Ceará;Micro-ondas;PROD010;Áudio e Vídeo
+ef6bf982-3b3c-4bfc-9294-a34fba0d3e27;07/06/2023;Mateus da Mata;Isis Siqueira;Dinheiro;5;488,76;2443,8;Rondônia;Fone de Ouvido;PROD008;Eletrônicos
+fe763d8a-ceef-4560-a673-769c5f1f595a;05/04/2023;Olivia da Mata;Alana Nunes;Boleto;5;54,66;273,3;Ceará;Tablet;PROD009;Áudio e Vídeo
+098a64aa-9445-4b92-9b38-d3f29dca2249;15/05/2023;Sr. Noah Sousa;Lorena da Cunha;Cartão;8;31,86;254,88;Bahia;Fone de Ouvido;PROD008;Áudio e Vídeo
+44d24ed2-a8d0-4d79-a8c0-564eb4b0e390;29/10/2023;Sr. Noah Sousa;Benjamin Moreira;Cartão;2;52;104;Tocantins;Máquina de Lavar;PROD006;Áudio e Vídeo
+57109033-1d48-4931-8738-a7d2d2305e0d;21/10/2023;Sr. Noah Sousa;Isis Siqueira;Boleto;7;411,02;2877,14;Amapá;Câmera DSLR;PROD007;Áudio e Vídeo
+f4a9e81e-eb94-4aad-a2e7-c5d61b5e1945;03/03/2023;Srta. Maria Julia Mendes;Renan Borges;Pix;7;452,36;3166,52;Distrito Federal;Smartphone;PROD001;Eletrodomésticos
+1f50d85d-7dce-4cb1-b8ea-87252fc7a95d;16/12/2023;Mateus da Mata;Caroline Duarte;Pix;4;71,83;287,32;Tocantins;Câmera DSLR;PROD007;Eletrônicos
+78cbb5c2-10ed-4346-90a7-f2f7afe3275c;18/07/2023;Julia Novais;Pedro Lucas Mendes;Boleto;10;136,36;1363,6;Goiás;Notebook;PROD002;Eletrônicos
+ed64fba0-cc57-4f25-95e3-cc4daeab6c7d;27/02/2023;Mateus da Mata;Dra. Júlia Moura;Pix;9;234,5;2110,5;Rio de Janeiro;Smartphone;PROD001;Áudio e Vídeo
+260b5d1f-b010-4de4-baad-bfcf6e8e9f5d;16/10/2023;Vicente Ferreira;Diego Martins;Boleto;10;295,51;2955,1;Pará;Notebook;PROD002;Eletrônicos
+0a6602a3-101c-458d-9084-a30fec39aaf1;20/01/2023;Emanuella Azevedo;Lorena da Cunha;Dinheiro;5;197,69;988,45;Bahia;Fone de Ouvido;PROD008;Áudio e Vídeo
+7878f75f-8a04-4aa4-bbf5-026721ce7893;22/07/2023;Olivia da Mata;Joaquim da Costa;Pix;10;308,24;3082,4;Alagoas;Câmera DSLR;PROD007;Eletrônicos
+f76d60fd-3ffc-4e59-9852-41a5ea8db314;22/06/2023;Marcos Vinicius da Conceição;João Guilherme Lopes;Boleto;8;461,21;3689,68;Tocantins;Máquina de Lavar;PROD006;Eletrônicos
+3238c2af-9339-4321-8a49-a4922c7292bc;10/03/2023;Marcos Vinicius da Conceição;Esther Fonseca;Dinheiro;8;430,54;3444,32;São Paulo;Notebook;PROD002;Eletrodomésticos
+8c845ab4-5b60-43ba-97cf-8ea8c16db258;07/04/2023;Srta. Maria Julia Mendes;Bryan da Rosa;Dinheiro;6;142,02;852,12;Santa Catarina;Câmera DSLR;PROD007;Eletrônicos
+3d6f6790-fdbf-41d4-b346-570dd02ab7f4;21/09/2023;Emanuella Azevedo;Isis Barbosa;Boleto;8;382,15;3057,2;Roraima;Máquina de Lavar;PROD006;Eletrônicos
+bffedf9a-2fa4-49e1-b105-fe637fc1be26;30/03/2023;Sr. Noah Sousa;Caroline Duarte;Cartão;9;207,66;1868,94;Espírito Santo;Tablet;PROD009;Eletrônicos
+44700808-8a8c-4f91-aa46-ad2cef48dcac;21/05/2023;Olivia da Mata;Francisco Cunha;Dinheiro;1;233,66;233,66;Rio Grande do Sul;Máquina de Lavar;PROD006;Eletrodomésticos
+cbe91b53-8752-4c6f-bcb8-61f120a1f44c;08/09/2023;Dra. Melissa da Mata;Luiz Miguel da Rosa;Pix;2;343,78;687,56;Paraná;Geladeira;PROD004;Informática
+2f6982e7-052a-4fb0-bad8-dd29bfbf4d24;13/05/2023;Vicente Ferreira;Diego Martins;Cartão;10;280,15;2801,5;Minas Gerais;Máquina de Lavar;PROD006;Eletrodomésticos
+57409bcf-054c-4356-9967-7df4cb204eca;24/04/2023;Sr. Noah Sousa;Igor Correia;Pix;1;89,82;89,82;Goiás;Micro-ondas;PROD010;Eletrodomésticos
+1c021463-985d-4c4f-af86-a972e05c9da5;09/03/2023;Emanuella Azevedo;Srta. Gabriela da Costa;Cartão;7;261,51;1830,57;Espírito Santo;Smartphone;PROD001;Áudio e Vídeo
+797eab74-6acc-4fa6-8ff2-baeb17e5851a;05/08/2023;Mateus da Mata;Dr. Raul Leão;Dinheiro;5;308,09;1540,45;Goiás;Fogão;PROD005;Informática
+0968aeb4-faa7-4040-a432-b37dc9764250;27/10/2023;Vicente Ferreira;Helena Carvalho;Boleto;4;238,68;954,72;Piauí;Tablet;PROD009;Áudio e Vídeo
+39eae531-7fb3-4751-abee-cde89e180a2c;04/09/2023;Vicente Ferreira;Dr. Dom Mendes;Boleto;10;308,43;3084,3;Rio Grande do Sul;Fogão;PROD005;Eletrônicos
+542c5ef6-1524-42c6-ad67-bce40bc65850;07/04/2023;Emanuella Azevedo;Yasmin Camargo;Pix;6;432,13;2592,78;Alagoas;Fogão;PROD005;Informática
+8fdd9f96-10b4-4541-88f4-5a5e3abb4346;14/01/2023;Srta. Maria Julia Mendes;Diego Martins;Boleto;10;208,01;2080,1;Pará;Máquina de Lavar;PROD006;Eletrodomésticos
+80416be7-fde6-4fbf-85b4-55732eece12e;25/06/2023;Sr. Noah Sousa;Igor Correia;Dinheiro;7;200,25;1401,75;Rondônia;Smartphone;PROD001;Eletrodomésticos
+ca4efe66-1bce-4090-8f52-750a8dadff66;31/05/2023;Vicente Ferreira;Isis Siqueira;Pix;6;258,58;1551,48;Santa Catarina;TV 4K;PROD003;Eletrodomésticos
+33aaeb41-f39a-4825-be56-9381284330f6;15/12/2023;Olivia da Mata;Dr. Rhavi Costa;Cartão;5;365,34;1826,7;Espírito Santo;Tablet;PROD009;Eletrodomésticos
+a3ff8b8d-392c-41ec-9ef8-f351129182d9;19/06/2023;Olivia da Mata;Sr. João Gabriel Novaes;Boleto;6;119,43;716,58;Paraíba;Fogão;PROD005;Áudio e Vídeo
+bb33a9f2-73f0-4b92-aabd-98a9aa5e7702;30/08/2023;Sr. Noah Sousa;Davi Lucca Guerra;Cartão;2;240,56;481,12;Rondônia;Micro-ondas;PROD010;Eletrônicos
+6638fb3d-ac40-482f-afab-527df52b3e37;19/03/2023;Emanuella Azevedo;Caroline Duarte;Boleto;7;269,62;1887,34;Pará;Câmera DSLR;PROD007;Eletrônicos
+67666cbc-1ecc-4bb9-89fc-673784e8262d;11/06/2023;Emanuella Azevedo;Dr. Rael Casa Grande;Cartão;10;447,49;4474,9;Paraná;Fone de Ouvido;PROD008;Eletrodomésticos
+59a7ca9d-686f-4dc2-b400-85c94c4967b0;21/11/2023;Eduardo Guerra;Helena Carvalho;Dinheiro;6;319,21;1915,26;Goiás;TV 4K;PROD003;Informática
+44e22fc1-14f1-4c05-8b09-30653491cd52;08/09/2023;Vicente Ferreira;Lavínia Cirino;Dinheiro;4;382,98;1531,92;Rio Grande do Sul;TV 4K;PROD003;Eletrodomésticos
+7ec3fc07-613e-49bc-8b12-c55adab97faa;03/01/2023;Eduardo Guerra;Marina Pinto;Pix;7;207,66;1453,62;Santa Catarina;Fone de Ouvido;PROD008;Áudio e Vídeo
+1c6b4a0c-5440-4efd-9989-34b8c2b06694;10/01/2023;Eduardo Guerra;Ravy Araújo;Pix;6;475,53;2853,18;Espírito Santo;Máquina de Lavar;PROD006;Eletrodomésticos
+bdc8e552-80bc-42a9-9bbe-6beca5862489;15/09/2023;Dra. Melissa da Mata;João Guilherme Lopes;Pix;6;162,93;977,58;Amapá;Notebook;PROD002;Áudio e Vídeo
+816de6c2-1e75-4a41-a205-cac084719b99;24/09/2023;Dra. Melissa da Mata;Yasmin Camargo;Boleto;1;156,12;156,12;Pará;Fogão;PROD005;Áudio e Vídeo
+b4b81731-72fa-4474-afe3-fb2f520fbda1;07/04/2023;Emanuella Azevedo;Pedro Lucas Mendes;Cartão;3;177,94;533,82;Espírito Santo;Fone de Ouvido;PROD008;Informática
+c174ae65-d6ca-4d9e-b201-0c343a6d6802;12/01/2023;Dra. Melissa da Mata;Davi Lucca Guerra;Pix;4;366,31;1465,24;Amazonas;TV 4K;PROD003;Eletrodomésticos
+b00f6baf-6feb-4d82-a456-355d30b7f02a;24/11/2023;Marcos Vinicius da Conceição;Dr. Rael Casa Grande;Cartão;6;358,44;2150,64;Rio Grande do Norte;Smartphone;PROD001;Áudio e Vídeo
+60f74aeb-aeca-4aac-8561-28f37f1b0151;20/12/2023;Vicente Ferreira;Henry Gabriel da Rosa;Dinheiro;1;334,37;334,37;Minas Gerais;Smartphone;PROD001;Eletrônicos
+4b26fbbe-44bb-4224-9e63-29e081bac391;16/04/2023;Eduardo Guerra;João Guilherme Lopes;Dinheiro;2;278,17;556,34;Rondônia;Fone de Ouvido;PROD008;Eletrodomésticos
+ea54c74a-7fcc-4641-be7f-a7a1d3d54c67;03/08/2023;Vicente Ferreira;Davi Lucca Guerra;Cartão;2;334,62;669,24;Maranhão;Fogão;PROD005;Eletrodomésticos
+d4be0344-fad1-4a07-a677-94f964798da4;08/11/2023;Sr. Noah Sousa;Dr. Rael Casa Grande;Boleto;2;394,53;789,06;Tocantins;Fone de Ouvido;PROD008;Eletrodomésticos
+abe9e603-80d9-4755-ba10-98b2f0be55a1;01/06/2023;Emanuella Azevedo;Rafael Porto;Dinheiro;9;486,83;4381,47;Distrito Federal;Máquina de Lavar;PROD006;Áudio e Vídeo
+7cbf44d4-c74e-4a0f-9415-b5cdc9183be6;10/12/2023;Vicente Ferreira;Marina Moraes;Dinheiro;8;172;1376;Bahia;Smartphone;PROD001;Eletrônicos
+4a1645d6-6842-461b-a0fc-0d0f0869822a;12/05/2023;Sr. Noah Sousa;Francisco Cunha;Boleto;2;391,97;783,94;Goiás;Notebook;PROD002;Eletrônicos
+f23d768a-cba8-4f4e-afb3-d50f368a9481;29/05/2023;Olivia da Mata;Igor Correia;Boleto;8;34,54;276,32;Pará;TV 4K;PROD003;Eletrônicos
+93e07043-3632-4ce1-bed3-cb9c3ad88a70;12/03/2023;Emanuella Azevedo;Dr. Dom Mendes;Boleto;2;56,55;113,1;Paraíba;Smartphone;PROD001;Eletrônicos
+fc8e8dae-5104-47c2-8d8a-07a6f40298e8;25/06/2023;Emanuella Azevedo;Marina Moraes;Dinheiro;10;141,47;1414,7;Minas Gerais;Notebook;PROD002;Informática
+0aa62564-eb53-43bc-98b3-32378b40c8a8;04/08/2023;Emanuella Azevedo;Marina Moraes;Pix;8;143,2;1145,6;Roraima;Câmera DSLR;PROD007;Áudio e Vídeo
+812667af-c2f7-4e35-9f43-5e83fb1c8acb;02/08/2023;Dra. Melissa da Mata;Isis Siqueira;Dinheiro;1;490,97;490,97;Ceará;TV 4K;PROD003;Eletrônicos
+70b8e404-e60b-4064-be90-81ed70ea1476;17/12/2023;Emanuella Azevedo;Isis Siqueira;Dinheiro;10;196,08;1960,8;Amazonas;Máquina de Lavar;PROD006;Eletrônicos
+b185a41b-8d28-4dec-a2a6-33cf82bad17a;02/12/2023;Olivia da Mata;Helena Carvalho;Pix;7;225,94;1581,58;Rondônia;Notebook;PROD002;Informática
+f4eeab99-2e61-4227-9c0d-b6399108e6a3;10/08/2023;Sr. Noah Sousa;Isis Siqueira;Boleto;6;264,36;1586,16;Rondônia;Micro-ondas;PROD010;Eletrônicos
+185c6a98-8a8b-47df-94ac-b6464c92f46c;06/01/2023;Emanuella Azevedo;Davi Lucca Guerra;Dinheiro;7;82,84;579,88;Paraná;Tablet;PROD009;Eletrônicos
+eb4484fd-d8e9-4ec3-babd-3149c80b9470;04/05/2023;Olivia da Mata;Lorena da Cunha;Cartão;3;46,68;140,04;Pernambuco;Fone de Ouvido;PROD008;Informática
+f56fb1fc-9230-4b31-acfe-0632104e8411;01/05/2023;Vicente Ferreira;Francisco Cunha;Dinheiro;4;279,74;1118,96;Sergipe;Câmera DSLR;PROD007;Áudio e Vídeo
+8b8b9696-794e-4b3f-9b46-88325429c2d7;11/06/2023;Vicente Ferreira;Julia Mendes;Cartão;10;229,57;2295,7;Amazonas;Fone de Ouvido;PROD008;Áudio e Vídeo
+9edc9613-1a5c-4e0f-ba1f-2a5c6d8653a8;16/02/2023;Dra. Melissa da Mata;Luiza Vargas;Boleto;7;212,05;1484,35;Pernambuco;Tablet;PROD009;Eletrônicos
+7316c6cd-4d4a-45d8-ba49-fdd9e6d76fd4;06/07/2023;Eduardo Guerra;Maria Alice Caldeira;Dinheiro;9;111,36;1002,24;Mato Grosso;Fone de Ouvido;PROD008;Informática
+26c90528-f8d1-452c-b289-1b777f6938cf;03/12/2023;Olivia da Mata;Marcos Vinicius Vieira;Dinheiro;9;386,03;3474,27;Amazonas;Micro-ondas;PROD010;Áudio e Vídeo
+592c639f-6729-4bbf-b16a-361db1713544;24/06/2023;Olivia da Mata;Ravy Araújo;Boleto;2;382,07;764,14;Piauí;Geladeira;PROD004;Eletrônicos
+ee6fde34-4cd3-4f8f-a5df-97b8ba375658;26/03/2023;Srta. Maria Julia Mendes;Lavínia Cirino;Dinheiro;9;193,21;1738,89;Amazonas;Notebook;PROD002;Eletrônicos
+96677be7-0d9e-46a8-b610-7e1f974d50d3;21/07/2023;Sr. Noah Sousa;Francisco Cunha;Pix;5;309,32;1546,6;Roraima;Geladeira;PROD004;Eletrônicos
+0e9928b1-e5a5-49c5-bfea-0b6d9eaea2d1;21/11/2023;Dra. Melissa da Mata;Marina Moraes;Dinheiro;6;62,81;376,86;Paraíba;Câmera DSLR;PROD007;Eletrônicos
+a5a091e8-3efc-435a-a1a6-0250634fc262;03/01/2023;Julia Novais;Esther Fonseca;Cartão;10;478,53;4785,3;Piauí;TV 4K;PROD003;Áudio e Vídeo
+4ef809e7-031c-487d-af1e-2733ad74af24;21/12/2023;Dra. Melissa da Mata;Renan Borges;Pix;7;421,02;2947,14;Amazonas;Fone de Ouvido;PROD008;Eletrodomésticos
+26d8d620-2f34-43f1-8caa-68cb31318d06;16/09/2023;Mateus da Mata;Henry Gabriel da Rosa;Pix;7;332,19;2325,33;Goiás;Micro-ondas;PROD010;Informática
+3675de20-5a62-4a23-a764-16916a184c37;10/03/2023;Emanuella Azevedo;Henry Gabriel da Rosa;Boleto;7;482,16;3375,12;Tocantins;Fogão;PROD005;Áudio e Vídeo
+d8c0a2c9-cac4-40e2-9f12-346dc9116e6f;13/04/2023;Sr. Noah Sousa;Luiza Vargas;Boleto;9;431,75;3885,75;Rondônia;Tablet;PROD009;Eletrodomésticos
+8b6244dd-b7a0-4490-a761-189e76294c4a;15/09/2023;Julia Novais;Joaquim da Costa;Boleto;6;461,38;2768,28;Roraima;TV 4K;PROD003;Eletrodomésticos
+6abd707f-d207-44d0-a21d-c71452a3000f;26/10/2023;Dra. Melissa da Mata;Erick Costela;Dinheiro;2;382,78;765,56;Rondônia;Tablet;PROD009;Áudio e Vídeo
+1b03d057-bb17-431d-8aa1-45e3fbfd4dda;25/09/2023;Vicente Ferreira;Samuel Azevedo;Dinheiro;9;150,1;1350,9;Bahia;Câmera DSLR;PROD007;Eletrônicos
+fa225713-44eb-4d60-982d-054d7964510b;24/03/2023;Marcos Vinicius da Conceição;Igor Correia;Boleto;1;338,42;338,42;Bahia;Geladeira;PROD004;Informática
+21f66ea0-70c5-4f90-b699-89a119767580;05/10/2023;Eduardo Guerra;Dr. Raul Leão;Dinheiro;1;348,39;348,39;Amazonas;Fogão;PROD005;Eletrodomésticos
+7cf99569-8a3b-459e-a089-6e272c4963e7;28/11/2023;Julia Novais;Alana Nunes;Pix;10;435,34;4353,4;Pernambuco;Tablet;PROD009;Eletrodomésticos
+3c4b018b-59a1-49df-9891-419023888d26;18/07/2023;Mateus da Mata;Igor Correia;Boleto;5;349,54;1747,7;Piauí;Smartphone;PROD001;Áudio e Vídeo
+44935d18-b2fd-4b59-8e16-a61a3e17f0f2;14/11/2023;Srta. Maria Julia Mendes;Maria Alice Caldeira;Boleto;1;16,35;16,35;São Paulo;Fogão;PROD005;Eletrodomésticos
+86c8bad2-894a-4d33-8e61-23e6e307e460;10/04/2023;Marcos Vinicius da Conceição;Luiz Miguel da Rosa;Pix;10;277,84;2778,4;Rondônia;Micro-ondas;PROD010;Eletrodomésticos
+3a353237-5326-4230-8641-4a87d5e8e387;13/07/2023;Eduardo Guerra;Sra. Sabrina Cirino;Boleto;2;101,62;203,24;Piauí;TV 4K;PROD003;Eletrônicos
+44cbbfa6-7455-4d1e-84f0-580f9c84bf12;03/01/2023;Olivia da Mata;Francisco Cunha;Pix;5;73,73;368,65;Alagoas;Micro-ondas;PROD010;Informática
+b21a4b79-e55f-447d-92f9-fb01eefa2728;17/11/2023;Dra. Melissa da Mata;Erick Costela;Boleto;3;465,03;1395,09;Paraná;Micro-ondas;PROD010;Eletrônicos
+f66839f9-82ef-4572-9bb7-8d45684bd116;27/09/2023;Sr. Noah Sousa;Renan Borges;Cartão;10;279,58;2795,8;Sergipe;Notebook;PROD002;Informática
+b8a967b8-124a-472d-afa7-40851bd47828;17/02/2023;Olivia da Mata;Maria Alice Caldeira;Pix;9;88,09;792,81;Rondônia;Tablet;PROD009;Áudio e Vídeo
+97e31700-de75-4178-bd46-de7d43476429;13/11/2023;Julia Novais;Isis Siqueira;Cartão;6;172,22;1033,32;Amazonas;Fogão;PROD005;Eletrodomésticos
+fb56bca6-0166-4a64-a3bb-57180953d1c2;21/01/2023;Olivia da Mata;Alana Nunes;Cartão;6;228,38;1370,28;Minas Gerais;Micro-ondas;PROD010;Eletrodomésticos
+a00515f4-95b6-4d96-91a0-198ad6ff0d08;22/09/2023;Olivia da Mata;Davi Lucca Guerra;Dinheiro;5;274,72;1373,6;Paraná;Fogão;PROD005;Eletrônicos
+78508f88-b05f-4ae8-b526-72f793944465;21/09/2023;Vicente Ferreira;Ana Sophia Moreira;Pix;1;155,25;155,25;São Paulo;Geladeira;PROD004;Informática
+5e758f66-6b63-427f-a724-76d31fbcbdf9;10/12/2023;Sr. Noah Sousa;Igor Correia;Dinheiro;9;271,27;2441,43;Tocantins;Notebook;PROD002;Eletrodomésticos
+231338fd-3b38-4ea1-8ac8-4d9017b51a1e;18/12/2023;Emanuella Azevedo;Samuel Azevedo;Dinheiro;2;110,73;221,46;Roraima;Câmera DSLR;PROD007;Eletrônicos
+7d03ebf4-9322-4dfd-a9c4-325ba552589b;02/04/2023;Marcos Vinicius da Conceição;Benjamin Moreira;Cartão;6;28,56;171,36;Rio de Janeiro;Notebook;PROD002;Eletrônicos
+055488b5-a8f8-487c-ab57-5704c8914a01;19/08/2023;Mateus da Mata;Sra. Sabrina Cirino;Boleto;4;456,38;1825,52;Acre;Câmera DSLR;PROD007;Áudio e Vídeo
+41f6b3f0-79a3-48ee-969a-d3c2d500e6a6;25/11/2023;Dra. Melissa da Mata;Isis Barbosa;Cartão;7;339,92;2379,44;Roraima;Tablet;PROD009;Eletrônicos
+ebcef5c0-9ba9-4186-aa68-41636a7d9fc5;29/05/2023;Marcos Vinicius da Conceição;Srta. Gabriela da Costa;Cartão;2;185,27;370,54;Maranhão;Tablet;PROD009;Eletrônicos
+eb56671c-4aa6-4e08-b49a-b1593320b4f6;22/03/2023;Julia Novais;Maria Alice Caldeira;Pix;8;196,89;1575,12;Santa Catarina;Smartphone;PROD001;Áudio e Vídeo
+b90a7b1b-da1b-4d02-a1f8-e3bbe70451b6;21/11/2023;Emanuella Azevedo;João Guilherme Lopes;Boleto;7;400,42;2802,94;Acre;Tablet;PROD009;Informática
+8eb0735d-1d04-41df-a8f0-e4eab2902d5c;22/01/2023;Eduardo Guerra;Gael Henrique Campos;Dinheiro;9;438,64;3947,76;Piauí;TV 4K;PROD003;Eletrônicos
+57e0ffd9-179b-49f5-8933-e61de57e7409;26/06/2023;Sr. Noah Sousa;Henry Gabriel da Rosa;Pix;9;474,02;4266,18;Ceará;Fogão;PROD005;Eletrodomésticos
+e15214a2-98c5-4f68-8ab2-edaa0676fb69;28/02/2023;Emanuella Azevedo;Erick Costela;Cartão;3;118,19;354,57;São Paulo;Fogão;PROD005;Eletrodomésticos
+5c514b1f-c6de-4ac3-a2d9-8232fa7329a6;29/05/2023;Vicente Ferreira;Sr. João Gabriel Novaes;Cartão;9;236,02;2124,18;Distrito Federal;Tablet;PROD009;Eletrônicos
+c787776a-5d02-47b3-8342-d201c1139ac5;07/03/2023;Sr. Noah Sousa;Ana Sophia Moreira;Boleto;10;248,72;2487,2;Rio Grande do Norte;Máquina de Lavar;PROD006;Informática
+3f78b1ed-2376-4fb3-9b1b-81e17bd3555c;19/08/2023;Olivia da Mata;Luiza Vargas;Boleto;2;451,06;902,12;Roraima;Máquina de Lavar;PROD006;Áudio e Vídeo
+d953cd68-d4ae-4873-8fc4-171fd2e94dc0;11/06/2023;Mateus da Mata;Raul Macedo;Cartão;10;84,67;846,7;Mato Grosso;Micro-ondas;PROD010;Informática
+438ec232-4e38-4f79-8df5-232fbd3011da;04/07/2023;Emanuella Azevedo;Igor Correia;Boleto;4;394,97;1579,88;Paraná;Câmera DSLR;PROD007;Informática
+b1c26169-9ce0-45b8-8c3b-ee1f9980555b;10/10/2023;Vicente Ferreira;Renan Borges;Cartão;8;228,23;1825,84;Tocantins;Fogão;PROD005;Áudio e Vídeo
+dfe9a9ca-93ac-4739-bb7d-0dd5563f2f3d;15/05/2023;Vicente Ferreira;Sra. Caroline Caldeira;Cartão;5;430,77;2153,85;Acre;TV 4K;PROD003;Eletrodomésticos
+cc8750c5-54a5-45f7-a88a-a7d22552cd9b;30/10/2023;Sr. Noah Sousa;Rafael Porto;Boleto;9;319,5;2875,5;Piauí;Micro-ondas;PROD010;Áudio e Vídeo
+b805c39f-179a-412a-a406-e0f07cfb14c3;20/07/2023;Sr. Noah Sousa;Dr. Rael Casa Grande;Boleto;9;241,33;2171,97;Bahia;TV 4K;PROD003;Informática
+5cef04a7-dac8-4309-899b-105581f5d737;06/07/2023;Julia Novais;Helena Carvalho;Pix;8;255,55;2044,4;Sergipe;Notebook;PROD002;Áudio e Vídeo
+e782bb54-e8ca-4ac6-81a0-9be9790f358a;17/08/2023;Emanuella Azevedo;Renan Borges;Pix;10;345,24;3452,4;Santa Catarina;Tablet;PROD009;Eletrodomésticos
+fdf03735-e9a0-4dfd-b78d-73566c69d417;07/09/2023;Sr. Noah Sousa;Isis Barbosa;Boleto;8;470,2;3761,6;Mato Grosso do Sul;Smartphone;PROD001;Eletrodomésticos
+85da34ec-39a9-493f-ae22-17bbaae73a6f;18/07/2023;Srta. Maria Julia Mendes;Francisco Cunha;Cartão;4;30,98;123,92;Alagoas;Geladeira;PROD004;Informática
+a4de5c2f-ca41-4ab1-a1e0-718543b5bea2;15/05/2023;Dra. Melissa da Mata;Marina Pinto;Pix;6;60,58;363,48;Minas Gerais;Tablet;PROD009;Informática
+e7719dc4-d900-4903-8add-632430e470ed;12/07/2023;Sr. Noah Sousa;Yasmin Camargo;Dinheiro;7;189;1323;Mato Grosso do Sul;Notebook;PROD002;Informática
+c2c89d43-4b8d-4e9d-ba8a-27c97f4c0001;14/09/2023;Emanuella Azevedo;Luiz Miguel da Rosa;Pix;6;248,56;1491,36;Espírito Santo;Fone de Ouvido;PROD008;Eletrônicos
+86885952-9311-4b03-a4bc-6fc8bf0d8c1e;18/03/2023;Emanuella Azevedo;Raul Macedo;Boleto;2;262,13;524,26;Rio Grande do Norte;Fogão;PROD005;Eletrodomésticos
+ad656dd8-e810-4f7f-984b-c6049163900f;28/02/2023;Srta. Maria Julia Mendes;Igor Correia;Dinheiro;2;333,94;667,88;Paraná;Câmera DSLR;PROD007;Informática
+2661fa18-ee7a-49c4-901f-f7b9a79b26f6;05/05/2023;Eduardo Guerra;Lavínia Cirino;Pix;4;299,49;1197,96;Bahia;Câmera DSLR;PROD007;Eletrônicos
+5722d637-6c7a-4af9-ad43-31a03d630b59;29/01/2023;Emanuella Azevedo;Sr. João Gabriel Novaes;Pix;9;29,2;262,8;Pernambuco;Micro-ondas;PROD010;Eletrodomésticos
+16296012-39c8-4665-b31e-31b5912b91a3;05/12/2023;Marcos Vinicius da Conceição;Pedro Henrique Santos;Pix;7;303,69;2125,83;Paraíba;Micro-ondas;PROD010;Eletrônicos
+26dada16-0865-4995-ab26-36bb01962d19;23/04/2023;Mateus da Mata;Srta. Gabriela da Costa;Pix;10;496,46;4964,6;Sergipe;Fone de Ouvido;PROD008;Eletrodomésticos
+3091faa5-71c5-4b4d-87f1-7b3ba35b2610;27/03/2023;Olivia da Mata;Francisco Cunha;Cartão;10;412,02;4120,2;Espírito Santo;TV 4K;PROD003;Informática
+f400eaa3-3e64-4ac5-a6b0-85bce91766a9;14/04/2023;Julia Novais;Davi Lucca Guerra;Dinheiro;7;198,88;1392,16;Tocantins;Notebook;PROD002;Eletrônicos
+56fce090-3041-48c0-a728-31b9130e4312;11/11/2023;Dra. Melissa da Mata;Rafael Porto;Cartão;3;306,7;920,1;Amapá;TV 4K;PROD003;Áudio e Vídeo
+247fdf05-fdaf-4a30-900f-b4d6a04c4389;14/12/2023;Mateus da Mata;Yasmin Camargo;Dinheiro;8;333,1;2664,8;Mato Grosso do Sul;Micro-ondas;PROD010;Eletrônicos
+68ad260c-d62f-45b6-81de-1d28ada9c8a9;04/09/2023;Mateus da Mata;Dr. Raul Leão;Cartão;1;351,84;351,84;Pará;Câmera DSLR;PROD007;Eletrodomésticos
+638a0fe6-e194-46b2-a261-5044e73fd15d;26/05/2023;Dra. Melissa da Mata;Marina Pinto;Dinheiro;3;134,71;404,13;Goiás;Geladeira;PROD004;Eletrônicos
+14e6c4fa-9dee-4a47-9582-ef2c5d80b536;24/09/2023;Eduardo Guerra;Alana Nunes;Pix;4;12,68;50,72;Roraima;Smartphone;PROD001;Eletrônicos
+8aeb9690-a200-48fe-ab9d-e536c40c5915;07/08/2023;Dra. Melissa da Mata;Sr. João Gabriel Novaes;Boleto;6;210,33;1261,98;Piauí;Notebook;PROD002;Eletrodomésticos
+04f5b42c-9762-4f32-befd-be355a413b5c;15/12/2023;Mateus da Mata;Amanda Barros;Pix;7;286,69;2006,83;Pará;Micro-ondas;PROD010;Informática
+13fde287-5c01-47b2-b6f9-b7d0816c3386;09/07/2023;Julia Novais;Benjamin Moreira;Dinheiro;9;394,06;3546,54;Goiás;Fone de Ouvido;PROD008;Eletrodomésticos
+2d6c5fc1-8864-4d4c-a375-ac17983cdd94;04/12/2023;Vicente Ferreira;Esther Fonseca;Pix;5;293,05;1465,25;Paraíba;Câmera DSLR;PROD007;Eletrodomésticos
+dd374c7d-6818-493b-be0c-d751f7587871;23/06/2023;Julia Novais;Luiza Vargas;Cartão;3;59,14;177,42;Ceará;Tablet;PROD009;Áudio e Vídeo
+64157fd6-e09f-44bc-91ce-13984a69c311;16/03/2023;Srta. Maria Julia Mendes;Srta. Gabriela da Costa;Dinheiro;7;482,64;3378,48;Amapá;Smartphone;PROD001;Eletrônicos
+210725c4-5d8e-4c78-b0c1-743c5148d3b9;08/11/2023;Eduardo Guerra;Sra. Caroline Caldeira;Dinheiro;2;138,92;277,84;Minas Gerais;Máquina de Lavar;PROD006;Eletrônicos
+4ad41b0f-4b39-40d2-81c9-bdceff8d7619;31/03/2023;Srta. Maria Julia Mendes;Luiz Miguel da Rosa;Cartão;10;331,53;3315,3;Distrito Federal;Fogão;PROD005;Eletrônicos
+55b158b8-6d05-48d0-be7b-4ddee831a32d;11/11/2023;Emanuella Azevedo;Igor Correia;Cartão;9;150,14;1351,26;Mato Grosso do Sul;Smartphone;PROD001;Eletrodomésticos
+89a3c683-7857-4afa-85a8-ba59eb463dca;22/05/2023;Mateus da Mata;Dr. Raul Leão;Dinheiro;4;330,96;1323,84;Minas Gerais;TV 4K;PROD003;Eletrônicos
+32ca20ff-eb93-4ae1-896c-7097b1d45544;16/02/2023;Julia Novais;Diego Martins;Boleto;10;108,15;1081,5;Mato Grosso do Sul;Smartphone;PROD001;Eletrônicos
+1c266495-12b1-4520-a2c9-ec4047350d57;26/07/2023;Dra. Melissa da Mata;Helena Carvalho;Boleto;5;120,88;604,4;Ceará;Geladeira;PROD004;Áudio e Vídeo
+3cb879a2-8d00-4f6e-a203-c5c08e9dc152;15/09/2023;Marcos Vinicius da Conceição;Dr. Dom Mendes;Cartão;7;258,06;1806,42;Sergipe;Tablet;PROD009;Eletrônicos
+086fe017-3423-460c-8986-bd4a62cc747b;22/12/2023;Srta. Maria Julia Mendes;Alana Nunes;Dinheiro;9;478,79;4309,11;São Paulo;Tablet;PROD009;Informática
+4bc8cfec-f20d-462e-a3ea-79ca25b9d4b5;28/10/2023;Eduardo Guerra;Isis Siqueira;Cartão;4;381,16;1524,64;Goiás;Fone de Ouvido;PROD008;Áudio e Vídeo
+536fd43a-0c13-4038-9cd9-3b9722cfc78a;11/06/2023;Mateus da Mata;Dr. Raul Leão;Cartão;2;197,51;395,02;Roraima;Geladeira;PROD004;Eletrodomésticos
+2e0ec2fb-d2e1-410b-a290-d5dcd678511b;11/12/2023;Olivia da Mata;Isis Barbosa;Pix;5;131,65;658,25;Paraná;Notebook;PROD002;Áudio e Vídeo
+8ce5d59b-685a-426e-b217-ac14de2c7225;04/04/2023;Sr. Noah Sousa;Julia Mendes;Pix;6;183,23;1099,38;Espírito Santo;Micro-ondas;PROD010;Informática
+1e77dff1-8ad6-429b-8e7a-ee24413c44c2;14/04/2023;Sr. Noah Sousa;Luiza Vargas;Boleto;4;437,64;1750,56;Bahia;Geladeira;PROD004;Eletrodomésticos
+0e8c0538-0cc1-4314-b893-bc79cf56493a;11/11/2023;Eduardo Guerra;Amanda Barros;Cartão;2;68,74;137,48;Paraná;Notebook;PROD002;Áudio e Vídeo
+a20ae45b-0c52-47c0-bec9-76b8370efa09;09/09/2023;Emanuella Azevedo;Amanda Barros;Boleto;6;314,13;1884,78;Minas Gerais;Fone de Ouvido;PROD008;Informática
+c7b4c617-e4f8-4a8a-ab78-a6ee9782e6d5;27/09/2023;Mateus da Mata;Isis Siqueira;Cartão;4;377,58;1510,32;Pernambuco;TV 4K;PROD003;Eletrônicos
+cdfd3e1f-11d8-4663-8cda-691f56883089;03/03/2023;Julia Novais;Francisco Cunha;Boleto;6;202,92;1217,52;Roraima;TV 4K;PROD003;Áudio e Vídeo
+4fdfb2cf-9e1c-4f2c-a57b-2fd40bb3a0eb;25/10/2023;Vicente Ferreira;Dr. Vinicius Moura;Boleto;1;15,79;15,79;Rio Grande do Norte;Geladeira;PROD004;Áudio e Vídeo
+127146c9-7ee0-48ac-9293-245a400c082f;18/05/2023;Srta. Maria Julia Mendes;Luiza Vargas;Boleto;5;101,7;508,5;Mato Grosso do Sul;Fogão;PROD005;Eletrodomésticos
+d22ae2df-90b0-40bb-b415-9154ae44c366;25/12/2023;Olivia da Mata;Bella Albuquerque;Dinheiro;3;254,4;763,2;Goiás;Geladeira;PROD004;Áudio e Vídeo
+d16c9739-1a84-4373-afaf-a4e9f5d3bcd6;21/02/2023;Marcos Vinicius da Conceição;Joana Sampaio;Dinheiro;8;98,15;785,2;Minas Gerais;TV 4K;PROD003;Eletrodomésticos
+264ce638-7564-4940-856f-a4e01e50e0f0;05/01/2023;Emanuella Azevedo;Henry Gabriel da Rosa;Dinheiro;4;81,46;325,84;Bahia;TV 4K;PROD003;Áudio e Vídeo
+aaeaab47-0fa8-4a88-ac36-d2faeea492c7;03/06/2023;Marcos Vinicius da Conceição;Benjamin Moreira;Cartão;9;271,65;2444,85;Minas Gerais;Máquina de Lavar;PROD006;Áudio e Vídeo
+0b982b1f-f77a-4de5-8eb3-37cc737467f5;11/05/2023;Srta. Maria Julia Mendes;Ravy Araújo;Cartão;2;348,37;696,74;Paraíba;Smartphone;PROD001;Eletrodomésticos
+17aebe85-2da4-41d0-86d1-a9b33c12563b;26/06/2023;Eduardo Guerra;Henry Gabriel da Rosa;Cartão;6;137,29;823,74;Mato Grosso do Sul;Máquina de Lavar;PROD006;Informática
+1662422a-e148-479b-8efd-52f40b8b8ecf;26/05/2023;Olivia da Mata;Dr. Vinicius Moura;Dinheiro;10;107,49;1074,9;São Paulo;Micro-ondas;PROD010;Eletrodomésticos
+0cadb83f-52d0-42fe-85fb-c198223ac6ff;26/08/2023;Emanuella Azevedo;Raul Macedo;Boleto;8;445,92;3567,36;Pará;Câmera DSLR;PROD007;Informática
+3ba33f39-2f2b-4f10-b863-8824ae941b95;24/03/2023;Olivia da Mata;Maria Alice Caldeira;Boleto;10;290,1;2901;Mato Grosso;Notebook;PROD002;Eletrônicos
+da245188-4e64-48c6-ba8e-6c20fd100407;19/05/2023;Srta. Maria Julia Mendes;Dr. Rael Casa Grande;Boleto;5;358,11;1790,55;Santa Catarina;Micro-ondas;PROD010;Áudio e Vídeo
+171b4a36-d7ff-42cd-b5bb-e7163af47849;27/03/2023;Emanuella Azevedo;Samuel Azevedo;Pix;10;265,26;2652,6;Santa Catarina;Fone de Ouvido;PROD008;Áudio e Vídeo
+0ffbe9c9-ba43-4f0e-9fac-d6d4c4d4acbe;27/03/2023;Mateus da Mata;Ana Sophia Moreira;Cartão;4;334,39;1337,56;Amapá;Notebook;PROD002;Eletrodomésticos
+211f49e3-cb0d-4907-8581-b2da26ee4997;26/09/2023;Vicente Ferreira;Ana Sophia Moreira;Boleto;8;278,73;2229,84;Rio Grande do Norte;Smartphone;PROD001;Áudio e Vídeo
+e55f84f5-050a-456b-a60f-636a970b0a74;28/04/2023;Sr. Noah Sousa;Esther Fonseca;Boleto;3;51,31;153,93;Paraíba;Câmera DSLR;PROD007;Informática
+9e346cc7-f02b-4b32-9a70-bde539475d60;18/01/2023;Olivia da Mata;Dr. Vinicius Moura;Dinheiro;3;74,33;222,99;Paraíba;TV 4K;PROD003;Eletrônicos
+b03d5977-e4fc-46a9-af3c-e6f66f504f8f;11/03/2023;Julia Novais;Renan Borges;Dinheiro;9;468,08;4212,72;Rio Grande do Sul;Tablet;PROD009;Áudio e Vídeo
+70aa8edd-b488-459f-a27a-004a34ca0096;27/06/2023;Srta. Maria Julia Mendes;Marina Pinto;Pix;10;223,14;2231,4;Sergipe;Tablet;PROD009;Informática
+07fd875c-5985-40dc-b017-14d86a0fd653;14/05/2023;Emanuella Azevedo;João Guilherme Lopes;Cartão;2;226,51;453,02;Acre;Máquina de Lavar;PROD006;Áudio e Vídeo
+21d17604-e22e-4c39-91c4-6f6d6bcb7d75;27/05/2023;Srta. Maria Julia Mendes;Marina Pinto;Cartão;9;409,54;3685,86;Roraima;TV 4K;PROD003;Informática
+431239d8-a4c8-47a2-b55c-0d423f4ce990;05/01/2023;Mateus da Mata;Diego Martins;Pix;8;474,01;3792,08;Sergipe;Fone de Ouvido;PROD008;Informática
+58ca7597-bc0c-4439-afc3-c8b6ffb15e79;15/10/2023;Mateus da Mata;Pedro Lucas Mendes;Pix;1;278,62;278,62;Ceará;Geladeira;PROD004;Áudio e Vídeo
+514a7e8d-1ae3-4ef7-9f4f-a76c1ee5b971;10/02/2023;Mateus da Mata;Ravy Araújo;Pix;7;415,93;2911,51;Pernambuco;Geladeira;PROD004;Informática
+61d04916-b52b-4fad-817d-449006b1463c;29/11/2023;Julia Novais;Lorena da Cunha;Dinheiro;10;405,71;4057,1;Distrito Federal;Fogão;PROD005;Informática
+cea0cf97-7042-4a0f-b535-28ee85b20ed6;23/11/2023;Srta. Maria Julia Mendes;Luiza Vargas;Dinheiro;2;99,38;198,76;Goiás;Fogão;PROD005;Eletrônicos
+5b0b5909-e720-4d0a-af49-523db5a86d93;19/03/2023;Eduardo Guerra;Marina Pinto;Cartão;10;251,08;2510,8;Ceará;Máquina de Lavar;PROD006;Eletrônicos
+ece6a77e-f88f-40e1-b57a-0a1cadc74ae0;05/01/2023;Sr. Noah Sousa;Pedro Henrique Santos;Pix;2;148,24;296,48;Acre;TV 4K;PROD003;Áudio e Vídeo
+9eb49598-4f6e-463d-87d7-0b7e73a0cba8;13/09/2023;Olivia da Mata;Francisco Cunha;Cartão;8;116,42;931,36;Mato Grosso;Câmera DSLR;PROD007;Informática
+96dd566b-2c94-47c0-b73d-8dc0df40ad47;17/05/2023;Mateus da Mata;Isis Barbosa;Dinheiro;2;423,34;846,68;Ceará;TV 4K;PROD003;Eletrônicos
+cdabd6d0-1afb-48cc-af94-d4d0f30d6786;07/01/2023;Vicente Ferreira;Dr. Rael Casa Grande;Pix;4;448,89;1795,56;Minas Gerais;Fogão;PROD005;Áudio e Vídeo
+6019e5ba-5d7b-4046-8d6e-958aebd1539b;24/08/2023;Vicente Ferreira;Yasmin Camargo;Pix;8;131,11;1048,88;Paraná;Smartphone;PROD001;Eletrodomésticos
+1fec1594-f82f-4bfd-a1fe-f26ead99e1e3;23/03/2023;Eduardo Guerra;Esther Fonseca;Cartão;7;343,91;2407,37;Goiás;Fogão;PROD005;Informática
+ed2f8d4f-fdae-427c-9c3f-c455dc0e6866;27/01/2023;Sr. Noah Sousa;Marina Moraes;Pix;8;322,87;2582,96;Rio Grande do Sul;Geladeira;PROD004;Informática
+680ff5f9-157c-449c-857f-49ba0ca731a8;27/10/2023;Vicente Ferreira;Pedro Lucas Mendes;Pix;7;169,01;1183,07;Acre;TV 4K;PROD003;Informática
+36a1330d-2de7-4881-ae18-2f248af85c4a;10/07/2023;Vicente Ferreira;Joana Sampaio;Pix;1;294,73;294,73;Paraná;Fone de Ouvido;PROD008;Eletrodomésticos
+635dfdd1-ebab-4a4d-b53d-138036f4ebc5;31/01/2023;Olivia da Mata;Dr. Rhavi Costa;Pix;2;346,11;692,22;Roraima;Máquina de Lavar;PROD006;Eletrônicos
+e5fffa57-c947-4e29-9865-8e6b33dadfa0;30/04/2023;Olivia da Mata;Benjamin Moreira;Boleto;9;397,82;3580,38;Sergipe;TV 4K;PROD003;Áudio e Vídeo
+31cc9846-43d2-4a79-b562-420c5b4b3678;03/07/2023;Emanuella Azevedo;Sr. João Gabriel Novaes;Cartão;8;369,26;2954,08;Paraná;Smartphone;PROD001;Áudio e Vídeo
+78a40cab-3e56-48cd-8cb7-a423b306c2ec;08/04/2023;Dra. Melissa da Mata;Renan Borges;Boleto;8;283,92;2271,36;Mato Grosso;Tablet;PROD009;Áudio e Vídeo
+2700f279-56c9-4e1c-843f-279b2650cbfb;05/02/2023;Julia Novais;Dra. Júlia Moura;Dinheiro;8;144,91;1159,28;Maranhão;Micro-ondas;PROD010;Eletrodomésticos
+a116d09e-4627-4f06-a56c-442bb74c38c8;23/11/2023;Julia Novais;Alana Nunes;Pix;5;275,39;1376,95;Acre;Fone de Ouvido;PROD008;Eletrônicos
+64debbca-c357-4efa-becb-60e087d919cf;14/06/2023;Vicente Ferreira;Erick Costela;Dinheiro;10;429,85;4298,5;Distrito Federal;Micro-ondas;PROD010;Eletrodomésticos
+c2315fcd-e946-49c9-a2fb-44784e194976;10/11/2023;Marcos Vinicius da Conceição;Dr. Vinicius Moura;Dinheiro;9;344,78;3103,02;Rio Grande do Sul;Tablet;PROD009;Eletrodomésticos
+e55d6808-a895-47a2-9d97-688d60e7875b;23/01/2023;Emanuella Azevedo;Renan Borges;Cartão;6;64,13;384,78;Distrito Federal;Tablet;PROD009;Eletrônicos
+3cc920aa-7458-46f3-8f77-aba1d7338e77;20/10/2023;Mateus da Mata;Erick Costela;Dinheiro;2;247,83;495,66;Pernambuco;Notebook;PROD002;Eletrônicos
+4df8b3c5-e1d6-40d8-a57d-8e4b6a11bd5c;07/07/2023;Sr. Noah Sousa;Srta. Gabriela da Costa;Cartão;10;353,64;3536,4;Acre;Fogão;PROD005;Eletrônicos
+b1cf4547-d584-4b46-a0f9-dc2e641f177c;24/11/2023;Eduardo Guerra;Bella Albuquerque;Dinheiro;4;331,32;1325,28;Tocantins;Notebook;PROD002;Áudio e Vídeo
+1584667b-fba6-46fd-b89b-b577282065a0;28/09/2023;Eduardo Guerra;Sra. Caroline Caldeira;Cartão;6;399,18;2395,08;Tocantins;Smartphone;PROD001;Informática
+2c65ab0f-2eda-461c-9006-6fee35696b44;21/02/2023;Sr. Noah Sousa;Marina Pinto;Dinheiro;5;48,19;240,95;Distrito Federal;Geladeira;PROD004;Eletrônicos
+ecfc53e8-cfd7-44ab-adc3-56ec2396982f;13/10/2023;Julia Novais;Henry Gabriel da Rosa;Cartão;4;267,83;1071,32;São Paulo;Geladeira;PROD004;Eletrodomésticos
+31309ee0-3854-4a0d-b958-eba75c5b64eb;23/02/2023;Emanuella Azevedo;Renan Borges;Dinheiro;10;185,4;1854;Pernambuco;Fone de Ouvido;PROD008;Áudio e Vídeo
+3257a742-c0c7-4dd5-bf28-9dc6bbdddbae;30/06/2023;Olivia da Mata;Benjamin Moreira;Boleto;6;332,19;1993,14;Mato Grosso do Sul;Tablet;PROD009;Áudio e Vídeo
+16cacaf4-b95e-4355-9653-0df0ff4e8204;08/11/2023;Sr. Noah Sousa;Gael Henrique Campos;Pix;7;384,45;2691,15;Minas Gerais;Câmera DSLR;PROD007;Informática
+56ed30c5-f5f0-4972-a641-623447896e50;20/08/2023;Srta. Maria Julia Mendes;Pedro Lucas Mendes;Cartão;9;463,81;4174,29;Santa Catarina;Fogão;PROD005;Informática
+d6af30e3-5091-499d-a5d8-f494c717eb50;23/09/2023;Emanuella Azevedo;João Guilherme Lopes;Cartão;1;491,65;491,65;Maranhão;Micro-ondas;PROD010;Eletrônicos
+1ed00ed9-a2cc-4e1c-b293-8dca8f9092f7;20/12/2023;Marcos Vinicius da Conceição;Benjamin Moreira;Pix;4;115,26;461,04;Amazonas;Máquina de Lavar;PROD006;Eletrônicos
+6395d628-24b5-4316-acf0-ac85beb67b8c;16/05/2023;Olivia da Mata;Manuela da Costa;Pix;1;235,58;235,58;Espírito Santo;TV 4K;PROD003;Eletrodomésticos
+093840bd-0b9c-422d-a1e0-bfef57543813;19/10/2023;Sr. Noah Sousa;Sra. Caroline Caldeira;Cartão;5;407,43;2037,15;Santa Catarina;Notebook;PROD002;Áudio e Vídeo
+e904b319-d316-46a8-bd15-c1c06b35a9e9;20/12/2023;Dra. Melissa da Mata;Ana Sophia Moreira;Boleto;6;398,52;2391,12;Alagoas;TV 4K;PROD003;Áudio e Vídeo
+7fa130ee-acfc-40d2-b0e9-f4e5189eed42;28/06/2023;Mateus da Mata;Henry Gabriel da Rosa;Cartão;10;196,96;1969,6;São Paulo;Smartphone;PROD001;Informática
+9d5b0fe1-44e5-4b61-b5eb-f8a7c8d50cff;21/11/2023;Mateus da Mata;Lunna Ribeiro;Boleto;4;376,36;1505,44;Pernambuco;Micro-ondas;PROD010;Eletrônicos
+b42855ee-da70-4cc5-8437-77f53e52d382;17/06/2023;Julia Novais;Joaquim da Costa;Pix;1;166,47;166,47;Bahia;Micro-ondas;PROD010;Eletrodomésticos
+8f043b3a-ae99-4234-a916-9d11802ccd4b;01/11/2023;Dra. Melissa da Mata;Davi Lucca Guerra;Cartão;1;340,08;340,08;Espírito Santo;Câmera DSLR;PROD007;Áudio e Vídeo
+ca912441-e7a5-40d2-b15e-31693142cafa;09/03/2023;Olivia da Mata;Pedro Henrique Santos;Dinheiro;7;151,99;1063,93;Rio de Janeiro;Câmera DSLR;PROD007;Eletrodomésticos
+a71c13bd-571b-4807-b0a0-90646585cd68;24/07/2023;Julia Novais;Sra. Sabrina Cirino;Pix;1;278,59;278,59;São Paulo;Fogão;PROD005;Eletrônicos
+cbe052c4-fb5d-4c54-8d30-38db0397215a;22/07/2023;Dra. Melissa da Mata;Caroline Duarte;Pix;3;245,65;736,95;Espírito Santo;Geladeira;PROD004;Áudio e Vídeo
+807f459b-c70f-4300-ac93-e72ecd62ec97;17/12/2023;Dra. Melissa da Mata;Pedro Henrique Santos;Cartão;2;140,47;280,94;Rondônia;Câmera DSLR;PROD007;Informática
+a77ef329-928e-4728-9d7f-398fdf533988;14/06/2023;Olivia da Mata;Srta. Gabriela da Costa;Cartão;7;217,53;1522,71;São Paulo;Máquina de Lavar;PROD006;Eletrodomésticos
+76c5819f-f569-457b-bfe5-962990b63d3f;16/11/2023;Emanuella Azevedo;Luiz Miguel da Rosa;Cartão;5;92,94;464,7;Tocantins;Máquina de Lavar;PROD006;Áudio e Vídeo
+4595a70f-c602-431e-b2ec-8267add57fde;13/02/2023;Vicente Ferreira;Esther Fonseca;Cartão;4;107,85;431,4;Espírito Santo;Máquina de Lavar;PROD006;Eletrodomésticos
+3d983dc5-f1be-44b3-991e-d1ac5912e767;25/06/2023;Vicente Ferreira;João Guilherme Lopes;Dinheiro;10;464,1;4641;Paraná;Fogão;PROD005;Eletrônicos
+ae7bf37f-3d0d-4e6c-9858-71d3140e3e47;15/04/2023;Julia Novais;Yasmin Camargo;Boleto;1;172,62;172,62;Piauí;Tablet;PROD009;Eletrodomésticos
+13f10703-3ab7-4ae4-8236-7ee35aeb6f0b;12/07/2023;Dra. Melissa da Mata;Erick Costela;Cartão;8;315,29;2522,32;Goiás;TV 4K;PROD003;Eletrônicos
+e21f205d-f717-4058-b2be-3cd865f151cc;28/01/2023;Srta. Maria Julia Mendes;Dr. Rhavi Costa;Cartão;3;39,45;118,35;Amapá;Geladeira;PROD004;Informática
+b39c741d-53dc-4310-878a-1d840a46999a;10/01/2023;Marcos Vinicius da Conceição;Dr. Rhavi Costa;Dinheiro;7;333,58;2335,06;Espírito Santo;Máquina de Lavar;PROD006;Eletrônicos
+8eb7d197-cc23-410b-ab40-d924fef15e25;06/09/2023;Dra. Melissa da Mata;Marina Pinto;Cartão;7;259,18;1814,26;Ceará;Notebook;PROD002;Informática
+eeefb0ef-612d-4a95-8f97-c0682abe9fac;21/01/2023;Sr. Noah Sousa;Yasmin Camargo;Boleto;4;255,32;1021,28;Mato Grosso;Fone de Ouvido;PROD008;Eletrônicos
+f46594c8-5ee2-43cc-b08e-e230917e3867;27/06/2023;Olivia da Mata;Dr. Raul Leão;Boleto;8;202,77;1622,16;Espírito Santo;TV 4K;PROD003;Eletrônicos
+d5f993a6-d755-4d50-a229-e9f8d5b50add;18/07/2023;Eduardo Guerra;Benjamin Moreira;Boleto;9;145,18;1306,62;Espírito Santo;Smartphone;PROD001;Informática
+7bfcc988-c7c8-428a-9a48-8fa3f8d0ae98;14/02/2023;Mateus da Mata;Yasmin Camargo;Pix;3;177,48;532,44;Pará;Câmera DSLR;PROD007;Eletrodomésticos
+1e919b19-484c-48b7-be64-36af426d232a;06/11/2023;Olivia da Mata;Luiz Miguel da Rosa;Pix;4;290,72;1162,88;Distrito Federal;Câmera DSLR;PROD007;Informática
+0fab5ad9-cdfc-45e0-b9d7-22d1854c7696;08/06/2023;Julia Novais;Lavínia Cirino;Dinheiro;3;294,71;884,13;São Paulo;Geladeira;PROD004;Eletrodomésticos
+94e4d877-133d-4bdf-931b-d6573cd321aa;12/06/2023;Vicente Ferreira;Benjamin Moreira;Cartão;3;331,55;994,65;Ceará;Micro-ondas;PROD010;Eletrodomésticos
+6df0096d-5154-447b-8fe7-3b24c0006a9c;13/06/2023;Mateus da Mata;Henry Gabriel da Rosa;Boleto;6;421,37;2528,22;Paraíba;TV 4K;PROD003;Eletrônicos
+7d8e15e0-1a0a-4642-8c76-d1c549a0aa18;09/03/2023;Emanuella Azevedo;Samuel Azevedo;Boleto;5;84,46;422,3;Rio Grande do Norte;Geladeira;PROD004;Eletrônicos
+8c0de442-944c-483a-9506-5b5f5e5bf169;29/04/2023;Eduardo Guerra;Dr. Raul Leão;Cartão;10;310,06;3100,6;Roraima;Micro-ondas;PROD010;Eletrodomésticos
+4ab818bc-6a4e-4081-8cce-256f2fc135a3;31/12/2023;Olivia da Mata;Renan Borges;Dinheiro;8;75,7;605,6;Paraná;Micro-ondas;PROD010;Áudio e Vídeo
+63bdfc5e-6948-4930-a6d3-a615ee8c05dc;17/01/2023;Mateus da Mata;Amanda Barros;Cartão;8;77,38;619,04;Goiás;Geladeira;PROD004;Eletrodomésticos
+58ee4086-fa1a-40a3-9ed8-343dc5ee6735;03/02/2023;Emanuella Azevedo;Luiz Miguel da Rosa;Dinheiro;7;119,05;833,35;Roraima;Geladeira;PROD004;Eletrodomésticos
+b8eaed7e-1835-4d10-b0b3-a7f96708039e;27/07/2023;Eduardo Guerra;Srta. Gabriela da Costa;Dinheiro;6;434,72;2608,32;Santa Catarina;Geladeira;PROD004;Áudio e Vídeo
+6f90d3be-891a-46da-996e-ac7c224c1350;24/09/2023;Vicente Ferreira;Luiz Miguel da Rosa;Dinheiro;6;203,13;1218,78;Tocantins;Micro-ondas;PROD010;Eletrônicos
+40fe3316-66bd-43e4-9c2c-1d68412e2281;21/01/2023;Julia Novais;Alana Nunes;Cartão;1;440,11;440,11;Distrito Federal;Geladeira;PROD004;Áudio e Vídeo
+bf48ebda-b9cb-49c0-8b79-d16864e9c156;25/08/2023;Emanuella Azevedo;Sra. Sabrina Cirino;Boleto;5;225,38;1126,9;Rio Grande do Norte;Fogão;PROD005;Informática
+043ea4fb-65b2-4660-9226-03f3f4275126;27/11/2023;Srta. Maria Julia Mendes;Pedro Henrique Santos;Cartão;1;348,08;348,08;Ceará;TV 4K;PROD003;Áudio e Vídeo
+eef21494-b127-4ec5-aae4-0a2012910f28;21/07/2023;Mateus da Mata;Dr. Vinicius Moura;Dinheiro;10;469,54;4695,4;Acre;Tablet;PROD009;Eletrodomésticos
+96edbfde-89cd-46ae-9ac4-8159ac0134cf;16/02/2023;Marcos Vinicius da Conceição;Dr. Vinicius Moura;Pix;3;232,3;696,9;Roraima;Geladeira;PROD004;Áudio e Vídeo
+c9362b0a-a2c4-4c13-bbfd-d20d968335b9;13/02/2023;Julia Novais;Marcos Vinicius Vieira;Dinheiro;2;54,68;109,36;Santa Catarina;Fone de Ouvido;PROD008;Informática
+d9919bd9-4909-431d-9b58-a963e8c70cd8;09/10/2023;Mateus da Mata;Rafael Porto;Pix;9;309,92;2789,28;Mato Grosso;TV 4K;PROD003;Áudio e Vídeo
+6647d0aa-18aa-4f11-b7a5-94e20f6fe5f2;16/03/2023;Emanuella Azevedo;Dr. Rael Casa Grande;Cartão;10;436,94;4369,4;Pará;TV 4K;PROD003;Eletrodomésticos
+44295fe1-8798-47ce-b3a8-3d05a8f0e803;17/11/2023;Emanuella Azevedo;Marina Moraes;Pix;5;161,66;808,3;Distrito Federal;Fone de Ouvido;PROD008;Informática
+d9f729d4-6772-4435-8545-7dd31b895f93;23/08/2023;Srta. Maria Julia Mendes;Julia Mendes;Cartão;1;315,05;315,05;Rio Grande do Norte;Fogão;PROD005;Eletrônicos
+21178ebb-a592-476c-a469-817759d01bfa;21/08/2023;Mateus da Mata;Luiz Miguel da Rosa;Cartão;8;126,56;1012,48;Rio Grande do Norte;Micro-ondas;PROD010;Áudio e Vídeo
+e80a1307-2c7b-4df9-9eb7-419472509523;14/11/2023;Julia Novais;Bryan da Rosa;Cartão;10;13,22;132,2;Ceará;Tablet;PROD009;Informática
+c4609fa1-d198-44d8-a127-6256d35eb8eb;16/03/2023;Eduardo Guerra;Erick Costela;Boleto;3;36,98;110,94;Mato Grosso;Máquina de Lavar;PROD006;Eletrônicos
+b97c5f2c-67a8-4c4b-b9ed-ea97f78c5fdf;24/03/2023;Marcos Vinicius da Conceição;Luiza Vargas;Pix;2;34,03;68,06;Paraíba;Câmera DSLR;PROD007;Eletrodomésticos
+637c13d1-8006-4745-af3b-d9c977d8b3de;03/06/2023;Olivia da Mata;Bella Albuquerque;Dinheiro;10;186,49;1864,9;Tocantins;Smartphone;PROD001;Eletrônicos
+144e3953-3834-4105-902a-d4feb5eee827;30/05/2023;Srta. Maria Julia Mendes;Lavínia Cirino;Cartão;2;381,64;763,28;Roraima;Tablet;PROD009;Eletrônicos
+e65b8d70-2f55-4b71-99dd-a8078f477218;23/12/2023;Sr. Noah Sousa;Luiza Vargas;Cartão;5;171,31;856,55;Amazonas;Câmera DSLR;PROD007;Eletrodomésticos
+ad092263-b297-4511-913a-dbed3376539c;05/09/2023;Dra. Melissa da Mata;Marcos Vinicius Vieira;Boleto;10;367,57;3675,7;Pará;Tablet;PROD009;Eletrônicos
+fa89cfdb-b3ec-4c85-87be-fada9b0b27d5;08/03/2023;Dra. Melissa da Mata;Gael Henrique Campos;Dinheiro;10;425,42;4254,2;Pernambuco;Fogão;PROD005;Informática
+55659cff-20c0-4e5b-98ae-054c8bb5f14e;29/12/2023;Marcos Vinicius da Conceição;Caroline Duarte;Cartão;8;251,33;2010,64;Amazonas;TV 4K;PROD003;Eletrodomésticos
+52a6083a-c369-4ff4-9581-b12f11d7901f;12/11/2023;Mateus da Mata;Henry Gabriel da Rosa;Cartão;1;237,79;237,79;Mato Grosso;Notebook;PROD002;Eletrodomésticos
+2889c86b-4530-4172-830b-8412c5393aad;24/11/2023;Sr. Noah Sousa;Joaquim da Costa;Boleto;6;284,6;1707,6;Goiás;Geladeira;PROD004;Eletrônicos
+5b73650e-837e-4262-87cb-fbf2ea802f88;04/01/2023;Vicente Ferreira;Igor Correia;Boleto;2;160,81;321,62;Mato Grosso;Tablet;PROD009;Informática
+f254669f-c04f-4e4d-bd74-b3f9549f7d8f;31/03/2023;Sr. Noah Sousa;Dr. Dom Mendes;Boleto;7;364,95;2554,65;Rondônia;Micro-ondas;PROD010;Eletrônicos
+4389f7ad-03c9-4e6c-a3c2-85ada253311e;04/09/2023;Emanuella Azevedo;Ravy Araújo;Dinheiro;8;458,92;3671,36;Piauí;Smartphone;PROD001;Eletrodomésticos
+fac21ef9-78f6-4081-a031-f1a1e289262a;24/09/2023;Marcos Vinicius da Conceição;Gael Henrique Campos;Boleto;6;236,61;1419,66;Piauí;Câmera DSLR;PROD007;Eletrônicos
+b0a37d2d-fa67-4da2-8e9f-d736852951b4;01/07/2023;Vicente Ferreira;Dra. Júlia Moura;Boleto;9;19,17;172,53;Tocantins;Micro-ondas;PROD010;Informática
+d3bf6374-9dd9-4518-8d57-3730dffcbbca;20/10/2023;Dra. Melissa da Mata;Alana Nunes;Pix;1;176,18;176,18;Rio Grande do Norte;Câmera DSLR;PROD007;Eletrodomésticos
+46dfb172-ea0d-4850-a4ef-c5f7c7e56394;30/12/2023;Eduardo Guerra;Lorena da Cunha;Dinheiro;2;433,65;867,3;Amapá;Fogão;PROD005;Informática
+f49ed05d-d721-4b45-bb3f-6700cae49905;04/06/2023;Sr. Noah Sousa;Yasmin Camargo;Boleto;8;439,75;3518;Ceará;Máquina de Lavar;PROD006;Áudio e Vídeo
+e078e2ce-b9db-4e0f-8622-bb2e05bcff1d;17/02/2023;Srta. Maria Julia Mendes;Davi Lucca Guerra;Cartão;2;193,37;386,74;Sergipe;Smartphone;PROD001;Eletrodomésticos
+4a85faff-113c-4d34-bf9d-73babbf90edf;24/06/2023;Srta. Maria Julia Mendes;Sra. Caroline Caldeira;Boleto;8;453,43;3627,44;São Paulo;TV 4K;PROD003;Eletrodomésticos
+3a4d9c9e-f0f9-4bc2-9bbd-02ac0ae722c6;16/04/2023;Eduardo Guerra;Francisco Cunha;Dinheiro;6;80,21;481,26;Roraima;Notebook;PROD002;Eletrodomésticos
+b331ecca-a204-499b-ac7c-895bf139e5c3;18/12/2023;Dra. Melissa da Mata;Pedro Henrique Santos;Boleto;9;66,76;600,84;Paraíba;Fogão;PROD005;Eletrônicos
+42b995b5-25a3-41ed-badf-7ff462dff6a7;23/10/2023;Marcos Vinicius da Conceição;Ravy Araújo;Pix;1;60,52;60,52;Mato Grosso;Fogão;PROD005;Eletrônicos
+8d9972fa-737b-4924-a479-367f8868c6c7;14/08/2023;Vicente Ferreira;Lorena da Cunha;Pix;4;104,35;417,4;Ceará;Fogão;PROD005;Informática
+50a29fd5-1025-4092-865a-d19aa564577a;16/04/2023;Julia Novais;Dr. Raul Leão;Boleto;5;66,09;330,45;Goiás;Micro-ondas;PROD010;Eletrônicos
+cd0e5e54-b399-482d-825a-33ee9cbc64f1;29/03/2023;Vicente Ferreira;João Guilherme Lopes;Boleto;3;472,21;1416,63;Piauí;Fogão;PROD005;Eletrodomésticos
+99e1abf7-ddac-4354-bfcb-b443ec528269;12/12/2023;Eduardo Guerra;Ana Sophia Moreira;Dinheiro;8;34,86;278,88;Alagoas;Smartphone;PROD001;Áudio e Vídeo
+5cea6b1c-ba4b-4be8-a378-66d02e1cf3bf;12/11/2023;Olivia da Mata;João Guilherme Lopes;Boleto;2;218,97;437,94;Tocantins;TV 4K;PROD003;Áudio e Vídeo
+962ecade-35bf-4de4-aa0c-8bf88f29566c;27/08/2023;Dra. Melissa da Mata;Lavínia Cirino;Cartão;4;359,32;1437,28;Tocantins;Tablet;PROD009;Eletrônicos
+1633bd77-26b2-480f-90e4-b1ce20a91c47;29/08/2023;Sr. Noah Sousa;Maria Alice Caldeira;Pix;8;57,66;461,28;Rio Grande do Norte;Fogão;PROD005;Áudio e Vídeo
+ef05d58c-77e9-4f7c-bae4-2794b5373562;25/12/2023;Olivia da Mata;Dr. Vinicius Moura;Dinheiro;5;457,3;2286,5;Paraná;Câmera DSLR;PROD007;Eletrodomésticos
+6969cda3-d6e8-4ed2-a4c5-3a64b7dd7bfa;03/09/2023;Srta. Maria Julia Mendes;Raul Macedo;Boleto;1;42,03;42,03;São Paulo;Notebook;PROD002;Informática
+d3f5c673-ac2d-40b8-863e-cc5dbcabef16;27/07/2023;Vicente Ferreira;Dr. Vinicius Moura;Cartão;6;306,18;1837,08;Sergipe;TV 4K;PROD003;Eletrônicos
+8fe346a5-df6b-424e-b293-fe99d2a60ce2;03/05/2023;Dra. Melissa da Mata;Joana Sampaio;Pix;5;271,05;1355,25;Paraná;Câmera DSLR;PROD007;Áudio e Vídeo
+b3ccbd61-2d1b-42ba-952e-093ebb64429c;11/08/2023;Dra. Melissa da Mata;Dr. Dom Mendes;Pix;7;42,37;296,59;Ceará;Geladeira;PROD004;Áudio e Vídeo
+2c74f276-20d0-470f-a284-2661b3994b2d;28/02/2023;Dra. Melissa da Mata;Srta. Gabriela da Costa;Dinheiro;2;372,29;744,58;Mato Grosso;Micro-ondas;PROD010;Áudio e Vídeo
+8cbf6517-0d65-47db-ae34-1b21a791e392;07/06/2023;Mateus da Mata;Isis Barbosa;Cartão;9;57,85;520,65;Rondônia;Fone de Ouvido;PROD008;Eletrodomésticos
+4305371d-d65d-422b-8917-263562478f96;11/09/2023;Eduardo Guerra;Pedro Henrique Santos;Pix;10;387,96;3879,6;Tocantins;Câmera DSLR;PROD007;Informática
+f7d3e094-d0de-4071-bc06-8c0bb21e850b;05/12/2023;Emanuella Azevedo;Luiz Miguel da Rosa;Boleto;3;444,76;1334,28;Minas Gerais;Smartphone;PROD001;Eletrodomésticos
+212b1ea8-52a3-4cc9-952e-b648b11ea8f4;15/12/2023;Olivia da Mata;João Guilherme Lopes;Boleto;10;293,19;2931,9;Pará;Geladeira;PROD004;Eletrodomésticos
+bc04b86e-ecce-4c7d-853b-c92ee0367fb4;10/11/2023;Julia Novais;Pedro Lucas Mendes;Pix;6;495,24;2971,44;Maranhão;Micro-ondas;PROD010;Eletrônicos
+51f08f3c-0bf3-4401-95ba-a657b8468761;01/01/2023;Julia Novais;Dr. Raul Leão;Cartão;1;190,92;190,92;Maranhão;Tablet;PROD009;Eletrônicos
+41cde274-9c75-44ef-87c2-60bd280eb5e6;17/11/2023;Olivia da Mata;Marcos Vinicius Vieira;Dinheiro;1;125,27;125,27;Minas Gerais;Micro-ondas;PROD010;Áudio e Vídeo
+a53f4f71-765b-4428-8992-7c761c839bd5;01/09/2023;Emanuella Azevedo;Caroline Duarte;Dinheiro;7;223,24;1562,68;Tocantins;Geladeira;PROD004;Eletrodomésticos
+eed0ad4d-cc00-41d8-9c26-79f787a2976a;10/12/2023;Emanuella Azevedo;Lavínia Cirino;Cartão;6;421,58;2529,48;Amapá;TV 4K;PROD003;Informática
+e919df04-9d30-4ff2-ac20-0b0045988c98;11/03/2023;Vicente Ferreira;Lavínia Cirino;Dinheiro;1;80,56;80,56;Paraíba;Fone de Ouvido;PROD008;Áudio e Vídeo
+8ed1aa36-2929-432b-8930-e45ed2407f85;21/08/2023;Julia Novais;Sra. Sabrina Cirino;Dinheiro;10;465,85;4658,5;Minas Gerais;Micro-ondas;PROD010;Eletrodomésticos
+25e3a677-374e-4650-9212-84b244a7344e;23/10/2023;Srta. Maria Julia Mendes;Sra. Caroline Caldeira;Pix;6;120,61;723,66;Roraima;Câmera DSLR;PROD007;Eletrônicos
+baa877c4-61ed-46c3-840b-2d265c9b0741;18/01/2023;Eduardo Guerra;Gael Henrique Campos;Dinheiro;9;141,93;1277,37;Roraima;Tablet;PROD009;Informática
+a9350611-9abf-4680-8289-aab2bb451284;14/03/2023;Julia Novais;Amanda Barros;Boleto;6;65,45;392,7;Paraíba;Fone de Ouvido;PROD008;Eletrônicos
+b4322cc7-5450-418a-9c0b-0ae6c4dea5eb;06/05/2023;Srta. Maria Julia Mendes;Ravy Araújo;Cartão;9;48,33;434,97;Rondônia;Micro-ondas;PROD010;Eletrônicos
+768303b3-7d47-4012-9403-701803da5f12;25/06/2023;Julia Novais;Dr. Rael Casa Grande;Cartão;9;401,07;3609,63;Paraná;Fogão;PROD005;Eletrônicos
+269fcc11-0632-448e-8d5b-460d504618ba;04/08/2023;Olivia da Mata;Diego Martins;Boleto;8;261,2;2089,6;Ceará;Fone de Ouvido;PROD008;Informática
+c439da3b-3543-46e2-a33b-d62055a8e907;16/10/2023;Marcos Vinicius da Conceição;Lunna Ribeiro;Dinheiro;1;350,58;350,58;Rio de Janeiro;Micro-ondas;PROD010;Informática
+a3e66dd3-9a10-442f-a1e0-6e9bb7ae7c3d;27/05/2023;Srta. Maria Julia Mendes;Pedro Henrique Santos;Pix;3;290,7;872,1;Pernambuco;Fogão;PROD005;Eletrônicos
+8608204f-055f-475a-a2f3-95643575aca6;09/03/2023;Dra. Melissa da Mata;Lorena da Cunha;Boleto;2;427,21;854,42;Goiás;Fogão;PROD005;Informática
+18cb6a8e-e887-45aa-b0f9-a7f986516509;30/10/2023;Emanuella Azevedo;Erick Costela;Dinheiro;1;373,3;373,3;Mato Grosso do Sul;Micro-ondas;PROD010;Eletrodomésticos
+eb0c0886-76db-4db2-8d5e-923f0dde1975;03/04/2023;Julia Novais;Rafael Porto;Boleto;3;138,01;414,03;Amapá;Geladeira;PROD004;Áudio e Vídeo
+f0a8abfc-fd09-4449-9afc-3ebfb99d9398;31/07/2023;Mateus da Mata;Joana Sampaio;Dinheiro;3;301,82;905,46;Santa Catarina;TV 4K;PROD003;Áudio e Vídeo
+6cb4374b-b493-4e40-a8ab-620d11fd5ed3;25/11/2023;Marcos Vinicius da Conceição;Amanda Barros;Cartão;3;113,32;339,96;Alagoas;Máquina de Lavar;PROD006;Eletrônicos
+78e3a2a7-6cc0-4134-81f6-e79cffc4f45e;01/09/2023;Julia Novais;Maria Alice Caldeira;Dinheiro;3;237,37;712,11;Rondônia;Fone de Ouvido;PROD008;Informática
+a583d503-5565-45d7-bb89-c367d8556b28;07/01/2023;Marcos Vinicius da Conceição;Luiz Miguel da Rosa;Dinheiro;7;242,55;1697,85;Rondônia;TV 4K;PROD003;Áudio e Vídeo
+237da964-26ea-4a9f-bbb7-56cff3cfae70;30/09/2023;Olivia da Mata;Sra. Sabrina Cirino;Boleto;6;481,26;2887,56;Mato Grosso;Smartphone;PROD001;Eletrônicos
+d5738ca4-527e-4198-8ebb-98c6f448aaed;02/12/2023;Dra. Melissa da Mata;Pedro Lucas Mendes;Dinheiro;5;140,87;704,35;São Paulo;Notebook;PROD002;Informática
+4c35db27-4503-4784-97dc-ad41f368def4;24/09/2023;Olivia da Mata;Igor Correia;Pix;4;369,81;1479,24;Mato Grosso;Micro-ondas;PROD010;Eletrodomésticos
+634c9226-50c8-4a27-912e-eb4bb45d25fb;07/01/2023;Mateus da Mata;Ana Sophia Moreira;Cartão;9;15,18;136,62;Rondônia;Smartphone;PROD001;Eletrônicos
+d3469fe3-e6ae-473a-99a2-bcfd76e69f40;09/04/2023;Eduardo Guerra;Samuel Azevedo;Cartão;8;182,24;1457,92;Alagoas;Fogão;PROD005;Informática
+dcc86d46-2745-4f93-8359-9e9b8f584557;29/12/2023;Vicente Ferreira;Pedro Henrique Santos;Pix;10;331,74;3317,4;Minas Gerais;Geladeira;PROD004;Eletrônicos
+23de0c27-cfd5-434e-bd32-8f18527c7b0f;23/12/2023;Emanuella Azevedo;Sr. João Gabriel Novaes;Boleto;10;403,57;4035,7;Paraíba;TV 4K;PROD003;Eletrônicos
+478df0af-78c8-4aa7-883a-9090d066d666;21/12/2023;Olivia da Mata;Sr. João Gabriel Novaes;Pix;2;323;646;São Paulo;Fogão;PROD005;Áudio e Vídeo
+bb7e4533-599e-40a3-b14b-2414d03d9669;18/07/2023;Olivia da Mata;Lunna Ribeiro;Boleto;2;145,87;291,74;Tocantins;Smartphone;PROD001;Áudio e Vídeo
+db2c7576-0078-4044-98d8-c17f38755700;13/04/2023;Dra. Melissa da Mata;Pedro Lucas Mendes;Pix;5;97,19;485,95;Rio Grande do Sul;Notebook;PROD002;Áudio e Vídeo
+c849f906-6dbe-42ff-9f1c-0588d9e9157d;22/04/2023;Dra. Melissa da Mata;Dr. Rhavi Costa;Cartão;8;63,13;505,04;Paraíba;Tablet;PROD009;Áudio e Vídeo
+738336d4-ff72-4218-9db1-3fec7381c77f;20/10/2023;Marcos Vinicius da Conceição;Dr. Rael Casa Grande;Dinheiro;5;60,61;303,05;Acre;Notebook;PROD002;Eletrônicos
+a71564a2-716a-4310-a0b1-afada06027ec;07/12/2023;Mateus da Mata;Lorena da Cunha;Pix;8;82,94;663,52;Roraima;Smartphone;PROD001;Eletrônicos
+561fba76-4c4b-4526-95c7-80d899fbccff;21/09/2023;Srta. Maria Julia Mendes;Isis Siqueira;Dinheiro;6;453,26;2719,56;Minas Gerais;Micro-ondas;PROD010;Eletrônicos
+71e92a12-5620-42f3-93d4-0c3380bf283c;19/12/2023;Srta. Maria Julia Mendes;Marina Moraes;Boleto;2;274,66;549,32;Mato Grosso;Smartphone;PROD001;Áudio e Vídeo
+618c4641-6080-4faf-957b-79dd5c81a52f;01/10/2023;Olivia da Mata;Pedro Henrique Santos;Dinheiro;5;206,3;1031,5;São Paulo;Notebook;PROD002;Informática
+ea31f222-fb8e-46d0-af91-9402a432588f;16/07/2023;Sr. Noah Sousa;João Guilherme Lopes;Dinheiro;5;327,42;1637,1;Amazonas;TV 4K;PROD003;Eletrônicos
+7439bc1c-a101-4a44-b11e-94c4e6f6f2a0;13/03/2023;Eduardo Guerra;Caroline Duarte;Cartão;6;248,39;1490,34;Santa Catarina;Fone de Ouvido;PROD008;Eletrodomésticos
+9b550214-fea9-4831-9c2e-1d15d85ce54d;04/10/2023;Marcos Vinicius da Conceição;Julia Mendes;Dinheiro;10;126,86;1268,6;Acre;Câmera DSLR;PROD007;Eletrônicos
+b319e2f9-3517-42c2-ad44-e2df6fe99513;27/07/2023;Vicente Ferreira;Bryan da Rosa;Dinheiro;1;176,25;176,25;Rondônia;Máquina de Lavar;PROD006;Eletrônicos
+6d710bd7-ab7f-4a34-a3ab-f1aa2ea12cb9;06/02/2023;Eduardo Guerra;Esther Fonseca;Pix;9;82,99;746,91;Paraná;Micro-ondas;PROD010;Eletrodomésticos
+3dd73de4-7f75-4836-8e28-006e8ecbd188;05/05/2023;Emanuella Azevedo;Helena Carvalho;Pix;1;240,9;240,9;Rio Grande do Sul;Micro-ondas;PROD010;Eletrônicos
+dff4d82a-ea1e-46de-aa12-5bc2a67d2b2f;09/11/2023;Emanuella Azevedo;Manuela da Costa;Cartão;1;453,28;453,28;Tocantins;Notebook;PROD002;Áudio e Vídeo
+7f78be4d-3775-4b3a-b0c7-79d262325983;02/02/2023;Sr. Noah Sousa;Sra. Sabrina Cirino;Boleto;2;65,95;131,9;Sergipe;Micro-ondas;PROD010;Eletrodomésticos
+ba263cf1-24eb-4f47-9f59-1f85414c2f19;14/06/2023;Sr. Noah Sousa;Amanda Barros;Cartão;7;168,88;1182,16;Rio de Janeiro;Micro-ondas;PROD010;Eletrodomésticos
+9df13a0e-6b6d-487b-b2f1-3709d840439d;14/03/2023;Mateus da Mata;Raul Macedo;Boleto;3;174,4;523,2;Piauí;Notebook;PROD002;Informática
+099e67a5-938a-4da9-9ba7-a3766f0567d7;10/03/2023;Vicente Ferreira;Ravy Araújo;Dinheiro;3;224,94;674,82;São Paulo;Micro-ondas;PROD010;Eletrônicos
+07be724c-71fb-4a43-8ed2-07acdb5c1b08;04/01/2023;Eduardo Guerra;Renan Borges;Cartão;3;17,66;52,98;Roraima;Fone de Ouvido;PROD008;Eletrônicos
+e4d5ca88-7743-4b90-a1e4-bb59acc5f02a;21/12/2023;Emanuella Azevedo;Bryan da Rosa;Pix;10;444,59;4445,9;Rio Grande do Sul;Câmera DSLR;PROD007;Áudio e Vídeo
+ec1617c8-31b3-452a-8f96-e4348b2e063d;31/03/2023;Dra. Melissa da Mata;Joaquim da Costa;Cartão;5;266,31;1331,55;Rio Grande do Norte;Câmera DSLR;PROD007;Eletrodomésticos
+62a1915a-6713-4508-99b8-dbffc9c75295;18/11/2023;Marcos Vinicius da Conceição;Dr. Raul Leão;Dinheiro;3;361,43;1084,29;Acre;Micro-ondas;PROD010;Eletrônicos
+d7cfd649-5da8-4fdb-b64f-0c069e53503a;13/11/2023;Olivia da Mata;Amanda Barros;Pix;9;125,46;1129,14;Paraíba;Notebook;PROD002;Eletrônicos
+c4a7b66a-19ed-4678-a10d-e7f7b4900557;18/03/2023;Srta. Maria Julia Mendes;Julia Mendes;Pix;4;145,45;581,8;Ceará;Geladeira;PROD004;Eletrônicos
+da29ed4a-576f-4808-b206-1fc5a7905e42;18/04/2023;Mateus da Mata;Sr. João Gabriel Novaes;Boleto;1;36,47;36,47;Rio Grande do Norte;Máquina de Lavar;PROD006;Informática
+ade637e0-1b92-44db-be51-e9a20a0df019;22/03/2023;Eduardo Guerra;Julia Mendes;Cartão;8;31,23;249,84;Amapá;Smartphone;PROD001;Eletrodomésticos
+59af1e19-82e5-4c76-a639-8b40ac512c35;03/08/2023;Sr. Noah Sousa;Esther Fonseca;Boleto;4;363,49;1453,96;Espírito Santo;Micro-ondas;PROD010;Informática
+5de8d7ce-79cb-4230-9c4b-3b4380cea867;31/07/2023;Sr. Noah Sousa;Alana Nunes;Pix;2;169,8;339,6;Amapá;Notebook;PROD002;Eletrodomésticos
+7e9eb9bb-a9e3-4372-8e87-cfa957ca6e52;16/03/2023;Sr. Noah Sousa;Luiza Vargas;Dinheiro;8;296,7;2373,6;Ceará;Smartphone;PROD001;Áudio e Vídeo
+c2a9cb92-8014-458d-bcce-23e0edaabac4;20/11/2023;Olivia da Mata;Lorena da Cunha;Pix;7;193,01;1351,07;Mato Grosso;Fone de Ouvido;PROD008;Eletrodomésticos
+96fbd364-10df-4f34-b2db-59ee0bbb9adf;24/05/2023;Emanuella Azevedo;Marina Moraes;Dinheiro;3;25,73;77,19;Paraíba;Micro-ondas;PROD010;Eletrônicos
+f7f58b10-3033-4453-8d3c-85b638a030be;01/06/2023;Dra. Melissa da Mata;Raul Macedo;Pix;7;93,89;657,23;Rio de Janeiro;Máquina de Lavar;PROD006;Eletrodomésticos
+d7a505b4-ba24-4284-bd7c-a8902fe47f39;25/09/2023;Srta. Maria Julia Mendes;Bryan da Rosa;Dinheiro;9;428,95;3860,55;Tocantins;Notebook;PROD002;Áudio e Vídeo
+8d1e9d1d-081b-4af3-ac56-98b77704e655;07/05/2023;Olivia da Mata;Sra. Sabrina Cirino;Pix;8;146,79;1174,32;Rio de Janeiro;Câmera DSLR;PROD007;Eletrodomésticos
+c9d13d1b-ee39-428c-8082-8dc508a0a6ed;23/01/2023;Eduardo Guerra;Isis Siqueira;Cartão;3;457,74;1373,22;Pará;Smartphone;PROD001;Áudio e Vídeo
+dbe2a703-d52d-4313-96a9-bae1d3a2079a;11/09/2023;Sr. Noah Sousa;Pedro Henrique Santos;Cartão;9;203,22;1828,98;Roraima;Notebook;PROD002;Áudio e Vídeo
+4c978eaf-560a-4201-9c07-3731ff7b2acf;01/06/2023;Sr. Noah Sousa;Dr. Rhavi Costa;Cartão;7;475,47;3328,29;Acre;TV 4K;PROD003;Informática
+627717e1-d741-4ede-bc74-a403893bab5d;20/10/2023;Dra. Melissa da Mata;Samuel Azevedo;Dinheiro;8;337,83;2702,64;Paraíba;TV 4K;PROD003;Áudio e Vídeo
+a527cfd3-765c-4884-af21-0f61c1750156;09/07/2023;Srta. Maria Julia Mendes;Marcos Vinicius Vieira;Cartão;3;438,36;1315,08;Rio Grande do Sul;Câmera DSLR;PROD007;Eletrodomésticos
+b5e1271d-f901-43dc-a1e5-4ba054b80969;01/06/2023;Mateus da Mata;Amanda Barros;Boleto;2;198,59;397,18;Roraima;Máquina de Lavar;PROD006;Eletrônicos
+2ff0605a-0313-4810-b550-c4687fa5ae3b;14/11/2023;Olivia da Mata;Esther Fonseca;Cartão;10;275,79;2757,9;Pernambuco;Geladeira;PROD004;Eletrônicos
+0259cfd0-b9fd-4fe2-bd43-3a321b633b6d;07/07/2023;Srta. Maria Julia Mendes;Luiza Vargas;Cartão;6;445,11;2670,66;Mato Grosso do Sul;Notebook;PROD002;Áudio e Vídeo
+61bd5be6-775e-4f91-82f0-fe042e3bd5d9;15/10/2023;Sr. Noah Sousa;Lavínia Cirino;Boleto;6;95,88;575,28;Espírito Santo;Tablet;PROD009;Eletrônicos
+3b6b06ee-226d-43c7-b931-d060e17c1758;26/04/2023;Olivia da Mata;Dr. Raul Leão;Boleto;9;65,64;590,76;Pernambuco;Fone de Ouvido;PROD008;Eletrodomésticos
+4e4f591c-722c-49a6-91eb-8eb1b450952c;26/06/2023;Srta. Maria Julia Mendes;Julia Mendes;Cartão;7;145,8;1020,6;Paraná;Notebook;PROD002;Informática
+45785d79-2ade-4780-8d87-2c26e423ce5a;20/08/2023;Dra. Melissa da Mata;Bella Albuquerque;Cartão;9;342,37;3081,33;Distrito Federal;Tablet;PROD009;Informática
+f84339be-5535-4427-83c2-47bec4ad4e12;28/05/2023;Vicente Ferreira;Ana Sophia Moreira;Pix;8;52,78;422,24;Goiás;Câmera DSLR;PROD007;Eletrodomésticos
+d89896f3-3373-4ed5-b5d2-efcd983a26e6;15/04/2023;Julia Novais;Ravy Araújo;Cartão;2;351,57;703,14;Maranhão;Fone de Ouvido;PROD008;Eletrodomésticos
+ca147bd2-8102-4c0d-87cd-9383acd1a4e8;31/08/2023;Olivia da Mata;Henry Gabriel da Rosa;Dinheiro;7;485,09;3395,63;Santa Catarina;Tablet;PROD009;Eletrodomésticos
+e109febb-56db-4072-9906-6f90496bfc4f;29/04/2023;Julia Novais;Dr. Rhavi Costa;Boleto;1;152,84;152,84;Pará;Notebook;PROD002;Eletrônicos
+30fdfb92-8561-415d-9ba6-7aff49554f23;31/10/2023;Julia Novais;Benjamin Moreira;Dinheiro;10;177,97;1779,7;Paraíba;Máquina de Lavar;PROD006;Áudio e Vídeo
+716c57d6-f441-4939-a6fb-d848ec76ed07;14/05/2023;Sr. Noah Sousa;Isis Siqueira;Boleto;5;287,95;1439,75;Maranhão;Fogão;PROD005;Eletrodomésticos
+c9a777a9-2216-4c12-9d7a-1c91bd189a71;27/03/2023;Dra. Melissa da Mata;Raul Macedo;Boleto;1;82,69;82,69;Ceará;Fogão;PROD005;Áudio e Vídeo
+565b172e-b7c1-4c09-b41b-932d6323d921;02/05/2023;Vicente Ferreira;Rafael Porto;Boleto;3;421,27;1263,81;Rio de Janeiro;TV 4K;PROD003;Eletrodomésticos
+47bf29cc-4433-4d1f-b9e5-741d7fafa51f;16/04/2023;Julia Novais;Marcos Vinicius Vieira;Cartão;3;226,04;678,12;Rondônia;Máquina de Lavar;PROD006;Eletrodomésticos
+f2c5f8c5-4655-4b61-b529-4a868fd5fa52;18/08/2023;Julia Novais;Raul Macedo;Boleto;6;489,23;2935,38;Amazonas;TV 4K;PROD003;Informática
+02d2708b-d549-4d61-bcd5-1f56fa9545ca;23/08/2023;Olivia da Mata;Dra. Júlia Moura;Cartão;1;208,24;208,24;Santa Catarina;Fone de Ouvido;PROD008;Eletrodomésticos
+2dafd66f-5f5a-41ad-8f02-a339be5d3a08;31/08/2023;Marcos Vinicius da Conceição;Amanda Barros;Pix;9;488,04;4392,36;Sergipe;Máquina de Lavar;PROD006;Informática
+fd037f35-7321-4d7b-a61b-561db0b5b2fd;19/12/2023;Vicente Ferreira;Sra. Caroline Caldeira;Dinheiro;10;366,99;3669,9;Alagoas;Fone de Ouvido;PROD008;Informática
+3fc0a38d-18af-48fc-9bea-fc50e75fe512;13/01/2023;Mateus da Mata;Luiza Vargas;Pix;3;342,22;1026,66;Paraíba;Notebook;PROD002;Informática
+4dc04562-c76f-4f1b-8d0e-a4bbbc4ebb0a;26/10/2023;Julia Novais;Maria Alice Caldeira;Boleto;6;55,32;331,92;Distrito Federal;Smartphone;PROD001;Eletrodomésticos
+88b56e56-43df-473d-acde-8d5860a336d6;20/09/2023;Mateus da Mata;Caroline Duarte;Dinheiro;1;50,96;50,96;Mato Grosso;Fone de Ouvido;PROD008;Eletrônicos
+b94b72ca-818f-44c1-bbc6-fd3174a61f27;23/07/2023;Emanuella Azevedo;Marcos Vinicius Vieira;Dinheiro;10;306,49;3064,9;Mato Grosso do Sul;Smartphone;PROD001;Informática
+071915d5-16fd-4cb6-9f3a-93db65df9048;29/06/2023;Marcos Vinicius da Conceição;Luiz Miguel da Rosa;Cartão;7;192,69;1348,83;Distrito Federal;Fogão;PROD005;Informática
+47247c31-257c-43ce-9675-fdca381e3b2b;28/05/2023;Emanuella Azevedo;Sra. Caroline Caldeira;Dinheiro;8;373,35;2986,8;Santa Catarina;Câmera DSLR;PROD007;Áudio e Vídeo
+c82d4d78-0d73-4279-95e0-42e810226a29;15/03/2023;Sr. Noah Sousa;João Guilherme Lopes;Dinheiro;7;78,39;548,73;Pernambuco;Micro-ondas;PROD010;Eletrônicos
+1ec28da7-919c-44bb-89dd-7e519e4e9c8e;15/02/2023;Eduardo Guerra;Henry Gabriel da Rosa;Boleto;6;42,4;254,4;Pará;Micro-ondas;PROD010;Áudio e Vídeo
+2d175923-476e-400d-b846-3ec1f1979c7f;13/04/2023;Emanuella Azevedo;Alana Nunes;Boleto;3;282,35;847,05;Piauí;Micro-ondas;PROD010;Eletrodomésticos
+48f1b99e-d52c-401a-bb8a-93aa33e492ba;10/09/2023;Julia Novais;Esther Fonseca;Dinheiro;8;30,69;245,52;Espírito Santo;Fogão;PROD005;Informática
+ed93762b-8aec-434c-9630-efebf8f8bacc;03/06/2023;Srta. Maria Julia Mendes;Marina Moraes;Boleto;1;397,7;397,7;Pará;TV 4K;PROD003;Informática
+941b0daa-fce0-4d45-8fd2-3d3834603b3e;03/03/2023;Marcos Vinicius da Conceição;Julia Mendes;Cartão;3;251,02;753,06;Rio Grande do Norte;Geladeira;PROD004;Eletrônicos
+4b379821-56e2-40c9-ac2b-55f2229006ac;13/05/2023;Srta. Maria Julia Mendes;Joaquim da Costa;Cartão;6;294,72;1768,32;Mato Grosso do Sul;Micro-ondas;PROD010;Áudio e Vídeo
+cf8b0b81-32dc-47f1-b0cd-1bede145a9d9;25/03/2023;Dra. Melissa da Mata;Lunna Ribeiro;Pix;9;369,15;3322,35;Mato Grosso;Smartphone;PROD001;Informática
+3b056414-9539-42aa-9365-bcec88956b5f;25/03/2023;Eduardo Guerra;Lorena da Cunha;Boleto;8;440,38;3523,04;Pará;TV 4K;PROD003;Informática
+f165b843-ef97-482a-83ec-c1b84def9e71;21/09/2023;Sr. Noah Sousa;Dr. Rael Casa Grande;Pix;6;33,87;203,22;São Paulo;Fogão;PROD005;Eletrônicos
+c3b0ee0e-f367-4afa-80fa-076c69c6e048;11/06/2023;Marcos Vinicius da Conceição;Lorena da Cunha;Boleto;2;303,39;606,78;Amazonas;TV 4K;PROD003;Informática
+4a28f555-9282-4f1d-b12b-303130b46e77;12/03/2023;Julia Novais;Diego Martins;Boleto;9;294,22;2647,98;São Paulo;TV 4K;PROD003;Eletrônicos
+f9a13131-97e1-4e15-b027-532c9a576a5e;22/04/2023;Emanuella Azevedo;Davi Lucca Guerra;Pix;8;211,88;1695,04;Tocantins;TV 4K;PROD003;Eletrônicos
+7fe6a952-42fc-4263-8ba6-8c6e00a59f7d;02/08/2023;Srta. Maria Julia Mendes;Isis Barbosa;Cartão;4;399,6;1598,4;Tocantins;Tablet;PROD009;Eletrônicos
+e79e3901-7132-46e8-b9f9-dba5c609bec0;09/06/2023;Olivia da Mata;Lavínia Cirino;Dinheiro;3;462,47;1387,41;Rio Grande do Norte;Fone de Ouvido;PROD008;Informática
+12db1483-717f-43a7-9215-038c45110858;30/12/2023;Marcos Vinicius da Conceição;Samuel Azevedo;Cartão;9;384,16;3457,44;Espírito Santo;Máquina de Lavar;PROD006;Eletrodomésticos
+8a89c7c7-f924-4b59-b2d2-3fb6aef3ede6;07/06/2023;Emanuella Azevedo;Bryan da Rosa;Pix;3;429,84;1289,52;Amapá;TV 4K;PROD003;Eletrodomésticos
+112be326-1fb6-4788-9cea-b9f23e682d65;10/01/2023;Srta. Maria Julia Mendes;Amanda Barros;Dinheiro;7;348,5;2439,5;Alagoas;Notebook;PROD002;Eletrônicos
+924af43e-b98e-491a-a3d0-16e626ee1d63;29/08/2023;Vicente Ferreira;Sr. João Gabriel Novaes;Cartão;4;62,83;251,32;Amapá;Tablet;PROD009;Eletrônicos
+bce4d4dd-9e1e-4c2f-8f48-597d8baa5b91;05/11/2023;Sr. Noah Sousa;Manuela da Costa;Pix;5;337,12;1685,6;Ceará;Notebook;PROD002;Eletrônicos
+f1e5cb39-127f-4388-a037-ae79a93d07aa;24/10/2023;Olivia da Mata;Dr. Raul Leão;Pix;6;24,34;146,04;Pernambuco;TV 4K;PROD003;Informática
+50a7ac95-2461-473c-a533-c10ceda3fda4;20/02/2023;Dra. Melissa da Mata;Amanda Barros;Cartão;10;128,49;1284,9;Pernambuco;Micro-ondas;PROD010;Eletrônicos
+a9ec59c9-d6bc-48c0-acab-bf339510fe0a;03/10/2023;Eduardo Guerra;Sra. Caroline Caldeira;Cartão;4;360,75;1443;Distrito Federal;Fogão;PROD005;Eletrodomésticos
+88b397d3-5419-4ebf-bf46-e7d38092df7f;24/12/2023;Dra. Melissa da Mata;Renan Borges;Dinheiro;9;427,14;3844,26;Rondônia;Fone de Ouvido;PROD008;Informática
+348f029e-3662-40f8-8e54-9877823ba101;06/08/2023;Sr. Noah Sousa;Davi Lucca Guerra;Pix;2;98,62;197,24;Pará;Máquina de Lavar;PROD006;Áudio e Vídeo
+df23cd4d-f5fd-44f0-85f8-26a4f5d1677b;27/08/2023;Vicente Ferreira;Yasmin Camargo;Pix;2;383,09;766,18;Paraná;Máquina de Lavar;PROD006;Eletrônicos
+e32ed7d0-a68f-481c-bda4-b1e0db3add50;12/02/2023;Olivia da Mata;Julia Mendes;Cartão;6;355,32;2131,92;Minas Gerais;Tablet;PROD009;Eletrônicos
+20129779-1e47-4573-a079-41664062fad4;26/04/2023;Julia Novais;Henry Gabriel da Rosa;Boleto;5;233,9;1169,5;Pará;Fogão;PROD005;Áudio e Vídeo
+e57d6e70-c11d-43ae-aca8-3779d7303a1f;02/04/2023;Eduardo Guerra;Igor Correia;Dinheiro;4;429,82;1719,28;Rondônia;Fone de Ouvido;PROD008;Informática
+4499c1b9-7af2-45ef-86a6-986c6dd11882;03/03/2023;Emanuella Azevedo;Pedro Lucas Mendes;Dinheiro;2;204,22;408,44;Roraima;Tablet;PROD009;Eletrônicos
+1930d9eb-9d86-4323-accd-4f3e140803b6;06/07/2023;Sr. Noah Sousa;Dr. Dom Mendes;Pix;10;489,01;4890,1;Rio Grande do Norte;TV 4K;PROD003;Eletrônicos
+3d521af2-f4b9-4db2-a31e-8f02bb5612f4;23/05/2023;Dra. Melissa da Mata;Manuela da Costa;Boleto;7;70,15;491,05;São Paulo;Câmera DSLR;PROD007;Áudio e Vídeo
+c1f432c7-dcc2-4330-be8a-ae108f3868e7;06/09/2023;Julia Novais;Lorena da Cunha;Pix;7;184,49;1291,43;São Paulo;Micro-ondas;PROD010;Áudio e Vídeo
+487f7fad-b392-4cf6-aadc-c07550d82069;12/09/2023;Sr. Noah Sousa;Ravy Araújo;Pix;8;62,94;503,52;Acre;Fogão;PROD005;Áudio e Vídeo
+f8a6e1f9-7de0-4582-b19b-914ae445ab97;14/12/2023;Eduardo Guerra;Renan Borges;Dinheiro;2;371,52;743,04;Rio Grande do Norte;Notebook;PROD002;Áudio e Vídeo
+28444f24-5293-4b2a-b0b3-c0e913559c84;09/02/2023;Julia Novais;Dr. Rael Casa Grande;Dinheiro;6;84,84;509,04;Sergipe;Micro-ondas;PROD010;Eletrônicos
+45fba32a-bacf-4335-9ac7-7b2b56670961;16/09/2023;Marcos Vinicius da Conceição;Marina Pinto;Boleto;8;108,95;871,6;Sergipe;Fone de Ouvido;PROD008;Áudio e Vídeo
+001c3bf2-4e8c-484d-b18e-e90dd263836c;02/03/2023;Mateus da Mata;Luiz Miguel da Rosa;Boleto;9;277,84;2500,56;Minas Gerais;Smartphone;PROD001;Áudio e Vídeo
+774ee716-65b2-4b1f-bfa1-9b9557587bc4;13/10/2023;Marcos Vinicius da Conceição;Marcos Vinicius Vieira;Pix;8;235,23;1881,84;Paraná;Smartphone;PROD001;Eletrodomésticos
+a3c36fe8-36a4-4bc8-9ba1-032d505ba7dc;26/02/2023;Dra. Melissa da Mata;Igor Correia;Dinheiro;7;75,9;531,3;Rondônia;Câmera DSLR;PROD007;Áudio e Vídeo
+394b91f7-2f53-4f9a-aee8-db5f53bbf850;01/09/2023;Julia Novais;Raul Macedo;Cartão;9;345,83;3112,47;Minas Gerais;Micro-ondas;PROD010;Áudio e Vídeo
+3be27f31-9f86-431a-b710-3fc41fd25b16;26/05/2023;Olivia da Mata;Lunna Ribeiro;Cartão;5;252,4;1262;Rio de Janeiro;Câmera DSLR;PROD007;Informática
+a2903878-f157-4c9f-be9e-67fd853317d6;26/10/2023;Eduardo Guerra;Amanda Barros;Boleto;1;72,82;72,82;Minas Gerais;Máquina de Lavar;PROD006;Informática
+4fdb718b-9dc5-40f3-89ad-60ec59190698;29/06/2023;Eduardo Guerra;Erick Costela;Pix;2;219,79;439,58;Espírito Santo;Máquina de Lavar;PROD006;Áudio e Vídeo
+5669e8e7-33fd-43ca-95c4-bc3b39881129;19/12/2023;Vicente Ferreira;João Guilherme Lopes;Cartão;4;327,56;1310,24;Mato Grosso;Micro-ondas;PROD010;Eletrônicos
+41440a12-c15a-4b57-a6a2-04c81248fa1d;24/08/2023;Mateus da Mata;Gael Henrique Campos;Dinheiro;3;19,66;58,98;Goiás;Máquina de Lavar;PROD006;Eletrônicos
+f54739d6-56a2-47f4-baec-6b5fbbaf83d4;12/06/2023;Mateus da Mata;Gael Henrique Campos;Dinheiro;1;351,02;351,02;Mato Grosso;Micro-ondas;PROD010;Eletrônicos
+0378097e-e97c-42ed-9717-acde990b66c8;20/12/2023;Sr. Noah Sousa;Dr. Dom Mendes;Dinheiro;10;57,89;578,9;Pernambuco;Fone de Ouvido;PROD008;Eletrônicos
+9a326168-d407-4387-90eb-e5c59da07f99;12/08/2023;Sr. Noah Sousa;Julia Mendes;Cartão;6;91,65;549,9;Tocantins;Fogão;PROD005;Informática
+fa63ea71-e448-45a8-8e71-aa88c732cace;02/06/2023;Dra. Melissa da Mata;Pedro Lucas Mendes;Pix;9;114,9;1034,1;Rio Grande do Norte;Fogão;PROD005;Eletrônicos
+8310ce0b-cdc6-4a57-b5ae-27dea6c35099;31/10/2023;Olivia da Mata;Lorena da Cunha;Cartão;2;361,68;723,36;Rio de Janeiro;Micro-ondas;PROD010;Eletrônicos
+dac66c3f-9eda-49c7-9480-398b69a1c073;09/02/2023;Marcos Vinicius da Conceição;Davi Lucca Guerra;Boleto;9;242,88;2185,92;Pará;Geladeira;PROD004;Informática
+ab2a107e-84df-455a-9581-a756632d66df;09/05/2023;Dra. Melissa da Mata;Davi Lucca Guerra;Dinheiro;9;163,54;1471,86;Rondônia;Câmera DSLR;PROD007;Áudio e Vídeo
+29062849-325a-4a88-a89a-36fa7764c75c;23/10/2023;Srta. Maria Julia Mendes;Bryan da Rosa;Dinheiro;9;98,49;886,41;Goiás;Smartphone;PROD001;Eletrodomésticos
+b8183408-91a0-4f75-b958-a97722cc1543;25/09/2023;Sr. Noah Sousa;Bella Albuquerque;Dinheiro;9;406,38;3657,42;Bahia;Câmera DSLR;PROD007;Eletrônicos
+bfa42de0-8b2b-40cd-9ca0-029e79ffe36b;30/07/2023;Olivia da Mata;Isis Barbosa;Pix;4;83,73;334,92;Pará;Fogão;PROD005;Áudio e Vídeo
+55f5b38c-aaaf-4f94-b913-dc8d8b3af199;18/12/2023;Dra. Melissa da Mata;Joana Sampaio;Dinheiro;5;413,62;2068,1;Espírito Santo;TV 4K;PROD003;Informática
+7a410dff-fa94-4e60-a1ed-451a6a6ae3c6;08/06/2023;Srta. Maria Julia Mendes;Julia Mendes;Dinheiro;2;83,48;166,96;Pará;Smartphone;PROD001;Eletrodomésticos
+65310487-fa6f-4e55-b214-58eaa65c6747;15/01/2023;Marcos Vinicius da Conceição;Lorena da Cunha;Pix;1;108,98;108,98;Rio Grande do Sul;Fogão;PROD005;Eletrodomésticos
+a494f9e1-ff78-4746-9283-8c68713b1d01;29/01/2023;Vicente Ferreira;Dr. Vinicius Moura;Boleto;1;482,26;482,26;Amapá;Fone de Ouvido;PROD008;Eletrônicos
+e182fd0e-7759-44ae-91f7-bc2a21c6e04f;13/03/2023;Sr. Noah Sousa;Marina Moraes;Cartão;7;449,42;3145,94;Pernambuco;Notebook;PROD002;Áudio e Vídeo
+e3f583de-b2f3-4717-8667-dbce5dc51c12;12/09/2023;Vicente Ferreira;Joana Sampaio;Cartão;10;475,34;4753,4;São Paulo;Tablet;PROD009;Informática
+e3110fd2-06a1-4a2e-b1d5-b5d4049625aa;01/05/2023;Mateus da Mata;Bryan da Rosa;Pix;6;171,35;1028,1;Amazonas;Micro-ondas;PROD010;Áudio e Vídeo
+ab6ec2b2-7aa4-4728-bfd0-0ef30a6ea69c;29/07/2023;Marcos Vinicius da Conceição;Manuela da Costa;Cartão;3;114,91;344,73;Paraná;Fogão;PROD005;Áudio e Vídeo
+68f1eaf6-8faf-4373-acfc-0d1eac691fc8;07/10/2023;Mateus da Mata;Isis Siqueira;Pix;9;193,61;1742,49;Goiás;Notebook;PROD002;Informática
+9b801e1a-eec3-44c3-892b-e915545e2dc9;11/01/2023;Dra. Melissa da Mata;Rafael Porto;Cartão;3;187,87;563,61;Roraima;Máquina de Lavar;PROD006;Informática
+72ecd390-d016-4ca0-abdd-5674a63c60bd;24/11/2023;Olivia da Mata;Igor Correia;Cartão;4;133,96;535,84;Piauí;Câmera DSLR;PROD007;Informática
+da50c884-927b-43f3-aea7-6d50a608ce27;21/07/2023;Marcos Vinicius da Conceição;João Guilherme Lopes;Cartão;4;430,25;1721;Tocantins;Câmera DSLR;PROD007;Eletrônicos
+36a29129-27b3-4662-a88d-1b11cbffcf04;20/11/2023;Olivia da Mata;Dr. Rael Casa Grande;Dinheiro;4;155,74;622,96;Sergipe;TV 4K;PROD003;Áudio e Vídeo
+b8b9f9c6-ad87-4240-8eba-5b457ff8d923;30/08/2023;Mateus da Mata;Dr. Dom Mendes;Dinheiro;1;144,28;144,28;Tocantins;Notebook;PROD002;Áudio e Vídeo
+49b3221d-4d0c-48de-964e-bd4cfba01181;30/06/2023;Mateus da Mata;Srta. Gabriela da Costa;Boleto;2;413,96;827,92;Paraíba;Fogão;PROD005;Eletrônicos
+0bb8a807-f7d9-4623-aa9a-f3620909790d;25/11/2023;Emanuella Azevedo;Helena Carvalho;Dinheiro;1;383,37;383,37;Distrito Federal;TV 4K;PROD003;Áudio e Vídeo
+4fcab79e-9993-4c26-beba-3d5bb9ab41d8;22/03/2023;Sr. Noah Sousa;Yasmin Camargo;Pix;5;163,72;818,6;Rio Grande do Norte;Notebook;PROD002;Eletrônicos
+c85c3c40-0ec1-4ad1-b50d-d20649642c4c;02/09/2023;Emanuella Azevedo;Sr. João Gabriel Novaes;Pix;7;398,39;2788,73;Rondônia;Máquina de Lavar;PROD006;Áudio e Vídeo
+91b3b2c8-d48f-49bc-8f26-42bea6b316d5;13/02/2023;Mateus da Mata;Bella Albuquerque;Pix;10;415,12;4151,2;Minas Gerais;Fogão;PROD005;Eletrodomésticos
+eb8e9305-e88a-4d59-b073-34777fcbecea;11/01/2023;Eduardo Guerra;Benjamin Moreira;Pix;7;472,93;3310,51;Amapá;Micro-ondas;PROD010;Eletrodomésticos
+0c1cf675-be36-4dd8-aa79-e86b93e4d947;25/07/2023;Dra. Melissa da Mata;Sra. Sabrina Cirino;Boleto;8;107,15;857,2;Bahia;TV 4K;PROD003;Eletrônicos
+76ffc758-1628-4693-919a-89019b334489;08/01/2023;Julia Novais;Sra. Sabrina Cirino;Dinheiro;2;479,44;958,88;Tocantins;TV 4K;PROD003;Eletrônicos
+7fce39d5-8b94-4188-b1dd-d4028c15a726;17/05/2023;Marcos Vinicius da Conceição;Esther Fonseca;Dinheiro;8;68,07;544,56;Minas Gerais;Geladeira;PROD004;Eletrodomésticos
+9fd025aa-df9b-40df-b823-6cf259a630e9;25/05/2023;Sr. Noah Sousa;Henry Gabriel da Rosa;Pix;3;221,34;664,02;Pará;Geladeira;PROD004;Eletrodomésticos
+354b009c-1010-40ee-8d7b-face8417897d;13/11/2023;Srta. Maria Julia Mendes;Joana Sampaio;Boleto;3;24,1;72,3;Rio de Janeiro;Fogão;PROD005;Eletrodomésticos
+c8d74ea6-91c9-4818-a7f5-da980cb37033;15/06/2023;Mateus da Mata;Igor Correia;Pix;8;52,01;416,08;Roraima;Fone de Ouvido;PROD008;Eletrodomésticos
+64ccb137-4021-4a85-889a-8a928edb5a09;07/02/2023;Vicente Ferreira;Benjamin Moreira;Cartão;7;357,14;2499,98;Alagoas;Micro-ondas;PROD010;Informática
+93db7715-9110-4ac2-b635-d8cc175f241b;07/11/2023;Dra. Melissa da Mata;Marcos Vinicius Vieira;Cartão;6;466,22;2797,32;Acre;Fone de Ouvido;PROD008;Informática
+f5869253-efd3-4640-96c3-fd9ff6ce10e8;22/07/2023;Olivia da Mata;Lavínia Cirino;Cartão;5;257,23;1286,15;Rio de Janeiro;Câmera DSLR;PROD007;Informática
+111c6365-67f7-467c-9ccb-a2e21939e9ab;23/06/2023;Srta. Maria Julia Mendes;Lavínia Cirino;Cartão;3;137,54;412,62;Mato Grosso;Tablet;PROD009;Áudio e Vídeo
+26c1d1d3-2bf8-40c7-9980-bfa2b59064d0;10/06/2023;Eduardo Guerra;Lavínia Cirino;Dinheiro;9;222,14;1999,26;Tocantins;Fogão;PROD005;Eletrônicos
+49f86d11-c38c-48d6-8c67-470db543d2aa;15/05/2023;Dra. Melissa da Mata;Amanda Barros;Boleto;5;376,43;1882,15;Pernambuco;Câmera DSLR;PROD007;Informática
+c1b5111a-11dc-4ced-af36-005a0f638c80;09/09/2023;Emanuella Azevedo;Benjamin Moreira;Dinheiro;6;223,53;1341,18;Alagoas;TV 4K;PROD003;Informática
+1941b777-2d35-47c5-9632-c0e35cc7607d;19/01/2023;Srta. Maria Julia Mendes;Sr. João Gabriel Novaes;Pix;4;82,82;331,28;Roraima;Geladeira;PROD004;Eletrodomésticos
+1a19c54b-d48d-46eb-a8eb-00bbd3b259fa;15/08/2023;Olivia da Mata;Marcos Vinicius Vieira;Dinheiro;8;223,85;1790,8;Paraíba;Fone de Ouvido;PROD008;Eletrônicos
+db4917b4-be2f-427b-a493-3bd6b6c14f9a;28/06/2023;Vicente Ferreira;Bryan da Rosa;Boleto;8;65,12;520,96;Ceará;TV 4K;PROD003;Eletrônicos
+d95993c0-9c3d-422e-8330-14d940aaa202;26/10/2023;Eduardo Guerra;Yasmin Camargo;Pix;3;377,47;1132,41;Pará;Fogão;PROD005;Eletrodomésticos
+7e0fb220-e956-4d4d-8706-111e08a24051;18/06/2023;Eduardo Guerra;Diego Martins;Cartão;2;130,62;261,24;Minas Gerais;Fone de Ouvido;PROD008;Eletrônicos
+ea789acb-f77c-4ab1-b1d5-8766652b28e0;20/03/2023;Eduardo Guerra;Pedro Henrique Santos;Dinheiro;6;299,27;1795,62;Tocantins;Notebook;PROD002;Informática
+080633dc-eccf-4d58-a1e9-584be3d87454;18/06/2023;Eduardo Guerra;Dr. Rhavi Costa;Dinheiro;8;232,49;1859,92;Mato Grosso;Fogão;PROD005;Eletrônicos
+e45523d7-e3aa-4a96-bdd8-a950475a2173;15/06/2023;Eduardo Guerra;Esther Fonseca;Cartão;10;73,37;733,7;Piauí;Smartphone;PROD001;Informática
+df72b815-0f35-4f40-bb99-d07368342f41;02/04/2023;Sr. Noah Sousa;Dr. Rael Casa Grande;Dinheiro;10;196,88;1968,8;Amapá;Câmera DSLR;PROD007;Informática
+6bb9b924-7cf7-4663-b7c3-17c940be5685;26/07/2023;Marcos Vinicius da Conceição;Dr. Rhavi Costa;Pix;1;427,65;427,65;Amazonas;TV 4K;PROD003;Áudio e Vídeo
+4f10d304-01f2-4d8d-98f8-7448a924302d;17/12/2023;Dra. Melissa da Mata;Lavínia Cirino;Boleto;5;250,51;1252,55;Rondônia;Câmera DSLR;PROD007;Informática
+a1c6acea-68ab-4609-949a-b42a3a72e35d;08/09/2023;Srta. Maria Julia Mendes;Alana Nunes;Dinheiro;2;417,71;835,42;Goiás;Tablet;PROD009;Eletrodomésticos
+d0f512be-1cfd-4242-8c7a-56ae0e06c584;08/07/2023;Dra. Melissa da Mata;Renan Borges;Dinheiro;10;304,17;3041,7;Rio Grande do Sul;Notebook;PROD002;Áudio e Vídeo
+4908a17e-50c4-461d-a04d-719926d9cbb5;26/08/2023;Sr. Noah Sousa;Dr. Rhavi Costa;Pix;7;55,54;388,78;Paraná;Tablet;PROD009;Informática
+628f3a29-54aa-48c3-b6c6-541024687a74;29/05/2023;Srta. Maria Julia Mendes;Sra. Sabrina Cirino;Cartão;9;318,48;2866,32;Sergipe;Tablet;PROD009;Eletrônicos
+6c767e69-54d3-439c-b1f4-ea4772ae6c5c;08/05/2023;Julia Novais;Sra. Sabrina Cirino;Boleto;8;157,19;1257,52;Rio de Janeiro;TV 4K;PROD003;Informática
+6612b653-a1d0-4b4f-a3af-38fd41b9bbba;19/09/2023;Mateus da Mata;Henry Gabriel da Rosa;Cartão;1;279,99;279,99;Paraíba;Smartphone;PROD001;Eletrônicos
+122c5661-67ec-4303-a1f7-89b1d7211c1e;27/10/2023;Vicente Ferreira;Dr. Rael Casa Grande;Cartão;10;408,28;4082,8;Amazonas;Máquina de Lavar;PROD006;Informática
+1c412739-2761-4578-8fdc-21a6263a2a0c;24/01/2023;Vicente Ferreira;Henry Gabriel da Rosa;Boleto;8;97,98;783,84;Mato Grosso;TV 4K;PROD003;Áudio e Vídeo
+be92e143-cffc-4cb6-aaef-25f89555d554;24/06/2023;Emanuella Azevedo;Bryan da Rosa;Pix;10;364,81;3648,1;Amapá;Fone de Ouvido;PROD008;Informática
+2010ae1b-c121-4ea4-8ef1-835b912581b3;01/10/2023;Eduardo Guerra;Helena Carvalho;Dinheiro;10;137,07;1370,7;Amazonas;Notebook;PROD002;Áudio e Vídeo
+ded51b74-3cc3-47c8-8dbb-e52ea1f2c6a3;21/12/2023;Mateus da Mata;Erick Costela;Dinheiro;1;94,15;94,15;Maranhão;Fone de Ouvido;PROD008;Áudio e Vídeo
+6865c07d-179b-41e5-8796-2a6458670d5f;20/12/2023;Mateus da Mata;João Guilherme Lopes;Cartão;10;408,43;4084,3;Bahia;Micro-ondas;PROD010;Informática
+6379529c-8f5f-4d51-977c-8cc93f8783db;23/12/2023;Sr. Noah Sousa;Samuel Azevedo;Pix;3;16,8;50,4;Paraná;Notebook;PROD002;Eletrônicos
+7200c3bd-f60a-4d47-9535-e05c34614212;14/02/2023;Marcos Vinicius da Conceição;Dr. Rael Casa Grande;Dinheiro;3;328,37;985,11;Bahia;Câmera DSLR;PROD007;Eletrodomésticos
+533736ae-e291-45a9-a829-675fa4118259;20/03/2023;Srta. Maria Julia Mendes;Julia Mendes;Dinheiro;8;216,72;1733,76;Acre;Notebook;PROD002;Eletrodomésticos
+2e204280-e967-4556-9735-d89173f3f428;19/10/2023;Mateus da Mata;Lunna Ribeiro;Boleto;8;296,76;2374,08;Acre;Geladeira;PROD004;Informática
+718e96ff-c839-4977-a72b-04958f619737;11/09/2023;Dra. Melissa da Mata;Srta. Gabriela da Costa;Boleto;2;318,9;637,8;Alagoas;Câmera DSLR;PROD007;Áudio e Vídeo
+ae9085ef-f9c8-424c-a2a1-48c5cdf9312f;29/04/2023;Eduardo Guerra;Yasmin Camargo;Cartão;8;205,84;1646,72;Pará;Tablet;PROD009;Áudio e Vídeo
+b6ffc198-8bcc-4708-8c0a-b8eeffcb582c;28/11/2023;Mateus da Mata;Isis Siqueira;Cartão;10;164,77;1647,7;Paraná;Notebook;PROD002;Informática
+457c6283-a4c3-4d29-8c9e-ae6aa20cef3c;24/12/2023;Mateus da Mata;Samuel Azevedo;Pix;10;470,09;4700,9;Maranhão;Máquina de Lavar;PROD006;Áudio e Vídeo
+dfffd000-ffea-498f-89a0-4e24f11d9884;17/09/2023;Sr. Noah Sousa;Manuela da Costa;Boleto;4;239,93;959,72;Rio Grande do Norte;Fone de Ouvido;PROD008;Eletrodomésticos
+58bca1c8-949a-462a-9755-93bf8394e63b;02/08/2023;Olivia da Mata;Isis Siqueira;Pix;8;74,27;594,16;Rio Grande do Norte;Fogão;PROD005;Áudio e Vídeo
+380c0880-f4d9-47cc-bade-a2f538d7c774;08/03/2023;Emanuella Azevedo;Caroline Duarte;Pix;4;148,4;593,6;Rio Grande do Norte;Notebook;PROD002;Áudio e Vídeo
+86aee7d1-177d-4cea-a403-f54378eb0242;05/06/2023;Sr. Noah Sousa;Bryan da Rosa;Cartão;8;59,44;475,52;Acre;Câmera DSLR;PROD007;Áudio e Vídeo
+fc38550a-e868-48bd-9109-f7ffff39a54b;31/03/2023;Julia Novais;Rafael Porto;Cartão;6;441,64;2649,84;Mato Grosso;Máquina de Lavar;PROD006;Eletrodomésticos
+27d62c43-299c-4c88-a842-7b5572f028b7;15/10/2023;Sr. Noah Sousa;Julia Mendes;Boleto;7;65,84;460,88;Mato Grosso;Geladeira;PROD004;Eletrônicos
+4bc2a566-cc1f-48c1-b5e8-a74ce58b5cd5;19/03/2023;Julia Novais;Srta. Gabriela da Costa;Cartão;6;386,99;2321,94;Roraima;Tablet;PROD009;Informática
+b163487d-ccf9-46af-933b-cf7734b3cd39;26/02/2023;Vicente Ferreira;Luiza Vargas;Cartão;1;464,05;464,05;Tocantins;Fone de Ouvido;PROD008;Áudio e Vídeo
+13f6c07b-b414-4432-ac93-9ec055afc494;19/11/2023;Vicente Ferreira;Bryan da Rosa;Boleto;9;30,57;275,13;Ceará;Notebook;PROD002;Eletrodomésticos
+af1c90f4-2c0c-49df-8d01-1085c01b769c;20/02/2023;Emanuella Azevedo;Dr. Rhavi Costa;Boleto;5;357;1785;Mato Grosso;Tablet;PROD009;Áudio e Vídeo
+0dc59859-636b-4c4d-b1a1-497f8ab12846;01/08/2023;Eduardo Guerra;Joana Sampaio;Dinheiro;3;70,26;210,78;Mato Grosso;Geladeira;PROD004;Áudio e Vídeo
+17f5466d-d3c7-41dd-9776-d9f3461bb2b6;10/07/2023;Mateus da Mata;Bella Albuquerque;Pix;5;257,46;1287,3;Bahia;Notebook;PROD002;Informática
+cb45549b-eab7-4e4b-95cc-b799a97cb6d3;08/08/2023;Mateus da Mata;Henry Gabriel da Rosa;Dinheiro;9;216,64;1949,76;Pernambuco;Geladeira;PROD004;Eletrodomésticos
+58eabd91-7c03-4037-9371-1bbbffd24fba;06/01/2023;Julia Novais;Isis Barbosa;Cartão;6;472,43;2834,58;Mato Grosso;Fone de Ouvido;PROD008;Eletrodomésticos
+3d1c527a-c34e-4a2c-9d57-758db2f46e35;01/02/2023;Mateus da Mata;Amanda Barros;Cartão;6;206,81;1240,86;Rondônia;TV 4K;PROD003;Áudio e Vídeo
+cf03cd39-b584-42f5-a1b3-c44c567db771;03/08/2023;Mateus da Mata;Igor Correia;Boleto;3;452,23;1356,69;Santa Catarina;Smartphone;PROD001;Informática
+8ffe55d5-ef2e-45ac-8d8d-d790fe76ae29;28/09/2023;Dra. Melissa da Mata;Dra. Júlia Moura;Dinheiro;6;455,52;2733,12;Paraíba;Smartphone;PROD001;Informática
+f30dd674-acd3-4674-84f8-fc30938c4fef;24/12/2023;Olivia da Mata;Dr. Rhavi Costa;Dinheiro;4;444,91;1779,64;São Paulo;Micro-ondas;PROD010;Áudio e Vídeo
+d4922bbc-c3d2-44e6-a37a-9ea2e27247d6;03/10/2023;Olivia da Mata;Alana Nunes;Pix;4;441,68;1766,72;Pernambuco;Notebook;PROD002;Eletrônicos
+8128bdb9-e352-42af-a7f3-4f68339f63db;24/09/2023;Olivia da Mata;Amanda Barros;Pix;9;149,12;1342,08;Acre;Notebook;PROD002;Informática
+071a156a-9960-419f-826c-9ff1b2246d79;04/05/2023;Marcos Vinicius da Conceição;Sra. Caroline Caldeira;Dinheiro;1;446,26;446,26;Pernambuco;Tablet;PROD009;Informática
+962581d3-67fc-4f5c-93a1-e8a15e0f2d84;18/11/2023;Julia Novais;Dr. Raul Leão;Cartão;2;368,67;737,34;Alagoas;Máquina de Lavar;PROD006;Informática
+a553ad9b-7a57-4c15-a923-86832d6f522d;21/08/2023;Olivia da Mata;Joana Sampaio;Pix;2;229,88;459,76;Mato Grosso do Sul;Micro-ondas;PROD010;Eletrônicos
+a0055b13-3840-4c5e-9b84-97c9161f3be8;13/07/2023;Julia Novais;Esther Fonseca;Pix;5;149,42;747,1;Amazonas;Micro-ondas;PROD010;Eletrodomésticos
+692a6f86-6646-4d14-a505-cc3b42d313a2;21/08/2023;Vicente Ferreira;Dra. Júlia Moura;Dinheiro;6;263,06;1578,36;Tocantins;Geladeira;PROD004;Informática
+f69dd972-c925-42f2-9d44-44d40a6abc2e;08/03/2023;Srta. Maria Julia Mendes;Bryan da Rosa;Dinheiro;7;50,15;351,05;Amapá;Smartphone;PROD001;Áudio e Vídeo
+9341c044-fc6a-488a-8cb5-3425178a59c1;16/05/2023;Dra. Melissa da Mata;Julia Mendes;Dinheiro;6;341,64;2049,84;Paraíba;Câmera DSLR;PROD007;Áudio e Vídeo
+1c169d80-561c-4787-93b1-bb6915549cc0;15/03/2023;Julia Novais;Lavínia Cirino;Dinheiro;8;368,54;2948,32;Roraima;Câmera DSLR;PROD007;Eletrodomésticos
+0a721990-d9f7-4fae-a579-d36244a618d2;22/12/2023;Sr. Noah Sousa;Francisco Cunha;Dinheiro;8;73,4;587,2;Alagoas;Tablet;PROD009;Eletrônicos
+f44b9286-57f9-48b2-b7ca-e166e2383324;05/11/2023;Mateus da Mata;Marina Moraes;Cartão;3;472,59;1417,77;Mato Grosso do Sul;Máquina de Lavar;PROD006;Eletrônicos
+a43721d5-88d3-4984-afa1-772e398f5dd1;02/03/2023;Olivia da Mata;João Guilherme Lopes;Boleto;10;151,9;1519;Maranhão;Tablet;PROD009;Eletrodomésticos
+498799f2-661d-4b95-b9cb-79e7f1fed0f1;29/10/2023;Mateus da Mata;Lunna Ribeiro;Boleto;5;248,1;1240,5;Maranhão;TV 4K;PROD003;Eletrodomésticos
+3f5f57c3-1b3c-48cf-88d4-bfeaf80c236f;04/03/2023;Julia Novais;Dr. Raul Leão;Cartão;4;99,71;398,84;Alagoas;Fone de Ouvido;PROD008;Eletrônicos
+2f6a825e-9e9f-4179-abe5-d112272ecf24;22/06/2023;Mateus da Mata;Isis Siqueira;Pix;7;245,78;1720,46;São Paulo;Fogão;PROD005;Áudio e Vídeo
+54372efe-77d0-4220-a1f0-82791c0f2106;08/12/2023;Srta. Maria Julia Mendes;Dra. Júlia Moura;Boleto;3;257,33;771,99;Amapá;Fone de Ouvido;PROD008;Áudio e Vídeo
+cbf45d23-634c-4637-83ea-6b57dfdcb48c;30/04/2023;Mateus da Mata;Dr. Dom Mendes;Cartão;10;335,61;3356,1;Rondônia;Câmera DSLR;PROD007;Áudio e Vídeo
+7d33e0f2-3033-4195-bf1a-c48b4c197442;29/12/2023;Eduardo Guerra;Gael Henrique Campos;Boleto;8;370,6;2964,8;Piauí;Notebook;PROD002;Eletrodomésticos
+f83d092c-8003-4312-b9bf-7f2fce7a82ed;13/11/2023;Julia Novais;Gael Henrique Campos;Cartão;2;325,52;651,04;Rio de Janeiro;Notebook;PROD002;Eletrodomésticos
+0703621a-72a3-4b2f-9e93-b8d1f70b72fe;03/03/2023;Julia Novais;Renan Borges;Cartão;9;102,8;925,2;Goiás;Fone de Ouvido;PROD008;Eletrônicos
+d09093c4-d013-4212-965a-8d70706a98bb;13/02/2023;Julia Novais;Srta. Gabriela da Costa;Boleto;4;130,19;520,76;Minas Gerais;Micro-ondas;PROD010;Áudio e Vídeo
+aa4bc211-895f-42ce-8ac8-034f8acce6e6;12/08/2023;Emanuella Azevedo;Henry Gabriel da Rosa;Cartão;10;32,04;320,4;Pernambuco;Smartphone;PROD001;Informática
+8657fead-7b62-461e-bc0f-54372fe26c86;20/02/2023;Julia Novais;Raul Macedo;Boleto;6;197,19;1183,14;Bahia;Notebook;PROD002;Eletrônicos
+594ec39a-64eb-4898-b317-150ed4d99a14;07/06/2023;Mateus da Mata;Igor Correia;Pix;3;135,22;405,66;Alagoas;Notebook;PROD002;Eletrodomésticos
+7208ff39-faf8-4b76-a483-c6fe69437f86;30/01/2023;Marcos Vinicius da Conceição;Alana Nunes;Cartão;10;480,95;4809,5;Mato Grosso;TV 4K;PROD003;Eletrônicos
+84035e1a-4f33-4a79-bb4a-d60a78a33730;12/07/2023;Vicente Ferreira;Lunna Ribeiro;Pix;3;212,28;636,84;Espírito Santo;Máquina de Lavar;PROD006;Informática
+bc956529-ee34-45a0-b327-28be1f386f5d;28/02/2023;Marcos Vinicius da Conceição;Lunna Ribeiro;Boleto;10;297,15;2971,5;Paraíba;Fone de Ouvido;PROD008;Áudio e Vídeo
+e591aa1a-5d56-40b5-a6bf-77b1ca67471e;28/07/2023;Sr. Noah Sousa;Samuel Azevedo;Boleto;9;209,47;1885,23;Piauí;Fone de Ouvido;PROD008;Eletrônicos
+71b5b585-2d02-478b-ac88-9fe3832313aa;05/06/2023;Dra. Melissa da Mata;Henry Gabriel da Rosa;Dinheiro;10;340,8;3408;Amapá;Geladeira;PROD004;Eletrodomésticos
+68e1cc40-03a8-41f7-b0c5-8dbe4b7931cf;04/10/2023;Emanuella Azevedo;Joana Sampaio;Dinheiro;9;109,69;987,21;Piauí;TV 4K;PROD003;Informática
+94c247ec-c9bf-45ae-86e2-43831ca98a33;01/12/2023;Emanuella Azevedo;Helena Carvalho;Cartão;8;30,48;243,84;Paraná;Fone de Ouvido;PROD008;Informática
+ce931038-e768-446a-8adf-432e85c51b57;20/11/2023;Sr. Noah Sousa;Manuela da Costa;Boleto;5;302,96;1514,8;Alagoas;Câmera DSLR;PROD007;Informática
+8e2167dd-38f6-46f4-a265-e8a9991b5657;03/06/2023;Vicente Ferreira;Pedro Lucas Mendes;Cartão;3;372,2;1116,6;Tocantins;Micro-ondas;PROD010;Eletrônicos
+7609220c-18ff-47d1-b9fe-f07518d3bef2;18/04/2023;Dra. Melissa da Mata;Davi Lucca Guerra;Boleto;3;365,29;1095,87;Rondônia;Fogão;PROD005;Áudio e Vídeo
+9e03bf44-3dd9-4530-b368-4bf8bae847ee;06/05/2023;Olivia da Mata;Dr. Dom Mendes;Pix;6;321,23;1927,38;Paraíba;Fone de Ouvido;PROD008;Informática
+1e61f624-5518-4811-9d2d-b09969687398;08/11/2023;Srta. Maria Julia Mendes;Helena Carvalho;Cartão;10;170,94;1709,4;Rondônia;TV 4K;PROD003;Eletrônicos
+ff9051f9-5545-4bc9-89fe-34fb317e5577;03/10/2023;Vicente Ferreira;Dr. Rhavi Costa;Cartão;3;212,45;637,35;Piauí;Fone de Ouvido;PROD008;Áudio e Vídeo
+8b67a6f4-7e8d-4dfe-823a-07845b2548c0;30/06/2023;Mateus da Mata;Srta. Gabriela da Costa;Boleto;1;447,36;447,36;Minas Gerais;Fone de Ouvido;PROD008;Eletrônicos
+f8aab3d2-453e-4e3c-8c16-1e652ece4b8d;25/08/2023;Olivia da Mata;Caroline Duarte;Dinheiro;3;421,18;1263,54;Acre;Smartphone;PROD001;Eletrônicos
+c8537cd3-2e65-4f76-bc0d-1d08fe7178c6;09/04/2023;Vicente Ferreira;Luiza Vargas;Boleto;4;374,14;1496,56;Sergipe;Fogão;PROD005;Informática
+51b989dd-2e87-453a-867a-d78641538f0b;19/01/2023;Marcos Vinicius da Conceição;Julia Mendes;Pix;4;124,79;499,16;Acre;Fone de Ouvido;PROD008;Informática
+1e27825a-e7ae-4c31-a6c0-dbea83afd88b;23/05/2023;Dra. Melissa da Mata;Davi Lucca Guerra;Dinheiro;4;492,29;1969,16;Ceará;Câmera DSLR;PROD007;Eletrônicos
+836a0a59-e40e-49e1-811e-e2e171e0bbba;03/02/2023;Dra. Melissa da Mata;Lavínia Cirino;Cartão;9;104,95;944,55;Bahia;Micro-ondas;PROD010;Eletrodomésticos
+9d54715a-dd9d-42db-b230-2e5c0363b100;09/04/2023;Eduardo Guerra;Joaquim da Costa;Boleto;5;467,45;2337,25;Rondônia;Geladeira;PROD004;Informática
+adaf36d8-7c3e-444f-9381-3205d6341549;25/11/2023;Eduardo Guerra;Dr. Vinicius Moura;Dinheiro;9;442,72;3984,48;Pará;Smartphone;PROD001;Áudio e Vídeo
+4fdb2c55-7d56-4523-ad8f-f31617a6e32d;11/09/2023;Olivia da Mata;Yasmin Camargo;Cartão;5;69,64;348,2;Santa Catarina;Tablet;PROD009;Áudio e Vídeo
+af469f31-47b0-4070-b3e4-94a534aafabb;11/06/2023;Eduardo Guerra;Pedro Lucas Mendes;Pix;4;33,01;132,04;Mato Grosso;Câmera DSLR;PROD007;Áudio e Vídeo
+1d4fb224-2a62-4660-ab47-a2d741e89c4a;20/12/2023;Mateus da Mata;Isis Barbosa;Pix;2;441,25;882,5;Distrito Federal;Smartphone;PROD001;Eletrodomésticos
+4a124cfd-ee11-4a8d-95fe-fa5b641b3a7a;15/01/2023;Srta. Maria Julia Mendes;Sra. Sabrina Cirino;Cartão;3;171,32;513,96;Rio de Janeiro;Notebook;PROD002;Eletrônicos
+e59a5dcd-39fc-43a2-b17a-88ec74f9c49a;31/08/2023;Sr. Noah Sousa;Dr. Dom Mendes;Cartão;6;421,85;2531,1;Tocantins;Geladeira;PROD004;Eletrônicos
